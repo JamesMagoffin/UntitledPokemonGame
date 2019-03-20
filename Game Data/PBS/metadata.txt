@@ -2,13 +2,13 @@
 [000]
 PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,xxx
 PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,xxx
-Home=3,7,5,8
-SurfBGM=Surfing.mid
-BicycleBGM=Bicycle.mid
-WildBattleBGM=Battle wild.mid
+TrainerVictoryME=Battle victory trainer.ogg
 WildVictoryME=Battle victory wild.ogg
 TrainerBattleBGM=Battle trainer.mid
-TrainerVictoryME=Battle victory trainer.ogg
+SurfBGM=Surfing.mid
+BicycleBGM=Bicycle.mid
+Home=3,7,5,8
+WildBattleBGM=Battle wild.mid
 #-------------------------------
 [001]
 # Intro
@@ -154,6 +154,13 @@ MapSize=2,1101
 MapPosition=0,14,6
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[032]
+# DPPt Test
+BattleBack=
+WildVictoryME=Battle victory wild.ogg
+TrainerBattleBGM=Battle Trainer.mp3
+WildBattleBGM=Battle Wild Pokémon.mp3
 #-------------------------------
 [034]
 # Ice Cave
