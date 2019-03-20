@@ -1,0 +1,25 @@
+[799]
+Name=Guzzlord
+InternalName=GUZZLORD
+Type1=DARK
+Type2=DRAGON
+BaseStats=223,101,53,43,97,53
+GenderRate=Genderless
+GrowthRate=Slow
+BaseEXP=114
+EffortPoints=3,0,0,0,0,0
+Rareness=15
+Happiness=0
+Abilities=BEASTBOOST
+Moves=1,BELCH,1,WIDEGUARD,1,SWALLOW,1,STOCKPILE,1,DRAGONRAGE,1,BITE,7,STOMP,13,BRUTALSWING,19,STEAMROLLER,23,DRAGONTAIL,29,IRONTAIL,31,STOMPINGTANTRUM,37,CRUNCH,43,HAMMERARM,47,THRASH,53,GASTROACID,59,HEAVYSLAM,67,WRINGOUT,73,DRAGONRUSH
+Compatibility=Undiscovered
+StepsToHatch=30822
+Height=5.5
+Weight=888.0
+Color=Black
+Habitat=Rare
+Kind=Junkivore
+Pokedex=People claim to have seen it gobble mountains and swallow whole building. It is an Ultra Beast.
+BattlerPlayerY=78
+BattlerEnemyY=35
+Shape=10

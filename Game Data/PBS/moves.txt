@@ -670,3 +670,6 @@
 670,STOMPINGTANTRUM,Stomping Tantrum,0,75,GROUND,Physical,100,10,0,00,0,abef,"Driven by frustration, the user attacks the target. Doubles in power if previous move used, failed."
 671,ANCHORSHOT,Anchor Shot,CF11,80,STEEL,Physical,100,20,0,00,0,abe,"The user entangles the target with its anchor chain while attacking. The target becomes unable to flee."
 672,AURORAVEIL,Aurora Veil,CF6,0,ICE,Status,0,20,0,20,0,d,"This move reduces damage from physical and special moves for five turns, but can only be used in hail."
+673,PHOTONGEYSER,Photon Geyser,XXX,100,PSYCHIC,Special,100,5,0,00,0,bef,"The user attacks a target with a pillar of light. This move inflicts Attack or Sp. Atk damage—whichever stat is higher for the user."
+674,MINDBLOWN,Mind Blown,0FC,150,FIRE,Special,100,5,0,00,0,bef,"The user attacks everything around it by causing its own head to explode. This also damages the user."
+675,PLASMAFISTS,Plasma Fists,XXX,100,ELECTRIC,Physical,100,15,0,00,0,bef,"The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves."

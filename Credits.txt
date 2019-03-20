@@ -1,7 +1,37 @@
-Software Used
-
+-SOFTWARE USED-
 RPG Maker XP along with Pokemon Essentials project pack.
+Elite Battle System by Luka S.J 
 
-Elite Battle System by Luka S.J used. 
+-BATTLER SPRITES-
+Generations 1-5 - The Pokemon Company/GameFreak
+Generation 6 - Amethyst, Noscium, Quanyails, Zermonious, GeoIsEvil, Kyle Dove, dDialgaDiamondb, N-kin, Misterreno, Kevfin, Xtreme1992, Vale98PM and MrDollSteak.
+Generation 7 - Amethyst, Jan, Zumi, Bazaro, Koyo, Smeargletail, Alex, Noscium, Leparagon, N-kin, fishbowlsoul90, princess-phoenix, DatLopunnyTho, Conyjams, kaji atsu, The cynical poet, LuigiPlayer, Pokefan2000Falgaia of the Smogon S/M sprite project and Lord-Myre.  	
+Mega Pokemon - Amethyst, Bazaro, Gardrow, FlameJow, Minhnerd, The Cynical Poet, Greyenna, Brylark, Leparagon, Princess Phoenix, Gnomowladn, Bryancct, Tinivi and Julian
+
+-GENERATION 8- 
+Meltan (Front Battler) - conyjams
+Meltan (Back and Shiny Battlers) - Wolfang62 (based off conyjams Front Sprite)
+Meltan Follower Sprites - Wolfang62
+Melmetal (Front and Back Battlers (Shiny and non-Shiny)) - Wolfang62
+Melmetal Follower Sprites - SageDeoxys
+
+-FAKEMON-
+Tomatous - ShinyPhanpy (Battlers/Shiny/Icons/)
+
+-FOLLOWING POKEMON-
+Script, Gen 1-5 Graphics, Animations - Help-14, zingzags, Rayd12smitty, Venom12, mej71 
+Generation 6 Spriting - princess-phoenix, LunarDusk
+Generation 6 Formatting - Sparta
+
+-GENERATION 6 PROJECT-
+PBS Files - mej71, karstictrainer, WorldSlayer, TheDeKay, viperk1, SunakazeKun, Radical Raptr, RPD490, Takyon!, Pokegod7020
+Icons - Pikachumazzinga
+
+-GENERATION 7 ADDITIONAL (ICONS FOR POKEMON AND ITEMS/PBS FOR POKEMON/ITEMS/ABILITIES/TRAINER CLASSES/MOVES. SCRIPTS FOR ITEMS, ABILITIES AND MOVES. AUDIO)-
+SM Pack 2.0 - Zeak6464, TapuFini, SpartaLazor, leparagon, Bulbapedia, Serebii, M3rein, BlackOutG5, Rune
+
+
+INSERT CREDITS
+
 
 Additional Tilesets Used

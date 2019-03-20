@@ -230,3 +230,4 @@
 230,WATERBUBBLE,Water Bubble,"Lowers the damage taken from Fire-type moves and can't be burned."
 231,WATERCOMPACTION,Water Compaction,"Sharply boosts Defense when hit by a Water-type move."
 232,WIMPOUT,Wimp Out,"Switches the Pokémon out when its HP becomes half or less."
+233,NEUROFORCE,Neuroforce,"Increases the power of supereffective attacks."
