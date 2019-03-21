@@ -158,6 +158,7 @@ ShowArea=true
 [032]
 # DPPt Test
 BattleBack=
+Bicycle=true
 WildVictoryME=Battle victory wild.ogg
 TrainerBattleBGM=Battle Trainer.mp3
 WildBattleBGM=Battle Wild Pokémon.mp3
@@ -209,6 +210,9 @@ MapPosition=0,11,7
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
+#-------------------------------
+[043]
+# Diamond Town Pokemon Centre
 #-------------------------------
 [044]
 # Route 6
