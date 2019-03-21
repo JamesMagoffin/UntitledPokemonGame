@@ -159,9 +159,12 @@ ShowArea=true
 # DPPt Test
 BattleBack=
 Bicycle=true
-WildVictoryME=Battle victory wild.ogg
-TrainerBattleBGM=Battle Trainer.mp3
-WildBattleBGM=Battle Wild Pokémon.mp3
+TrainerVictoryME=VictoryTrainer.ogg
+WildVictoryME=VictoryWild.ogg
+TrainerBattleBGM=BattleTrainer.ogg
+Outdoor=true
+WildBattleBGM=BattleWild.ogg
+ShowArea=true
 #-------------------------------
 [034]
 # Ice Cave
@@ -241,6 +244,11 @@ Weather=Rain,0
 MapPosition=0,15,10
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[048]
+# Lilycove City - Childhood
+Bicycle=false
+Outdoor=true
 #-------------------------------
 [049]
 # Rock Cave
