@@ -36,3 +36,5 @@
 47,East,8,52,West,0
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
+# Route 1 (80) - Town (79)
+80,South,8,79,North,0
