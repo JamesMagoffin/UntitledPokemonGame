@@ -92,11 +92,9 @@ STARYU,15
 GOLDEEN,11
 #-------------------------------
 RIVAL1
-Blue
-3
-PIDGEOTTO,17
-RATTATA,15
-BULBASAUR,18
+Francis
+1
+CHIMCHAR,5
 #-------------------------------
 RIVAL1
 Blue,1
