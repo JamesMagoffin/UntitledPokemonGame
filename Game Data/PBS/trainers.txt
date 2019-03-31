@@ -117,3 +117,13 @@ YOUNGSTER
 Harry
 1
 SKIDDO,14,SITRUSBERRY,,,,,,M,,shiny
+#-------------------------------
+YOUNGSTER
+Curtis
+1
+ZIGZAGOON,3,,TACKLE,GROWL
+#-------------------------------
+YOUNGSTER
+Brent
+1
+SCATTERBUG,3,,TACKLE,STRINGSHOT

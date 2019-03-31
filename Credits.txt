@@ -41,3 +41,4 @@ FMOD Ex API - FIRELIGHT TECHNOLOGIES PTY LTD.
 RGSS - Enterbrain
 RGSS Linker, RGSS FmodEx (C++/Ruby), Audio (FmodEx) - Nuri Yuri
 LOOP_TABLE - GiraPrimal 
+Ambient Pokemon Cries Script - Vendily
