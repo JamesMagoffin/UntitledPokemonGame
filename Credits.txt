@@ -15,6 +15,10 @@ Meltan Follower Sprites - Wolfang62
 Melmetal (Front and Back Battlers (Shiny and non-Shiny)) - Wolfang62
 Melmetal Follower Sprites - SageDeoxys
 
+-TRAINER BATTLE SPRITES
+
+HGSS Sprites and trainertypes pbs - Nx-kun, Lemon, Sparta
+Pokemon Trainer Calem Trainer Sprites - tedbited15 
 -FAKEMON-
 Tomatous - ShinyPhanpy (Battlers/Shiny/Icons/)
 
@@ -34,6 +38,7 @@ SM Pack 2.0 - Zeak6464, TapuFini, SpartaLazor, leparagon, Bulbapedia, Serebii, M
 
 -TILESETS-
 Ziddys DS Style Tilesets RMXP - SytheXP for Sinnoh Tileset, Crazyninjaguy for HGSS tileset
+Cave Tileset - Various Deviantart Users (BoOmxBiG, Takai-of-the-Fire, Kyle-Dove, Speedialga, Alucus, Mucrush, kizemaru-kurunosuke, EpicDay, Thurpok, UltimoSpriter, iametrine, Minorthreat0987, TyranitarDark, SailorVicious, KKKaito, WesleyFG     
 
 -AUDIO-
 Music - The Pokemon Company/GameFreak

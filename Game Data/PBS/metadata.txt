@@ -1,14 +1,14 @@
 ﻿#-------------------------------
 [000]
-PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,xxx
-PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,xxx
-TrainerVictoryME=Battle victory trainer.ogg
-WildVictoryME=Battle victory wild.ogg
-TrainerBattleBGM=Battle trainer.mid
+PlayerA=POKEMONTRAINER_Lucas,boy,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,xxx
+PlayerB=POKEMONTRAINER_Dawn,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,xxx
+TrainerVictoryME=VictoryTrainer.ogg
+WildVictoryME=VictoryWild.ogg
+TrainerBattleBGM=BattleTrainer.ogg
 SurfBGM=Surfing.mid
 BicycleBGM=Bicycle.mid
 Home=83,5,10,8
-WildBattleBGM=Battle wild.mid
+WildBattleBGM=BattleWild.ogg
 #-------------------------------
 [001]
 # Intro
@@ -389,7 +389,7 @@ MapPosition=1,13,16
 Outdoor=true
 #-------------------------------
 [079]
-# Town
+# Dorbeach Town
 Bicycle=true
 Outdoor=true
 ShowArea=true
@@ -403,3 +403,20 @@ TrainerBattleBGM=BattleTrainer.ogg
 Outdoor=true
 WildBattleBGM=BattleWild.ogg
 ShowArea=true
+#-------------------------------
+[086]
+# Greenmarsh Town
+Bicycle=true
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+#-------------------------------
+[087]
+# Route 2
+SnapEdges=false
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[088]
+# Zubat Cave
+DarkMap=true
