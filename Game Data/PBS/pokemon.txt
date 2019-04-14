@@ -19543,7 +19543,7 @@ BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [669]
-Name=Flabebe
+Name=Flabébé
 InternalName=FLABEBE
 Type1=FAIRY
 BaseStats=44,38,39,42,61,79

@@ -75,3 +75,4 @@
 72,PICNICKER,Picnicker,60,,,,Female,,
 73,YOUNGSTER,Youngster,60,,,,Male,,
 74,BUGCATCHER,Bug Catcher,60,,,,Male,,
+75,POKEMONTRAINER_Calem,Pokémon Trainer,60,,,,Male,,

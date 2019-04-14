@@ -156,7 +156,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [032]
-# DPPt Test
+# Greenmarsh Pokemart
 BattleBack=
 Bicycle=true
 TrainerVictoryME=VictoryTrainer.ogg
@@ -215,7 +215,6 @@ BicycleAlways=true
 ShowArea=true
 #-------------------------------
 [043]
-# Diamond Town Pokemon Centre
 #-------------------------------
 [044]
 # Route 6
@@ -420,3 +419,9 @@ ShowArea=true
 [088]
 # Zubat Cave
 DarkMap=true
+#-------------------------------
+[090]
+# Eevee's Garden
+BattleBack=
+Outdoor=true
+ShowArea=true
