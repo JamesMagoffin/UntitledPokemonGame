@@ -158,13 +158,13 @@ ShowArea=true
 [032]
 # Greenmarsh Pokemart
 BattleBack=
-Bicycle=true
+Bicycle=false
 TrainerVictoryME=VictoryTrainer.ogg
 WildVictoryME=VictoryWild.ogg
 TrainerBattleBGM=BattleTrainer.ogg
-Outdoor=true
+Outdoor=false
 WildBattleBGM=BattleWild.ogg
-ShowArea=true
+ShowArea=false
 #-------------------------------
 [034]
 # Ice Cave
@@ -215,6 +215,10 @@ BicycleAlways=true
 ShowArea=true
 #-------------------------------
 [043]
+# Route 3
+Weather=Rain,50
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [044]
 # Route 6
@@ -403,6 +407,9 @@ Outdoor=true
 WildBattleBGM=BattleWild.ogg
 ShowArea=true
 #-------------------------------
+[081]
+# Neighbour's House
+#-------------------------------
 [086]
 # Greenmarsh Town
 Bicycle=true
@@ -418,7 +425,7 @@ ShowArea=true
 #-------------------------------
 [088]
 # Zubat Cave
-DarkMap=true
+DarkMap=false
 #-------------------------------
 [090]
 # Eevee's Garden

@@ -42,5 +42,7 @@
 80,South,8,79,North,0
 # Greenmarsh Town (86) - Route 1 (80)
 86,South,5,80,North,0
+# Route 3 (43) - Greenmarsh Town (86)
+43,South,0,86,North,7
 # Route 2 (87) - Greenmarsh Town (86)
 87,East,4,86,West,0
