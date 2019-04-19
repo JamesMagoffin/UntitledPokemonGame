@@ -430,5 +430,6 @@ DarkMap=false
 [090]
 # Eevee's Garden
 BattleBack=
+TrainerBattleBGM=Battle! Friend Long.mp3
 Outdoor=true
 ShowArea=true
