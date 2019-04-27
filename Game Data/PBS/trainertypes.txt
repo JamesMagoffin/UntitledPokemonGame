@@ -49,7 +49,7 @@
 46,ARTIST,Artist,60,,,,Male,,
 47,POKEMONBREEDER_M,Pokémon Breeder,60,,,,Male,,
 48,POKEMONBREEDER_F,Pokémon Breeder,60,,,,Female,,
-49,RANCHER,Rancher,60,,,,Female,,
+49,COWGIRL,Cowgirl,60,,,,Female,,
 50,JOGGER,Jogger,60,,,,Female,,
 51,POKEFAN_M,Poké-Fan,60,,,,Male,,
 52,POKEFAN_F,Poké-Fan,60,,,,Female,,
