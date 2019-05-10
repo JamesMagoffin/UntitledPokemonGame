@@ -592,3 +592,28 @@ BURMY,5,7
 FLABEBE,5,7
 BUDEW,5,7
 BUDEW,5,7
+#-------------------------------
+097 # Nuvaline Beach
+25,10,10
+OldRod
+MAGIKARP,5
+TENTACOOL,5
+#-------------------------------
+099 # Sagacity Lake
+25,10,10
+OldRod
+MAGIKARP,5
+GOLDEEN,5
+Land
+SPEAROW,3,5
+BUNNELBY,3,5
+ZIGZAGOON,3,5
+BIDOOF,3,5
+BIDOOF,3,5
+POOCHYENA,3,5
+PSYDUCK,3,5
+PSYDUCK,3,5
+BUNNELBY,3,5
+BIDOOF,3,5
+BIDOOF,3,5
+BIDOOF,3,5

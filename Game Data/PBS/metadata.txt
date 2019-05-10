@@ -214,6 +214,11 @@ Outdoor=true
 BicycleAlways=true
 ShowArea=true
 #-------------------------------
+[042]
+# Nuvaline City
+Outdoor=true
+ShowArea=true
+#-------------------------------
 [043]
 # Route 3
 Weather=Rain,50
@@ -433,3 +438,18 @@ BattleBack=
 TrainerBattleBGM=Battle! Friend Long.mp3
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[097]
+# Nuvaline Beach
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[099]
+# Sagacity Lake
+BattleBack=
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[106]
+# Hidden Grotto
+Outdoor=true

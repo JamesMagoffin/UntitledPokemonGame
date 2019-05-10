@@ -597,4 +597,5 @@
 674,FISHINGROD,Fishing Rod,Fishing Rods,8,0,"A Fishing Rod made by Captain Lana. Cast a line over piles of underwater rocks to fish for wild aquatic Pokémon.",2,0,6,
 675,PROFSMASK,Professor's Mask,Professor's Masks,8,0,"The mask that belongs to The Masked Royal. This pro wrestler apparently sews his mask on a machine himself.",0,0,6,
 676,FLASHGLASS,Flash's Glasses,Flash's Glasses,8,0,"A pair of glasses invented by Flash that enables the user to brighten dark caves.",2,0,6,
-676,GHOSTFLUTE,Summoning Flute,Summoning Flutes,8,0,"A flute used to summon a ancient ghastly Pokémon. Belongs to the Ghost Hunter.",0,0,6,
+677,GHOSTFLUTE,Summoning Flute,Summoning Flutes,8,0,"A flute used to summon a ancient ghastly Pokémon. Belongs to the Ghost Hunter.",0,0,6,
+678,CUTTINGAXE,Cutting Axe,Cutting Axes,8,0,"A axe used to cut down small trees. Invented by the Cut Man.",2,0,6,
