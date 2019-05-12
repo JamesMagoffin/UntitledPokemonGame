@@ -599,3 +599,4 @@
 676,FLASHGLASS,Flash's Glasses,Flash's Glasses,8,0,"A pair of glasses invented by Flash that enables the user to brighten dark caves.",2,0,6,
 677,GHOSTFLUTE,Summoning Flute,Summoning Flutes,8,0,"A flute used to summon a ancient ghastly Pokémon. Belongs to the Ghost Hunter.",0,0,6,
 678,CUTTINGAXE,Cutting Axe,Cutting Axes,8,0,"A axe used to cut down small trees. Invented by the Cut Man.",2,0,6,
+679,MYSTERYKEY,Mystery Key,Mystery Keys,8,0,"A mysterious key given to you as a prize for a perfect Magikarp.",0,0,6,

@@ -1,18 +1,3 @@
 TO DO
-
-Fix opening area dialouge to match later game
-Fix mums dialouge to match rest of the game.
-Change dialouge in opening. 
-Add 2 more quests to the game (One in Greenmarsh and one in Route 3)
-Fix Eevee Quest
-Fix Zubat Cave in general (really weird with events rn)
-Finish more houses in Nuvaline (Inc Rivals house)
-Add Rival Battle outside of Nuvaline before Gym
-Add Gym and Gym Battles
-Add Beach trainer battles
-Add Rod Retrival 
 MAYBE fix karp Katching
-Add encounters and people to Sagacity Lake.
-Add people to Nuvaline to walk around. 
-Connect maps
-Add fish encounters to beach. 
+

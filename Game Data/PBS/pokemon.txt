@@ -14263,6 +14263,7 @@ Height=0.3
 Weight=0.3
 Color=Red
 Shape=1
+RegionalNumbers=141
 Kind=Plasma
 Pokedex=Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.
 BattlerPlayerY=36

@@ -14,13 +14,17 @@ WildBattleBGM=BattleWild.ogg
 # Intro
 #-------------------------------
 [002]
+# Route 4
 MapPosition=0,13,12
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [003]
+# Abandoned House
 BattleBack=IndoorB
 MapPosition=0,13,12
+DarkMap=true
+WildBattleBGM=Battle! Legendary Pokémon.ogg
 HealingSpot=2,8,8
 #-------------------------------
 [004]
