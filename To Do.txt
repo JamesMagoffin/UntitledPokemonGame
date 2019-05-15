@@ -1,3 +1,4 @@
 TO DO
-MAYBE fix karp Katching
+Fix Great Ball Collision.
+weird double follower glitch
 
