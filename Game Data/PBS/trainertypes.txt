@@ -76,3 +76,5 @@
 73,YOUNGSTER,Youngster,60,,,,Male,,
 74,BUGCATCHER,Bug Catcher,60,,,,Male,,
 75,POKEMONTRAINER_Calem,Pokémon Trainer,60,,,,Male,,
+76,LEADER_Cas,Gym Leader,120,gymleader,,,Male,, 
+77,POKEMONTRAINER_Cynthia,Pokémon Trainer,60,cynthia,,,Female,,

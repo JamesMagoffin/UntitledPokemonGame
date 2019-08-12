@@ -18,7 +18,8 @@ Melmetal Follower Sprites - SageDeoxys
 -TRAINER BATTLE SPRITES
 
 HGSS Sprites and trainertypes pbs - Nx-kun, Lemon, Sparta
-Pokemon Trainer Calem Trainer Sprites - tedbited15 
+Pokemon Trainer Calem Trainer Sprites - tedbited15
+Pokemon Trainer Calem VS Sprite - Bucket-Boy
 -FAKEMON-
 Tomatous - ShinyPhanpy (Battlers/Shiny/Icons/)
 
@@ -47,3 +48,6 @@ RGSS - Enterbrain
 RGSS Linker, RGSS FmodEx (C++/Ruby), Audio (FmodEx) - Nuri Yuri
 LOOP_TABLE - GiraPrimal 
 Ambient Pokemon Cries Script - Vendily
+
+-SCRIPTS- 
+Delete Pokemon - Leilou

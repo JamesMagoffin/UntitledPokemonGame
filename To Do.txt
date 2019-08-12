@@ -1,10 +1,4 @@
 TO DO
+Fix Great Ball Collision.
+weird double follower glitch
 
-Finish Route 3
-Sort out the Flash situation
-Fix opening area dialouge to match later game
-Fix mums dialouge to match rest of the game.
-Add 2 more quests to the game (One in Greenmarsh and one in Route 3)
-Fix Eevee Quest
-Fix Zubat Cave in general (really weird with events rn)
-Fix Trainer music in Eevee garden
