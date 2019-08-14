@@ -1,11 +1,13 @@
+# Dratini Cove (6) - Meadowcove Farm (5)
+6,0,0,5,0,68
 # Greenmarsh Town (86) - Sagacity Lake (99)
 86,East,0,99,West,5
-# Nuvaline City (42) - Route 4 (2)
-42,North,0,2,South,14
 # Route XX (85) - Dorbeach Town (79)
 85,North,0,79,South,0
 # Route 1 (80) - Dorbeach Town (79)
 80,South,8,79,North,0
+# Nuvaline City (42) - Route 4 (2)
+42,North,0,2,South,20
 # Greenmarsh Town (86) - Route 1 (80)
 86,South,5,80,North,0
 # Route 2 (87) - Greenmarsh Town (86)

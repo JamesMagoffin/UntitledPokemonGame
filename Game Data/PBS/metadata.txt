@@ -41,7 +41,10 @@ ShowArea=true
 #-------------------------------
 [006]
 # Dratini Cove
+SnapEdges=false
 MapPosition=0,13,11
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [007]
 # Temp Storage
