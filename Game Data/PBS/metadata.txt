@@ -15,7 +15,7 @@ WildBattleBGM=BattleWild.ogg
 #-------------------------------
 [002]
 # Route 4
-BattleBack=FieldSand
+BattleBack=Beach
 MapPosition=0,13,12
 Outdoor=true
 ShowArea=true
@@ -393,6 +393,10 @@ ShowArea=true
 BattleBack=
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[105]
+# Nuvaline Gym
+BattleBack=Forest
 #-------------------------------
 [106]
 # Hidden Grotto
