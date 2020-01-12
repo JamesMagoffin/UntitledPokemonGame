@@ -7,21 +7,17 @@ Generations 1-5 - The Pokemon Company/GameFreak
 Generation 6 - Amethyst, Noscium, Quanyails, Zermonious, GeoIsEvil, Kyle Dove, dDialgaDiamondb, N-kin, Misterreno, Kevfin, Xtreme1992, Vale98PM and MrDollSteak.
 Generation 7 - Amethyst, Jan, Zumi, Bazaro, Koyo, Smeargletail, Alex, Noscium, Leparagon, N-kin, fishbowlsoul90, princess-phoenix, DatLopunnyTho, Conyjams, kaji atsu, The cynical poet, LuigiPlayer, Pokefan2000Falgaia of the Smogon S/M sprite project and Lord-Myre.  	
 Mega Pokemon - Amethyst, Bazaro, Gardrow, FlameJow, Minhnerd, The Cynical Poet, Greyenna, Brylark, Leparagon, Princess Phoenix, Gnomowladn, Bryancct, Tinivi and Julian
+Gen 6/7 Animated Sprites - Yisal Team Member Danvex203
 
 -GENERATION 8- 
-Meltan (Front Battler) - conyjams
-Meltan (Back and Shiny Battlers) - Wolfang62 (based off conyjams Front Sprite)
-Meltan Follower Sprites - Wolfang62
-Melmetal (Front and Back Battlers (Shiny and non-Shiny)) - Wolfang62
-Melmetal Follower Sprites - SageDeoxys
+Meltan Follower Sprites - Wolfang62 and Larryturbo
+Melmetal Follower Sprites - Wolfang62 and Larryturbo
 
 -TRAINER BATTLE SPRITES
 
 HGSS Sprites and trainertypes pbs - Nx-kun, Lemon, Sparta
 Pokemon Trainer Calem Trainer Sprites - tedbited15
 Pokemon Trainer Calem VS Sprite - Bucket-Boy
--FAKEMON-
-Tomatous - ShinyPhanpy (Battlers/Shiny/Icons/)
 
 -FOLLOWING POKEMON-
 Script, Gen 1-5 Graphics, Animations - Help-14, zingzags, Rayd12smitty, Venom12, mej71 
@@ -40,6 +36,7 @@ SM Pack 2.0 - Zeak6464, TapuFini, SpartaLazor, leparagon, Bulbapedia, Serebii, M
 -TILESETS-
 Ziddys DS Style Tilesets RMXP - SytheXP for Sinnoh Tileset, Crazyninjaguy for HGSS tileset
 Cave Tileset - Various Deviantart Users (BoOmxBiG, Takai-of-the-Fire, Kyle-Dove, Speedialga, Alucus, Mucrush, kizemaru-kurunosuke, EpicDay, Thurpok, UltimoSpriter, iametrine, Minorthreat0987, TyranitarDark, SailorVicious, KKKaito, WesleyFG     
+Tileset ver.3 - Magiscarf
 
 -AUDIO-
 Music - The Pokemon Company/GameFreak
@@ -51,3 +48,7 @@ Ambient Pokemon Cries Script - Vendily
 
 -SCRIPTS- 
 Delete Pokemon - Leilou
+Easy Questing Interface - Marin 
+HM Items - Marin	
+Modular Menu - Luka S.J
+Easy Mouse System - Luka S.J
