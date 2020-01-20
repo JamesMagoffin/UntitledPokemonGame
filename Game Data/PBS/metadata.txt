@@ -116,8 +116,9 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [023]
+# Gate (3-4)
 MapPosition=0,15,8
-Outdoor=true
+Outdoor=false
 ShowArea=true
 #-------------------------------
 [024]
