@@ -54,47 +54,61 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [008]
+# Mitelikos Town
 MapPosition=0,13,12
 #-------------------------------
 [009]
+# New Maps
 MapPosition=0,14,10
 HealingSpot=8,17,11
 #-------------------------------
 [010]
+# Starting Town
 BattleBack=IndoorB
 MapPosition=0,13,10
 #-------------------------------
 [011]
+# House
 MapPosition=0,14,10
 #-------------------------------
 [012]
+# Bedroom
 MapPosition=0,14,10
 #-------------------------------
 [013]
+# House
 MapPosition=0,14,10
 #-------------------------------
 [014]
+# House
 MapPosition=0,13,10
 #-------------------------------
 [015]
+# House
 MapPosition=0,13,10
 #-------------------------------
 [016]
+# House
 MapPosition=0,13,10
 #-------------------------------
 [017]
+# House
 MapPosition=0,13,10
 #-------------------------------
 [018]
+# Bedroom
 MapPosition=0,13,10
 #-------------------------------
 [019]
+# Route 1
 MapPosition=0,13,10
 #-------------------------------
 [020]
+# Berry Guy's House
 MapPosition=0,13,10
 #-------------------------------
 [021]
+# Route 3
 MapSize=1,11
 Weather=Rain,50
 MapPosition=0,14,8
