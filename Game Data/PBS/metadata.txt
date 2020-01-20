@@ -4,10 +4,10 @@ PlayerA=POKEMONTRAINER_Charlie,player01,player01_bike,boy_surf,player01_run,boy_
 PlayerB=POKEMONTRAINER_Robin,player02,player02_bike,boy_surf,player02_run,boy_surf,boy_fish_offset,xxx
 PlayerC=POKEMONTRAINER_Dylan,player03,player03_bike,boy_surf,player03_run,boy_surf,boy_fish_offset,xxx
 PlayerD=POKEMONTRAINER_Riley,player04,player04_bike,boy_surf,player04_run,boy_surf,boy_fish_offset,xxx
-PlayerE=POKEMONTRAINER_Emery,player05,player05_bike,boy_surf,player05_run,boy_surf,boy_fish_offset,xxx
-PlayerF=POKEMONTRAINER_Avery,player06,player06_bike,boy_surf,player06_run,boy_surf,boy_fish_offset,xxx
 TrainerVictoryME=VictoryTrainer.ogg
+PlayerE=POKEMONTRAINER_Emery,player05,player05_bike,boy_surf,player05_run,boy_surf,boy_fish_offset,xxx
 WildVictoryME=VictoryWild.ogg
+PlayerF=POKEMONTRAINER_Avery,player06,player06_bike,boy_surf,player06_run,boy_surf,boy_fish_offset,xxx
 TrainerBattleBGM=BattleTrainer.ogg
 SurfBGM=Surfing.mid
 BicycleBGM=Bicycle.mid
@@ -33,7 +33,7 @@ WildBattleBGM=Battle! Legendary Pokémon.ogg
 HealingSpot=2,8,8
 #-------------------------------
 [004]
-# Path 1
+# Old Maps
 MapPosition=0,13,12
 ShowArea=false
 #-------------------------------
@@ -70,6 +70,7 @@ HealingSpot=8,17,11
 # Starting Town
 BattleBack=IndoorB
 MapPosition=0,13,10
+Outdoor=true
 #-------------------------------
 [011]
 # House
@@ -106,6 +107,7 @@ MapPosition=0,13,10
 [019]
 # Route 1
 MapPosition=0,13,10
+Outdoor=true
 #-------------------------------
 [020]
 # Berry Guy's House
@@ -119,6 +121,10 @@ MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
 #-------------------------------
+[022]
+# Route 4
+Outdoor=true
+#-------------------------------
 [023]
 # Gate (3-4)
 MapPosition=0,15,8
@@ -126,14 +132,18 @@ Outdoor=false
 ShowArea=true
 #-------------------------------
 [024]
+# Select Avatar
 MapPosition=0,15,8
 HealingSpot=23,11,15
 #-------------------------------
 [025]
+# Post Select Void
 MapPosition=0,15,8
 #-------------------------------
 [026]
+# Route 2
 MapPosition=0,15,8
+Outdoor=true
 #-------------------------------
 [027]
 MapPosition=0,15,8
