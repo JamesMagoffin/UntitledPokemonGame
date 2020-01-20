@@ -18,9 +18,3 @@
 87,East,4,86,West,0
 # Route 3 (43) - Greenmarsh Town (86)
 43,South,0,86,North,7
-# Route 3 (21) - Route 1 (19)
-21,North,6,19,South,0
-# Starting Town (10) - Route 1 (19)
-10,East,0,19,West,0
-# Starting Town (10) - Route 3 (21)
-10,South,96,21,North,0
