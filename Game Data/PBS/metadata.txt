@@ -81,7 +81,7 @@ MapPosition=0,14,10
 MapPosition=0,14,10
 #-------------------------------
 [013]
-# House
+# Player House
 MapPosition=0,14,10
 #-------------------------------
 [014]
@@ -158,12 +158,14 @@ ShowArea=true
 MapPosition=0,15,8
 #-------------------------------
 [028]
+# Bedroom
 BattleBack=Forest
 MapPosition=0,16,8
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [029]
+# Meadowcove Farm
 Bicycle=true
 MapPosition=0,16,8
 #-------------------------------

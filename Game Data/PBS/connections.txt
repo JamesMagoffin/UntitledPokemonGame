@@ -18,8 +18,12 @@
 87,East,4,86,West,0
 # Route 3 (43) - Greenmarsh Town (86)
 43,South,0,86,North,7
+# Meadowcove Farm (29) - Route 4 (22)
+29,South,0,22,North,37
 # Route 3 (21) - Route 4 (22)
 21,East,11,22,West,0
+# Route 2 (26) - Meadowcove Farm (29)
+26,South,92,29,North,0
 # Route 2 (26) - Route 1 (19)
 26,South,0,19,North,16
 # Route 3 (21) - Route 1 (19)
