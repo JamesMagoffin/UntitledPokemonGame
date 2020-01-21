@@ -106,8 +106,11 @@ MapPosition=0,13,10
 #-------------------------------
 [019]
 # Route 1
+BattleBack=
+Bicycle=true
 MapPosition=0,13,10
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [020]
 # Berry Guy's House
@@ -123,7 +126,10 @@ ShowArea=true
 #-------------------------------
 [022]
 # Route 4
+Weather=Rain,10
+Bicycle=true
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [023]
 # Gate (3-4)
@@ -142,10 +148,13 @@ MapPosition=0,15,8
 #-------------------------------
 [026]
 # Route 2
+Weather=Rain,10
 MapPosition=0,15,8
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [027]
+# UNUSED
 MapPosition=0,15,8
 #-------------------------------
 [028]
