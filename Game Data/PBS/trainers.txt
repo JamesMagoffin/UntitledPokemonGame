@@ -299,3 +299,8 @@ Antonio
 2
 NOSEPASS,15
 GEODUDE,14
+#-------------------------------
+RIVAL1
+Francis,2
+1
+PIKACHU,5,,GROWL,THUNDERSHOCK,TAILWHIP

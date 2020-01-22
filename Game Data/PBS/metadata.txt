@@ -62,7 +62,7 @@ ShowArea=true
 MapPosition=0,13,12
 #-------------------------------
 [009]
-# New Maps
+# Route 5
 MapPosition=0,14,10
 HealingSpot=8,17,11
 #-------------------------------
