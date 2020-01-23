@@ -20,25 +20,33 @@
 43,South,0,86,North,7
 # Meadowcove Farm (29) - Route 4 (22)
 29,South,0,22,North,32
+# Route 1 (19) - Route 4 (22)
+19,South,71,22,North,0
+# Route 5 (9) - Route 4 (22)
+9,South,31,22,North,0
+# Starting Town (10) - Route 4 (22)
+10,South,173,22,North,0
 # Route 3 (21) - Route 4 (22)
-21,East,11,22,West,0
+21,East,0,22,West,0
 # Route 5 (9) - Meadowcove Farm (29)
 9,East,0,29,West,0
 # Route 2 (26) - Meadowcove Farm (29)
 26,South,87,29,North,0
+# Route 3 (21) - Meadowcove Farm (29)
+21,North,109,29,South,0
 # Route 5 (9) - Route 1 (19)
 9,West,0,19,East,0
 # Route 2 (26) - Route 1 (19)
 26,South,0,19,North,16
-# Route 3 (21) - Route 1 (19)
-21,North,6,19,South,0
 # Starting Town (10) - Route 1 (19)
 10,East,0,19,West,0
+# Route 3 (21) - Route 1 (19)
+21,North,6,19,South,0
 # Route 2 (26) - Route 5 (9)
 26,South,24,9,North,0
 # Route 3 (21) - Route 5 (9)
 21,North,46,9,South,0
 # Starting Town (10) - Route 2 (26)
 10,North,118,26,South,0
-# Starting Town (10) - Route 3 (21)
-10,South,96,21,North,0
+# Route 3 (21) - Starting Town (10)
+21,North,0,10,South,96
