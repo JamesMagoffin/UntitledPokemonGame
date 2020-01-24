@@ -31,6 +31,22 @@ SHINX,3,5
 STARLY,3,5
 SHINX,3,5
 #-------------------------------
+030 # Zubat's Roost
+25,13,10
+Cave
+ZUBAT,11
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+#-------------------------------
 043 # Route 3
 25,10,10
 Land
