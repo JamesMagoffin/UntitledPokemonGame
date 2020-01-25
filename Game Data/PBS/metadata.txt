@@ -64,10 +64,12 @@ MapPosition=0,13,12
 [009]
 # Route 5
 MapPosition=0,14,10
+Outdoor=true
 HealingSpot=8,17,11
+ShowArea=true
 #-------------------------------
 [010]
-# Starting Town
+# Fayriver Town
 BattleBack=IndoorB
 MapPosition=0,13,10
 Outdoor=true
@@ -119,14 +121,13 @@ MapPosition=0,13,10
 [021]
 # Route 3
 MapSize=1,11
-Weather=Rain,50
 MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [022]
 # Route 4
-Weather=Rain,10
+Weather=Rain,0
 Bicycle=true
 Outdoor=true
 ShowArea=true
@@ -135,11 +136,13 @@ ShowArea=true
 # Gate (3-4)
 MapPosition=0,15,8
 Outdoor=false
-ShowArea=true
+ShowArea=false
 #-------------------------------
 [024]
 # Select Avatar
+Bicycle=false
 MapPosition=0,15,8
+DarkMap=false
 HealingSpot=23,11,15
 #-------------------------------
 [025]
@@ -148,7 +151,6 @@ MapPosition=0,15,8
 #-------------------------------
 [026]
 # Route 2
-Weather=Rain,10
 MapPosition=0,15,8
 Outdoor=true
 ShowArea=true
@@ -168,8 +170,11 @@ ShowArea=true
 # Meadowcove Farm
 Bicycle=true
 MapPosition=0,16,8
+Outdoor=true
+ShowArea=false
 #-------------------------------
 [030]
+# Zubat's Roost
 MapPosition=0,16,8
 #-------------------------------
 [031]

@@ -15,6 +15,22 @@ OSHAWOTT,10,14
 WINGULL,10,14
 OSHAWOTT,10,14
 #-------------------------------
+009 # Route 5
+25,10,10
+Land
+PIDOVE,7,9
+KRICKETOT,7,9
+CATERPIE,7,9
+CATERPIE,7,9
+STUFFUL,7,9
+CUTIEFLY,7,9
+STUFFUL,7,9
+BUNEARY,7,9
+BUNEARY,7,9
+SKIDDO,7,9
+BUNEARY,7,9
+SKIDDO,7,9
+#-------------------------------
 019 # Route 1
 25,10,10
 Land
@@ -47,6 +63,22 @@ LITLEO,5,7
 SEWADDLE,5,7
 LITLEO,5,7
 #-------------------------------
+022 # Route 4
+25,10,10
+Land
+WINGULL,7,9
+POOCHYENA,7,9
+PATRAT,7,9
+PATRAT,7,9
+PSYDUCK,7,9
+DWEBBLE,7,9
+LOTAD,7,9
+LOTAD,7,9
+PSYDUCK,7,9
+WOOPER,7,9
+PSYDUCK,7,9
+WOOPER,7,9
+#-------------------------------
 026 # Route 2
 25,10,10
 Land
@@ -62,6 +94,22 @@ HOPPIP,5,7
 BUDEW,5,7
 HOPPIP,5,7
 BUDEW,5,7
+#-------------------------------
+029 # Meadowcove Farm
+25,10,10
+Land
+SEEDOT,7,9
+SUNKERN,7,9
+LILLIPUP,7,9
+LILLIPUP,7,9
+MAREEP,7,9
+MUDBRAY,7,9
+SPOINK,7,9
+SPOINK,7,9
+MAREEP,7,9
+SKIDDO,7,9
+MAREEP,7,9
+PUMPKABOO,7,9
 #-------------------------------
 030 # Zubat's Roost
 25,13,10
