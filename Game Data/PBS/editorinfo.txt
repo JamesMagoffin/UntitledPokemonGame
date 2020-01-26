@@ -1,4 +1,4 @@
 [POKEDEXES]
-pokedex1=Kanto
+pokedex1=Yisal
 pokedex2=Johto
 pokedex3=National

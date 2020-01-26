@@ -289,11 +289,6 @@ Rebecca
 SANDILE,15
 MAGBY,14
 #-------------------------------
-WAITER
-Harry
-1
-SOBBLE,15
-#-------------------------------
 RUINMANIAC
 Antonio
 2
@@ -304,3 +299,8 @@ RIVAL1
 Francis,2
 1
 PIKACHU,5,,GROWL,THUNDERSHOCK,TAILWHIP
+#-------------------------------
+WAITER
+Harry
+1
+BULBASAUR,10,,TACKLE,GROWL,LEECHSEED,VINEWHIP
