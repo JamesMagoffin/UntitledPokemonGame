@@ -54,3 +54,4 @@ Easy Questing Interface - Marin
 HM Items - Marin	
 Modular Menu - Luka S.J
 Easy Mouse System - Luka S.J
+Visible Overworld Wild Encounters Version 1.6 - derFischae
