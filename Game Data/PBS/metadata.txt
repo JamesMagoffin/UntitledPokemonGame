@@ -12,7 +12,7 @@ TrainerBattleBGM=BattleTrainer.ogg
 SurfBGM=Surfing.mid
 BicycleBGM=Bicycle.mid
 Home=83,5,10,8
-WildBattleBGM=BattleWild.ogg
+WildBattleBGM=WildNormalBW.ogg
 #-------------------------------
 [001]
 # Intro
@@ -181,6 +181,7 @@ MapPosition=0,16,8
 MapSize=2,1101
 MapPosition=0,14,6
 Outdoor=true
+WildBattleBGM=WildGrottoBW.ogg
 ShowArea=true
 #-------------------------------
 [032]
