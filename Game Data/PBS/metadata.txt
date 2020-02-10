@@ -75,11 +75,10 @@ MapPosition=0,13,10
 Outdoor=true
 #-------------------------------
 [011]
-# House
+# Library
 MapPosition=0,14,10
 #-------------------------------
 [012]
-# Bedroom
 MapPosition=0,14,10
 #-------------------------------
 [013]
@@ -99,11 +98,10 @@ MapPosition=0,13,10
 MapPosition=0,13,10
 #-------------------------------
 [017]
-# House
+# School
 MapPosition=0,13,10
 #-------------------------------
 [018]
-# Bedroom
 MapPosition=0,13,10
 #-------------------------------
 [019]
@@ -178,6 +176,7 @@ ShowArea=false
 MapPosition=0,16,8
 #-------------------------------
 [031]
+# Hidden Grotto
 MapSize=2,1101
 MapPosition=0,14,6
 Outdoor=true
@@ -196,16 +195,19 @@ WildBattleBGM=BattleWild.ogg
 ShowArea=false
 #-------------------------------
 [034]
+# Hidden Grotto
 BattleBack=IndoorC
 Bicycle=true
 MapPosition=0,15,6
 #-------------------------------
 [035]
+# Hidden Grotto
 MapPosition=0,13,6
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [036]
+# Hidden Grotto
 MapPosition=0,13,6
 HealingSpot=35,17,7
 #-------------------------------
