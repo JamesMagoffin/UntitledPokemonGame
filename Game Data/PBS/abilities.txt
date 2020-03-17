@@ -231,3 +231,4 @@
 231,WATERCOMPACTION,Water Compaction,"Sharply boosts Defense when hit by a Water-type move."
 232,WIMPOUT,Wimp Out,"Switches the Pokémon out when its HP becomes half or less."
 233,NEUROFORCE,Neuroforce,"Increases the power of supereffective attacks."
+234,WANDERINGSPIRIT,Wandering Spirit,"The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact."
