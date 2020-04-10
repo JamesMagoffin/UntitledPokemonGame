@@ -69,7 +69,7 @@ HealingSpot=8,17,11
 ShowArea=true
 #-------------------------------
 [010]
-# Fayriver Town
+# Fayriver Town (Old)
 BattleBack=IndoorB
 MapPosition=0,13,10
 Outdoor=true
@@ -79,6 +79,7 @@ Outdoor=true
 MapPosition=0,14,10
 #-------------------------------
 [012]
+# MAP012
 MapPosition=0,14,10
 #-------------------------------
 [013]
@@ -102,6 +103,7 @@ MapPosition=0,13,10
 MapPosition=0,13,10
 #-------------------------------
 [018]
+# MAP018
 MapPosition=0,13,10
 #-------------------------------
 [019]
@@ -219,6 +221,7 @@ MapPosition=0,13,6
 MapPosition=0,13,6
 #-------------------------------
 [039]
+# Fayriver Town Redesign
 MapSize=2,11
 MapPosition=0,11,6
 Outdoor=true
