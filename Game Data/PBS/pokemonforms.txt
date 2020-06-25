@@ -2,157 +2,191 @@
 [PICHU-1]
 FormName=Spiky-Eared
 BattlerPlayerY=0
+BattlerEnemyY=10
+BattlerAltitude=0
 #-------------------------------
 [UNOWN-1]
 FormName=Bear
 BattlerPlayerY=32
 BattlerEnemyY=28
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-2]
 FormName=Chase
 BattlerPlayerY=32
 BattlerEnemyY=28
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-3]
 FormName=Direct
 BattlerPlayerY=32
 BattlerEnemyY=28
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-4]
 FormName=Engage
 BattlerPlayerY=33
 BattlerEnemyY=29
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-5]
 FormName=Find
 BattlerPlayerY=33
 BattlerEnemyY=29
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-6]
 FormName=Give
 BattlerPlayerY=30
 BattlerEnemyY=26
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-7]
 FormName=Help
 BattlerPlayerY=32
 BattlerEnemyY=28
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-8]
 FormName=Increase
 BattlerPlayerY=32
 BattlerEnemyY=28
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-9]
 FormName=Join
 BattlerPlayerY=33
 BattlerEnemyY=29
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-10]
 FormName=Keep
 BattlerPlayerY=33
 BattlerEnemyY=29
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-11]
 FormName=Laugh
 BattlerPlayerY=35
 BattlerEnemyY=31
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-12]
 FormName=Make
 BattlerPlayerY=35
 BattlerEnemyY=31
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-13]
 FormName=Nuzzle
 BattlerPlayerY=36
 BattlerEnemyY=32
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-14]
 FormName=Observe
 BattlerPlayerY=32
 BattlerEnemyY=28
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-15]
 FormName=Perform
 BattlerPlayerY=38
 BattlerEnemyY=31
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-16]
 FormName=Quicken
 BattlerPlayerY=37
 BattlerEnemyY=33
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-17]
 FormName=Reassure
 BattlerPlayerY=35
 BattlerEnemyY=31
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-18]
 FormName=Search
 BattlerPlayerY=30
 BattlerEnemyY=24
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-19]
 FormName=Tell
 BattlerPlayerY=36
 BattlerEnemyY=30
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-20]
 FormName=Undo
 BattlerPlayerY=36
 BattlerEnemyY=30
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-21]
 FormName=Vanish
 BattlerPlayerY=35
 BattlerEnemyY=30
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-22]
 FormName=Want
 BattlerPlayerY=36
 BattlerEnemyY=31
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-23]
 FormName=XXXXX
 BattlerPlayerY=37
 BattlerEnemyY=33
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-24]
 FormName=Yield
 BattlerPlayerY=33
 BattlerEnemyY=29
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-25]
 FormName=Zoom
 BattlerPlayerY=32
 BattlerEnemyY=28
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-26]
 FormName=?????
 BattlerPlayerY=32
 BattlerEnemyY=25
+BattlerAltitude=19
 #-------------------------------
 [UNOWN-27]
 FormName=!!!!!
+BattlerEnemyY=25
+BattlerPlayerY=8
+BattlerAltitude=19
 #-------------------------------
 [CASTFORM-1]
 FormName=Sunny Form
 Type1=FIRE
 BattlerPlayerY=22
 BattlerEnemyY=21
+BattlerAltitude=20
 #-------------------------------
 [CASTFORM-2]
 FormName=Rainy Form
 Type1=WATER
 BattlerPlayerY=26
 BattlerEnemyY=21
+BattlerAltitude=20
 #-------------------------------
 [CASTFORM-3]
 FormName=Snowy Form
 Type1=ICE
 BattlerPlayerY=24
 BattlerEnemyY=20
+BattlerAltitude=20
 #-------------------------------
 [DEOXYS-1]
 FormName=Attack Forme
@@ -161,6 +195,7 @@ EffortPoints=0,2,0,0,1,0
 Moves=1,LEER,1,WRAP,9,NIGHTSHADE,17,TELEPORT,25,TAUNT,33,PURSUIT,41,PSYCHIC,49,SUPERPOWER,57,PSYCHOSHIFT,65,ZENHEADBUTT,73,COSMICPOWER,81,ZAPCANNON,89,PSYCHOBOOST,97,HYPERBEAM
 BattlerPlayerY=6
 BattlerEnemyY=8
+BattlerAltitude=0
 #-------------------------------
 [DEOXYS-2]
 FormName=Defense Forme
@@ -168,6 +203,8 @@ BaseStats=50,70,160,90,70,160
 EffortPoints=0,0,2,0,0,1
 Moves=1,LEER,1,WRAP,9,NIGHTSHADE,17,TELEPORT,25,KNOCKOFF,33,SPIKES,41,PSYCHIC,49,SNATCH,57,PSYCHOSHIFT,65,ZENHEADBUTT,73,IRONDEFENSE,73,AMNESIA,81,RECOVER,89,PSYCHOBOOST,97,COUNTER,97,MIRRORCOAT
 BattlerEnemyY=8
+BattlerPlayerY=10
+BattlerAltitude=0
 #-------------------------------
 [DEOXYS-3]
 FormName=Speed Forme
@@ -175,15 +212,20 @@ BaseStats=50,95,90,180,95,90
 EffortPoints=0,0,0,3,0,0
 Moves=1,LEER,1,WRAP,9,NIGHTSHADE,17,DOUBLETEAM,25,KNOCKOFF,33,PURSUIT,41,PSYCHIC,49,SWIFT,57,PSYCHOSHIFT,65,ZENHEADBUTT,73,AGILITY,81,RECOVER,89,PSYCHOBOOST,97,EXTREMESPEED
 BattlerPlayerY=9
+BattlerEnemyY=15
+BattlerAltitude=0
 #-------------------------------
 [BURMY-1]
 FormName=Sandy Cloak
 BattlerPlayerY=28
 BattlerEnemyY=22
+BattlerAltitude=15
 #-------------------------------
 [BURMY-2]
 FormName=Trash Cloak
 BattlerEnemyY=18
+BattlerPlayerY=17
+BattlerAltitude=15
 #-------------------------------
 [WORMADAM-1]
 FormName=Sandy Cloak
@@ -193,6 +235,8 @@ BaseStats=60,79,105,36,59,85
 EffortPoints=0,0,2,0,0,0
 Moves=1,TACKLE,10,PROTECT,15,BUGBITE,20,HIDDENPOWER,23,CONFUSION,26,ROCKBLAST,29,HARDEN,32,PSYBEAM,35,CAPTIVATE,38,FLAIL,41,ATTRACT,44,PSYCHIC,47,FISSURE
 BattlerPlayerY=23
+BattlerEnemyY=39
+BattlerAltitude=12
 #-------------------------------
 [WORMADAM-2]
 FormName=Trash Cloak
@@ -202,24 +246,34 @@ BaseStats=60,69,95,36,69,95
 EffortPoints=0,0,1,0,0,1
 Moves=1,TACKLE,10,PROTECT,15,BUGBITE,20,HIDDENPOWER,23,CONFUSION,26,MIRRORSHOT,29,METALSOUND,32,PSYBEAM,35,CAPTIVATE,38,FLAIL,41,ATTRACT,44,PSYCHIC,47,IRONHEAD
 BattlerPlayerY=23
+BattlerEnemyY=39
+BattlerAltitude=12
 #-------------------------------
 [CHERRIM-1]
 FormName=Sunshine Form
 BattlerPlayerY=29
 BattlerEnemyY=25
+BattlerAltitude=0
 #-------------------------------
 [SHELLOS-1]
 FormName=East Sea
+BattlerEnemyY=12
+BattlerPlayerY=10
+BattlerAltitude=0
 #-------------------------------
 [GASTRODON-1]
 FormName=East Sea
 BattlerPlayerY=21
+BattlerEnemyY=20
+BattlerAltitude=0
 #-------------------------------
 [ROTOM-1]
 FormName=Heat Rotom
 Type1=ELECTRIC
 Type2=FIRE
 BattlerPlayerY=22
+BattlerEnemyY=48
+BattlerAltitude=13
 #-------------------------------
 [ROTOM-2]
 FormName=Wash Rotom
@@ -235,6 +289,7 @@ Type1=ELECTRIC
 Type2=ICE
 BattlerPlayerY=14
 BattlerEnemyY=11
+BattlerAltitude=13
 #-------------------------------
 [ROTOM-4]
 FormName=Fan Rotom
@@ -262,6 +317,7 @@ Weight=650.0
 Shape=2
 BattlerEnemyY=4
 BattlerAltitude=10
+BattlerPlayerY=28
 #-------------------------------
 [SHAYMIN-1]
 FormName=Sky Forme
@@ -275,74 +331,126 @@ Height=0.4
 Weight=5.2
 BattlerPlayerY=22
 BattlerEnemyY=18
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-1]
 FormName=Fighting Type
 Type1=FIGHTING
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-2]
 FormName=Flying Type
 Type1=FLYING
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-3]
 FormName=Poison Type
 Type1=POISON
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-4]
 FormName=Ground Type
 Type1=GROUND
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-5]
 FormName=Rock Type
 Type1=ROCK
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-6]
 FormName=Bug Type
 Type1=BUG
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-7]
 FormName=Ghost Type
 Type1=GHOST
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-8]
 FormName=Steel Type
 Type1=STEEL
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-9]
 FormName=Unknown Type
 Type1=QMARKS
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-10]
 FormName=Fire Type
 Type1=FIRE
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-11]
 FormName=Water Type
 Type1=WATER
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-12]
 FormName=Grass Type
 Type1=GRASS
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-13]
 FormName=Electric Type
 Type1=ELECTRIC
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-14]
 FormName=Psychic Type
 Type1=PSYCHIC
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-15]
 FormName=Ice Type
 Type1=ICE
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-16]
 FormName=Dragon Type
 Type1=DRAGON
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [ARCEUS-17]
 FormName=Dark Type
 Type1=DARK
+BattlerEnemyY=17
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [BASCULIN-1]
 FormName=Blue-Striped
@@ -350,6 +458,8 @@ Abilities=ROCKHEAD,ADAPTABILITY
 HiddenAbility=MOLDBREAKER
 WildItemUncommon=DEEPSEASCALE
 BattlerEnemyY=37
+BattlerPlayerY=15
+BattlerAltitude=10
 #-------------------------------
 [DARMANITAN-1]
 FormName=Zen Mode
@@ -359,24 +469,43 @@ BaseStats=105,30,105,55,140,105
 EffortPoints=0,0,0,0,2,0
 BattlerPlayerY=30
 BattlerEnemyY=33
+BattlerAltitude=0
 #-------------------------------
 [DEERLING-1]
 FormName=Summer Form
+BattlerEnemyY=12
+BattlerPlayerY=6
+BattlerAltitude=0
 #-------------------------------
 [DEERLING-2]
 FormName=Autumn Form
+BattlerEnemyY=12
+BattlerPlayerY=6
+BattlerAltitude=0
 #-------------------------------
 [DEERLING-3]
 FormName=Winter Form
+BattlerEnemyY=12
+BattlerPlayerY=6
+BattlerAltitude=0
 #-------------------------------
 [SAWSBUCK-1]
 FormName=Summer Form
+BattlerEnemyY=17
+BattlerPlayerY=7
+BattlerAltitude=0
 #-------------------------------
 [SAWSBUCK-2]
 FormName=Autumn Form
+BattlerEnemyY=17
+BattlerPlayerY=7
+BattlerAltitude=0
 #-------------------------------
 [SAWSBUCK-3]
 FormName=Winter Form
+BattlerEnemyY=17
+BattlerPlayerY=7
+BattlerAltitude=0
 #-------------------------------
 [TORNADUS-1]
 FormName=Therian Forme
@@ -388,6 +517,7 @@ Height=1.4
 Shape=9
 BattlerPlayerY=8
 BattlerEnemyY=11
+BattlerAltitude=9
 #-------------------------------
 [THUNDURUS-1]
 FormName=Therian Forme
@@ -399,6 +529,7 @@ Height=3.0
 Shape=6
 BattlerPlayerY=2
 BattlerAltitude=7
+BattlerEnemyY=50
 #-------------------------------
 [LANDORUS-1]
 FormName=Therian Forme
@@ -410,6 +541,7 @@ Height=1.3
 Shape=8
 BattlerPlayerY=6
 BattlerEnemyY=11
+BattlerAltitude=10
 #-------------------------------
 [KYUREM-1]
 FormName=White Kyurem
@@ -420,6 +552,7 @@ Moves=1,ICYWIND,1,DRAGONRAGE,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREA
 Height=3.6
 BattlerPlayerY=0
 BattlerEnemyY=7
+BattlerAltitude=0
 #-------------------------------
 [KYUREM-2]
 FormName=Black Kyurem
@@ -430,11 +563,13 @@ Moves=1,ICYWIND,1,DRAGONRAGE,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREA
 Height=3.3
 BattlerPlayerY=0
 BattlerEnemyY=4
+BattlerAltitude=0
 #-------------------------------
 [KELDEO-1]
 FormName=Resolute Form
 BattlerPlayerY=17
 BattlerEnemyY=21
+BattlerAltitude=0
 #-------------------------------
 [MELOETTA-1]
 FormName=Pirouette Forme
@@ -444,18 +579,31 @@ BaseStats=100,128,90,128,77,77
 EffortPoints=0,1,1,1,0,0
 BattlerPlayerY=16
 BattlerEnemyY=20
+BattlerAltitude=16
 #-------------------------------
 [GENESECT-1]
 FormName=Shock Drive
+BattlerEnemyY=15
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [GENESECT-2]
 FormName=Burn Drive
+BattlerEnemyY=15
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [GENESECT-3]
 FormName=Chill Drive
+BattlerEnemyY=15
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [GENESECT-4]
 FormName=Douse Drive
+BattlerEnemyY=15
+BattlerPlayerY=13
+BattlerAltitude=0
 #-------------------------------
 [BANETTE-1]
 FormName=Mega Banette
@@ -466,6 +614,7 @@ Height=1.2
 Weight=13.0
 BattlerPlayerY=8
 BattlerEnemyY=10
+BattlerAltitude=0
 #-------------------------------
 [VENUSAUR-1]
 FormName=Mega Venusaur
@@ -476,6 +625,7 @@ Height=2.4
 Weight=155.5
 BattlerPlayerY=12
 BattlerEnemyY=14
+BattlerAltitude=0
 #-------------------------------
 [CHARIZARD-1]
 FormName=Mega Charizard X
@@ -487,6 +637,7 @@ Abilities=TOUGHCLAWS
 Weight=110.5
 BattlerPlayerY=3
 BattlerEnemyY=6
+BattlerAltitude=0
 #-------------------------------
 [CHARIZARD-3]
 FormName=Mega Charizard Y
@@ -494,6 +645,9 @@ MegaStone=CHARIZARDITEY
 BaseStats=78,130,111,100,130,85
 Abilities=DROUGHT
 Weight=100.5
+BattlerEnemyY=
+BattlerPlayerY=
+BattlerAltitude=
 #-------------------------------
 [BLASTOISE-1]
 FormName=Mega Blastoise
@@ -503,6 +657,7 @@ Abilities=MEGALAUNCHER
 Weight=101.1
 BattlerPlayerY=11
 BattlerEnemyY=10
+BattlerAltitude=0
 #-------------------------------
 [ALAKAZAM-1]
 FormName=Mega ALAKAZAM
@@ -512,6 +667,7 @@ Abilities=TRACE
 Height=1.2
 BattlerPlayerY=3
 BattlerEnemyY=8
+BattlerAltitude=0
 #-------------------------------
 [GENGAR-1]
 FormName=Mega Gengar
@@ -521,6 +677,7 @@ Abilities=SHADOWTAG
 Height=1.4
 BattlerPlayerY=14
 BattlerEnemyY=19
+BattlerAltitude=0
 #-------------------------------
 [KANGASKHAN-1]
 FormName=Mega Kangaskhan
@@ -530,6 +687,7 @@ Abilities=PARENTALBOND
 Weight=100.0
 BattlerPlayerY=19
 BattlerEnemyY=5
+BattlerAltitude=0
 #-------------------------------
 [PINSIR-1]
 FormName=Mega Pinsir
@@ -540,6 +698,7 @@ Height=1.7
 Weight=59.0
 BattlerPlayerY=21
 BattlerEnemyY=27
+BattlerAltitude=0
 #-------------------------------
 [GYARADOS-1]
 FormName=Mega Gyarados
@@ -551,6 +710,7 @@ Abilities=MOLDBREAKER
 Weight=305.0
 BattlerPlayerY=2
 BattlerEnemyY=13
+BattlerAltitude=0
 #-------------------------------
 [AERODACTYL-1]
 FormName=Mega Aerodactyl
@@ -563,6 +723,7 @@ Height=2.1
 Weight=79.0
 BattlerPlayerY=13
 BattlerEnemyY=5
+BattlerAltitude=29
 #-------------------------------
 [MEWTWO-1]
 FormName=Mega Mewtwo X
@@ -575,6 +736,7 @@ Height=2.3
 Weight=127.0
 BattlerPlayerY=8
 BattlerEnemyY=7
+BattlerAltitude=0
 #-------------------------------
 [MEWTWO-3]
 FormName=Mega Mewtwo Y
@@ -583,6 +745,9 @@ BaseStats=106,150,70,140,194,120
 Abilities=INSOMNIA
 Height=1.5
 Weight=33.0
+BattlerEnemyY=
+BattlerPlayerY=
+BattlerAltitude=
 #-------------------------------
 [AMPHAROS-1]
 FormName=Mega Ampharos
@@ -593,6 +758,7 @@ BaseStats=90,95,105,45,165,110
 Abilities=MOLDBREAKER
 BattlerPlayerY=11
 BattlerEnemyY=17
+BattlerAltitude=0
 #-------------------------------
 [SCIZOR-1]
 FormName=Mega Scizor
@@ -603,6 +769,7 @@ Height=2.0
 Weight=125.0
 BattlerPlayerY=3
 BattlerEnemyY=7
+BattlerAltitude=0
 #-------------------------------
 [HERACROSS-1]
 FormName=Mega Heracross
@@ -612,6 +779,8 @@ Abilities=SKILLLINK
 Height=1.7
 Weight=62.5
 BattlerPlayerY=9
+BattlerEnemyY=18
+BattlerAltitude=0
 #-------------------------------
 [HOUNDOOM-1]
 FormName=Mega Houndoom
@@ -622,6 +791,7 @@ Height=1.9
 Weight=49.5
 BattlerPlayerY=8
 BattlerEnemyY=7
+BattlerAltitude=0
 #-------------------------------
 [TYRANITAR-1]
 FormName=Mega Tyranitar
@@ -632,6 +802,7 @@ Height=2.5
 Weight=255.0
 BattlerPlayerY=4
 BattlerEnemyY=6
+BattlerAltitude=0
 #-------------------------------
 [BLAZIKEN-1]
 FormName=Mega Blaziken
@@ -640,6 +811,7 @@ BaseStats=80,160,80,100,130,80
 Abilities=SPEEDBOOST
 BattlerPlayerY=2
 BattlerEnemyY=5
+BattlerAltitude=0
 #-------------------------------
 [GARDEVOIR-1]
 FormName=Mega Gardevoir
@@ -648,6 +820,7 @@ BaseStats=68,85,65,100,165,135
 Abilities=PIXILATE
 BattlerPlayerY=11
 BattlerEnemyY=15
+BattlerAltitude=0
 #-------------------------------
 [MAWILE-1]
 FormName=Mega Mawile
@@ -658,6 +831,7 @@ Height=1.0
 Weight=23.5
 BattlerPlayerY=5
 BattlerEnemyY=9
+BattlerAltitude=0
 #-------------------------------
 [AGGRON-1]
 FormName=Mega Aggron
@@ -669,6 +843,7 @@ Height=2.2
 Weight=395.0
 BattlerPlayerY=13
 BattlerEnemyY=13
+BattlerAltitude=0
 #-------------------------------
 [MEDICHAM-1]
 FormName=Mega Medicham
@@ -677,6 +852,7 @@ BaseStats=60,100,85,100,80,85
 Abilities=PUREPOWER
 BattlerPlayerY=16
 BattlerEnemyY=9
+BattlerAltitude=0
 #-------------------------------
 [MANECTRIC-1]
 FormName=Mega Manectric
@@ -687,6 +863,7 @@ Height=1.8
 Weight=44.0
 BattlerPlayerY=1
 BattlerEnemyY=8
+BattlerAltitude=0
 #-------------------------------
 [ABSOL-1]
 FormName=Mega Absol
@@ -695,6 +872,8 @@ BaseStats=65,150,60,115,115,60
 Abilities=MAGICBOUNCE
 Weight=49.0
 BattlerEnemyY=14
+BattlerPlayerY=20
+BattlerAltitude=0
 #-------------------------------
 [GARCHOMP-1]
 FormName=Mega Garchomp
@@ -702,6 +881,8 @@ MegaStone=GARCHOMPITE
 BaseStats=108,170,115,92,120,95
 Abilities=SANDFORCE
 BattlerEnemyY=12
+BattlerPlayerY=25
+BattlerAltitude=0
 #-------------------------------
 [LUCARIO-1]
 FormName=Mega Lucario
@@ -711,6 +892,8 @@ Abilities=ADAPTABILITY
 Height=1.3
 Weight=57.5
 BattlerEnemyY=18
+BattlerPlayerY=7
+BattlerAltitude=0
 #-------------------------------
 [ABOMASNOW-1]
 FormName=Mega Abomasnow
@@ -721,6 +904,7 @@ Height=2.7
 Weight=185.0
 BattlerPlayerY=11
 BattlerEnemyY=15
+BattlerAltitude=0
 #-------------------------------
 [BEEDRILL-1]
 FormName=Mega Beedrill
@@ -730,6 +914,8 @@ Abilities=ADAPTABILITY
 Height=1.4
 Weight=40.5
 BattlerEnemyY=22
+BattlerPlayerY=22
+BattlerAltitude=15
 #-------------------------------
 [PIDGEOT-1]
 FormName=Mega Pidgeot
@@ -740,6 +926,7 @@ Height=2.2
 Weight=50.5
 BattlerPlayerY=6
 BattlerEnemyY=10
+BattlerAltitude=0
 #-------------------------------
 [SLOWBRO-1]
 FormName=Mega Slowbro
@@ -750,6 +937,7 @@ Height=2.0
 Weight=120.0
 BattlerPlayerY=7
 BattlerEnemyY=13
+BattlerAltitude=0
 #-------------------------------
 [STEELIX-1]
 FormName=Mega Steelix
@@ -760,6 +948,7 @@ Height=10.5
 Weight=740.0
 BattlerPlayerY=0
 BattlerEnemyY=5
+BattlerAltitude=0
 #-------------------------------
 [SCEPTILE-1]
 FormName=Mega Sceptile
@@ -772,6 +961,7 @@ Height=1.9
 Weight=55.2
 BattlerPlayerY=1
 BattlerEnemyY=6
+BattlerAltitude=0
 #-------------------------------
 [SWAMPERT-1]
 FormName=Mega Swampert
@@ -782,6 +972,7 @@ Height=1.9
 Weight=102.0
 BattlerPlayerY=13
 BattlerEnemyY=13
+BattlerAltitude=0
 #-------------------------------
 [SABLEYE-1]
 FormName=Mega Sableye
@@ -791,6 +982,7 @@ Abilities=MAGICBOUNCE
 Weight=161.0
 BattlerPlayerY=19
 BattlerEnemyY=18
+BattlerAltitude=0
 #-------------------------------
 [SHARPEDO-1]
 FormName=Mega Sharpedo
@@ -801,6 +993,7 @@ Height=2.5
 Weight=130.3
 BattlerPlayerY=8
 BattlerEnemyY=13
+BattlerAltitude=8
 #-------------------------------
 [CAMERUPT-1]
 FormName=Mega Camerupt
@@ -811,6 +1004,7 @@ Height=2.5
 Weight=320.5
 BattlerPlayerY=13
 BattlerEnemyY=16
+BattlerAltitude=0
 #-------------------------------
 [ALTARIA-1]
 FormName=Mega Altaria
@@ -822,6 +1016,7 @@ Abilities=PIXILATE
 Height=1.5
 BattlerPlayerY=2
 BattlerEnemyY=5
+BattlerAltitude=28
 #-------------------------------
 [GLALIE-1]
 FormName=Mega Glalie
@@ -832,6 +1027,7 @@ Height=2.1
 Weight=350.2
 BattlerPlayerY=22
 BattlerEnemyY=17
+BattlerAltitude=20
 #-------------------------------
 [SALAMENCE-1]
 FormName=Mega Salamence
@@ -842,6 +1038,7 @@ Height=1.8
 Weight=112.6
 BattlerPlayerY=4
 BattlerEnemyY=20
+BattlerAltitude=0
 #-------------------------------
 [METAGROSS-1]
 FormName=Mega Metagross
@@ -852,6 +1049,7 @@ Height=2.5
 Weight=942.9
 BattlerPlayerY=8
 BattlerEnemyY=13
+BattlerAltitude=0
 #-------------------------------
 [LATIAS-1]
 FormName=Mega Latias
@@ -861,6 +1059,7 @@ Height=1.8
 Weight=52.0
 BattlerPlayerY=1
 BattlerEnemyY=14
+BattlerAltitude=11
 #-------------------------------
 [LATIOS-1]
 FormName=Mega Latios
@@ -870,6 +1069,7 @@ Height=2.3
 Weight=70.0
 BattlerPlayerY=1
 BattlerEnemyY=14
+BattlerAltitude=10
 #-------------------------------
 [RAYQUAZA-1]
 FormName=Mega Rayquaza
@@ -881,6 +1081,7 @@ Height=10.8
 Weight=392.0
 BattlerPlayerY=3
 BattlerEnemyY=5
+BattlerAltitude=5
 #-------------------------------
 [LOPUNNY-1]
 FormName=Mega Lopunny
@@ -893,6 +1094,7 @@ Height=1.3
 Weight=28.3
 BattlerPlayerY=15
 BattlerEnemyY=21
+BattlerAltitude=0
 #-------------------------------
 [GALLADE-1]
 FormName=Mega Gallade
@@ -902,6 +1104,7 @@ Abilities=INNERFOCUS
 Weight=56.4
 BattlerPlayerY=11
 BattlerEnemyY=14
+BattlerAltitude=0
 #-------------------------------
 [AUDINO-1]
 FormName=Mega Audino
@@ -914,6 +1117,7 @@ Height=1.5
 Weight=32.0
 BattlerPlayerY=14
 BattlerEnemyY=18
+BattlerAltitude=0
 #-------------------------------
 [DIANCIE-1]
 FormName=Mega Diancie
@@ -923,6 +1127,7 @@ Height=1.1
 Weight=27.8
 BattlerPlayerY=1
 BattlerEnemyY=11
+BattlerAltitude=10
 #-------------------------------
 [RATTATA-1]
 FormName=Alolan Rattata
@@ -936,8 +1141,10 @@ Weight=3.8
 Color=Black
 Pokedex=With its incisors, it gnaws through doors and infiltrates people's homes. Then it steals whatever food it finds.
 WildItemUncommon=PECHABERRY
-BattlerEnemyY=22
+BattlerEnemyY=19
 Evolutions=RATICATE,LevelNight,20
+BattlerPlayerY=25
+BattlerAltitude=0
 #-------------------------------
 [RATICATE-1]
 FormName=Alolan Raticate
@@ -951,8 +1158,9 @@ Weight=25.5
 Color=Black
 Pokedex=It forms a group of Rattata, which it assumes command of. Each group has its own territory, and disputs over food happen often.
 WildItemUncommon=PECHABERRY
-BattlerPlayerY=22
-BattlerEnemyY=15
+BattlerPlayerY=37
+BattlerEnemyY=27
+BattlerAltitude=0
 #-------------------------------
 [RAICHU-1]
 FormName=Alolan Raichu
@@ -964,8 +1172,9 @@ Moves=1,PSYCHIC,1,SPEEDSWAP,1,THUNDERSHOCK,1,TAILWHIP,1,QUICKATTACK,1,THUNDERBOL
 Height=0.7
 Weight=21.0
 Pokedex=It uses psychokinesis to control electricity. It hops aboard its own tail, using psychic powers to lift it and move about.
-BattlerPlayerY=12
-BattlerEnemyY=14
+BattlerPlayerY=5
+BattlerEnemyY=-11
+BattlerAltitude=0
 #-------------------------------
 [SANDSHREW-1]
 FormName=Alolan Sandshrew
@@ -982,8 +1191,10 @@ Color=Gray
 Habitat=Mountain
 Pokedex=It lives on snowy mountains. Its steel shell is very hard--so much so, it can't roll its body up into a ball.
 WildItemUncommon=GRIPCLAW
-BattlerPlayerY=29
+BattlerPlayerY=17
 Evolutions=SANDSLASH,Item,ICESTONE
+BattlerEnemyY=17
+BattlerAltitude=0
 #-------------------------------
 [SANDSLASH-1]
 FormName=Alolan Sandslash
@@ -1000,6 +1211,7 @@ Habitat=Mountain
 Pokedex=Fleeing a volcanic eruption, it settled on a snowy mountain. As it races through the snowfields, it sends up a spray of snow.
 BattlerPlayerY=22
 BattlerEnemyY=17
+BattlerAltitude=0
 #-------------------------------
 [VULPIX-1]
 FormName=Alolan Vulpix
@@ -1014,6 +1226,7 @@ WildItemUncommon=SNOWBALL
 BattlerPlayerY=24
 BattlerEnemyY=23
 Evolutions=NINETALES,Item,ICESTONE
+BattlerAltitude=0
 #-------------------------------
 [NINETALES-1]
 FormName=Alolan Ninetales
@@ -1028,6 +1241,7 @@ Color=White
 Pokedex=It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.
 BattlerPlayerY=5
 BattlerEnemyY=10
+BattlerAltitude=0
 #-------------------------------
 [DIGLETT-1]
 FormName=Alolan Diglett
@@ -1042,6 +1256,7 @@ Weight=1.0
 Pokedex=Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings.
 BattlerPlayerY=33
 BattlerEnemyY=29
+BattlerAltitude=0
 #-------------------------------
 [DUGTRIO-1]
 FormName=Alolan Dugtrio
@@ -1056,6 +1271,7 @@ Weight=66.6
 Pokedex=Its shining gold hair provides it with protection. It's reputed that keeping any of its fallen hairs will bring bad luck.
 BattlerPlayerY=25
 BattlerEnemyY=22
+BattlerAltitude=0
 #-------------------------------
 [MEOWTH-1]
 FormName=Alolan Meowth
@@ -1069,6 +1285,8 @@ Color=Gray
 Pokedex=When its pride is wounded, or when the gold coin on its forehead is dirtied, it flies into a hysterical rage.
 BattlerPlayerY=26
 Evolutions=PERSIAN,Happiness,
+BattlerEnemyY=10
+BattlerAltitude=0
 #-------------------------------
 [PERSIAN-1]
 FormName=Alolan Persian
@@ -1083,6 +1301,7 @@ Color=Gray
 Pokedex=It looks down on everyone other than itself. Its preferred tactics are sucker punches and blindside attacks.
 BattlerPlayerY=16
 BattlerEnemyY=13
+BattlerAltitude=0
 #-------------------------------
 [GEODUDE-1]
 FormName=Alolan Geodude
@@ -1098,6 +1317,7 @@ Pokedex=Its body is a magnetic stone. Iron sand attaches to the portions of its 
 WildItemUncommon=CELLBATTERY
 BattlerPlayerY=40
 BattlerEnemyY=30
+BattlerAltitude=0
 #-------------------------------
 [GRAVELER-1]
 FormName=Alolan Graveler
@@ -1112,6 +1332,7 @@ Pokedex=Its preferred food is dravite. After it's eaten, crystals form inside th
 WildItemUncommon=CELLBATTERY
 BattlerPlayerY=30
 BattlerEnemyY=21
+BattlerAltitude=0
 #-------------------------------
 [GOLEM-1]
 FormName=Alolan Golem
@@ -1125,6 +1346,7 @@ Weight=316.0
 Pokedex=Because it can't fire boulders at a rapid pace, it's been known to seize nearby Geodude and fire them from its back.
 BattlerPlayerY=16
 BattlerEnemyY=12
+BattlerAltitude=0
 #-------------------------------
 [GRIMER-1]
 FormName=Alolan Grimer
@@ -1140,6 +1362,7 @@ Color=Green
 Pokedex=The crystals on Grimer's body are lumps of toxins. If one falls off, lethal poisons leak out.
 BattlerPlayerY=30
 BattlerEnemyY=25
+BattlerAltitude=0
 #-------------------------------
 [MUK-1]
 FormName=Alolan Muk
@@ -1154,6 +1377,7 @@ Color=Green
 Pokedex=The garbage it eats causes continuous chemical changes in its body, which produce its exceedingly vivid coloration.
 BattlerPlayerY=18
 BattlerEnemyY=13
+BattlerAltitude=0
 #-------------------------------
 [EXEGGUTOR-1]
 FormName=Alolan Exeggutor
@@ -1168,6 +1392,7 @@ Weight=415.6
 Pokedex=As it grew taller and taller, it outgrew its reliance on psychic powers, awakening the power of the sleeping dragon.
 BattlerPlayerY=12
 BattlerEnemyY=8
+BattlerAltitude=0
 #-------------------------------
 [MAROWAK-1]
 FormName=Alolan Marowak
@@ -1181,10 +1406,14 @@ Color=Purple
 Pokedex=Its custom is to mourn its lost companions. Mounds of dirt by the side of the road mark the graves of the Marowak.
 BattlerPlayerY=29
 BattlerEnemyY=24
+BattlerAltitude=0
 #-------------------------------
 [MEOWSTIC-1]
 FormName=Female
 Moves=1,STOREDPOWER,1,MEFIRST,1,MAGICALLEAF,1,SCRATCH,1,LEER,1,COVET,1,CONFUSION,5,COVET,9,CONFUSION,13,LIGHTSCREEN,17,PSYBEAM,19,FAKEOUT,22,DISARMINGVOICE,25,PSYSHOCK,28,CHARGEBEAM,31,SHADOWBALL,35,EXTRASENSORY,40,PSYCHIC,43,ROLEPLAY,45,SIGNALBEAM,48,SUCKERPUNCH,50,FUTURESIGHT,53,STOREDPOWER
+BattlerEnemyY=50
+BattlerPlayerY=45
+BattlerAltitude=0
 #-------------------------------
 [FARFETCHD-1]
 FormName=Galarian Form
@@ -1199,6 +1428,8 @@ Pokedex=The stalks of leeks are thicker and longer in the Galar region. Farfetch
 WildItemCommon=STICK
 BattlerEnemyY=26
 Evolutions=SIRFETCHD,Level,26
+BattlerPlayerY=8
+BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [MEOWTH-2]
 Name=Galarian form
@@ -1212,6 +1443,8 @@ Kind=Scratch Cat
 Pokedex=Living with a savage, seafaring people has toughened this Pokémon’s body so much that parts of it have turned to iron.
 BattlerEnemyY=26
 Evolutions=PERRSERKER,Level,28
+BattlerPlayerY=11
+BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [PONYTA-1]
 Name=Galarian form
@@ -1229,6 +1462,9 @@ Color=Pink
 Kind=Unique Horn Pokémon
 Pokedex=Its small horn hides a healing power. With a few rubs from this Pokémon’s horn, any slight wound you have will be healed.
 Evolution=RAPIDASH-1,Level,40
+BattlerEnemyY=14
+BattlerPlayerY=8
+BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [RAPIDASH-1]
 Name=Galarian form
@@ -1245,6 +1481,9 @@ Weight=80.0
 Color=Pink
 Kind=Unique Horn Pokémon
 Pokedex=Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.
+BattlerEnemyY=20
+BattlerPlayerY=10
+BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [WEEZING-1]
 Name=Galarian form
@@ -1260,6 +1499,9 @@ Weight=16.0
 Color=Green
 Kind=Poison Gas Pokémon
 Pokedex=Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason.
+BattlerEnemyY=40
+BattlerPlayerY=34
+BattlerAltitude=10
 #-----------------------------------------------------------------------------
 [MRMIME-1]
 Name=Galarian form
@@ -1276,6 +1518,9 @@ Color=Blue
 Kind=Dancing Pokémon
 Pokedex=It can radiate chilliness from the bottoms of its feet. It’ll spend the whole day tap-dancing on a frozen floor.
 Evolution=MRRIME,Level,42
+BattlerEnemyY=14
+BattlerPlayerY=11
+BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [CORSOLA-1]
 Formname=Galarian form
@@ -1291,6 +1536,9 @@ Color=Blue
 Kind=Coral Pokémon
 Pokedex=Sudden climate change wiped out this ancient kind of Corsola. This Pokémon absorbs others’ life-force through its branches.
 Evolutions=CURSOLA,Level,38
+BattlerEnemyY=28
+BattlerPlayerY=20
+BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [ZIGZAGOON-1]
 Name=Galarian form
@@ -1307,6 +1555,9 @@ Color=White
 Kind=Tiny Raccoon
 Pokedex=Its restlessness has it constantly running around. If it sees another Pokémon, it will purposely run into them in order to start a fight.
 Evolution=LINOONE-1,Level,28
+BattlerEnemyY=38
+BattlerPlayerY=27
+BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [LINOONE-1]
 FormName=Galarian Form
@@ -1319,6 +1570,8 @@ WildItemCommon=POTION
 WildItemUncommon=MAXREVIVE
 BattlerEnemyY=27
 Evolutions=OBSTAGOON,LevelNight,35
+BattlerPlayerY=55
+BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [DARUMAKA-1]
 Name=Galarian form
@@ -1334,6 +1587,9 @@ Color=White
 Kind=Zen Charm Pokémon
 Pokedex=This very aggressive Pokémon will recklessly challenge opponents stronger than itself.
 Evolution=DARMANITAN-2,Item,ICESTONE
+BattlerEnemyY=15
+BattlerPlayerY=12
+BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [DARMANITAN-3]
 Name=Galarian form
@@ -1348,6 +1604,9 @@ Weight=120.0
 Color=White
 Kind=Zen Charm Pokémon
 Pokedex=Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.
+BattlerEnemyY=33
+BattlerPlayerY=13
+BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [DARMANITAN-2]
 Name=Galarian form
@@ -1363,6 +1622,9 @@ Weight=120.0
 Color=White
 Kind=Zen Charm Pokémon
 Pokedex=Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.
+BattlerEnemyY=33
+BattlerPlayerY=13
+BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [YAMASK-1]
 Name=Galarian form
@@ -1378,6 +1640,9 @@ Color=White
 Kind=Spirit Pokémon
 Pokedex=A clay slab with cursed engravings took possession of a Yamask. The slab is said to be absorbing the Yamask’s dark power.
 Evolutions=RUNERIGUS,Level,40
+BattlerEnemyY=34
+BattlerPlayerY=18
+BattlerAltitude=20
 #-----------------------------------------------------------------------------
 [STUNFISK-1]
 Name=Galarian form
@@ -1392,3 +1657,6 @@ Weight=20.5
 Color=Brown
 Kind=Trap Pokémon
 Pokedex=conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.
+BattlerEnemyY=42
+BattlerPlayerY=48
+BattlerAltitude=0
