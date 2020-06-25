@@ -1141,9 +1141,9 @@ Weight=3.8
 Color=Black
 Pokedex=With its incisors, it gnaws through doors and infiltrates people's homes. Then it steals whatever food it finds.
 WildItemUncommon=PECHABERRY
-BattlerEnemyY=19
+BattlerEnemyY=53
 Evolutions=RATICATE,LevelNight,20
-BattlerPlayerY=25
+BattlerPlayerY=74
 BattlerAltitude=0
 #-------------------------------
 [RATICATE-1]
@@ -1158,8 +1158,8 @@ Weight=25.5
 Color=Black
 Pokedex=It forms a group of Rattata, which it assumes command of. Each group has its own territory, and disputs over food happen often.
 WildItemUncommon=PECHABERRY
-BattlerPlayerY=37
-BattlerEnemyY=27
+BattlerPlayerY=56
+BattlerEnemyY=34
 BattlerAltitude=0
 #-------------------------------
 [RAICHU-1]
@@ -1172,8 +1172,8 @@ Moves=1,PSYCHIC,1,SPEEDSWAP,1,THUNDERSHOCK,1,TAILWHIP,1,QUICKATTACK,1,THUNDERBOL
 Height=0.7
 Weight=21.0
 Pokedex=It uses psychokinesis to control electricity. It hops aboard its own tail, using psychic powers to lift it and move about.
-BattlerPlayerY=5
-BattlerEnemyY=-11
+BattlerPlayerY=23
+BattlerEnemyY=11
 BattlerAltitude=0
 #-------------------------------
 [SANDSHREW-1]
@@ -1191,9 +1191,9 @@ Color=Gray
 Habitat=Mountain
 Pokedex=It lives on snowy mountains. Its steel shell is very hard--so much so, it can't roll its body up into a ball.
 WildItemUncommon=GRIPCLAW
-BattlerPlayerY=17
+BattlerPlayerY=74
 Evolutions=SANDSLASH,Item,ICESTONE
-BattlerEnemyY=17
+BattlerEnemyY=54
 BattlerAltitude=0
 #-------------------------------
 [SANDSLASH-1]
@@ -1209,8 +1209,8 @@ Weight=55.0
 Color=Gray
 Habitat=Mountain
 Pokedex=Fleeing a volcanic eruption, it settled on a snowy mountain. As it races through the snowfields, it sends up a spray of snow.
-BattlerPlayerY=22
-BattlerEnemyY=17
+BattlerPlayerY=61
+BattlerEnemyY=44
 BattlerAltitude=0
 #-------------------------------
 [VULPIX-1]
@@ -1223,8 +1223,8 @@ EggMoves=
 Color=White
 Pokedex=In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off.
 WildItemUncommon=SNOWBALL
-BattlerPlayerY=24
-BattlerEnemyY=23
+BattlerPlayerY=70
+BattlerEnemyY=53
 Evolutions=NINETALES,Item,ICESTONE
 BattlerAltitude=0
 #-------------------------------
@@ -1239,8 +1239,8 @@ HiddenAbility=SNOWWARNING
 Moves=1,DAZZLINGGLEAM,1,IMPRISON,1,NASTYPLOT,1,ICEBEAM,1,ICESHARD,1,CONFUSERAY,1,SAFEGUARD
 Color=White
 Pokedex=It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.
-BattlerPlayerY=5
-BattlerEnemyY=10
+BattlerPlayerY=33
+BattlerEnemyY=31
 BattlerAltitude=0
 #-------------------------------
 [DIGLETT-1]
@@ -1254,8 +1254,8 @@ Moves=1,SANDATTACK,1,METALCLAW,4,GROWL,7,ASTONISH,10,MUDSLAP,14,MAGNITUDE,18,BUL
 EggMoves=
 Weight=1.0
 Pokedex=Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings.
-BattlerPlayerY=33
-BattlerEnemyY=29
+BattlerPlayerY=82
+BattlerEnemyY=69
 BattlerAltitude=0
 #-------------------------------
 [DUGTRIO-1]
@@ -1269,8 +1269,8 @@ HiddenAbility=SANDFORCE
 Moves=1,SANDTOMB,1,ROTOTILLER,1,NIGHTSLASH,1,TRIATTACK,1,SANDATTACK,1,METALCLAW,4,GROWL,7,ASTONISH,10,MUDSLAP,14,MAGNITUDE,18,BULLDOZE,22,SUCKERPUNCH,25,MUDBOMB,30,EARTHPOWER,35,DIG,41,IRONHEAD,47,EARTHQUAKE,53,FISSURE
 Weight=66.6
 Pokedex=Its shining gold hair provides it with protection. It's reputed that keeping any of its fallen hairs will bring bad luck.
-BattlerPlayerY=25
-BattlerEnemyY=22
+BattlerPlayerY=70
+BattlerEnemyY=54
 BattlerAltitude=0
 #-------------------------------
 [MEOWTH-1]
@@ -1283,9 +1283,9 @@ Moves=1,SCRATCH,1,GROWL,6,BITE,9,FAKEOUT,14,FURYSWIPES,17,SCREECH,22,FEINTATTACK
 EggMoves=
 Color=Gray
 Pokedex=When its pride is wounded, or when the gold coin on its forehead is dirtied, it flies into a hysterical rage.
-BattlerPlayerY=26
+BattlerPlayerY=66
 Evolutions=PERSIAN,Happiness,
-BattlerEnemyY=10
+BattlerEnemyY=44
 BattlerAltitude=0
 #-------------------------------
 [PERSIAN-1]
@@ -1299,8 +1299,8 @@ Height=1.1
 Weight=33.0
 Color=Gray
 Pokedex=It looks down on everyone other than itself. Its preferred tactics are sucker punches and blindside attacks.
-BattlerPlayerY=16
-BattlerEnemyY=13
+BattlerPlayerY=52
+BattlerEnemyY=32
 BattlerAltitude=0
 #-------------------------------
 [GEODUDE-1]
@@ -1315,8 +1315,8 @@ Weight=20.3
 Color=Gray
 Pokedex=Its body is a magnetic stone. Iron sand attaches to the portions of its body that are particularly magnetic.
 WildItemUncommon=CELLBATTERY
-BattlerPlayerY=40
-BattlerEnemyY=30
+BattlerPlayerY=71
+BattlerEnemyY=50
 BattlerAltitude=0
 #-------------------------------
 [GRAVELER-1]
@@ -1330,8 +1330,8 @@ Weight=110.0
 Color=Gray
 Pokedex=Its preferred food is dravite. After it's eaten, crystals form inside the Pokémon, rising to the surface of its body.
 WildItemUncommon=CELLBATTERY
-BattlerPlayerY=30
-BattlerEnemyY=21
+BattlerPlayerY=75
+BattlerEnemyY=49
 BattlerAltitude=0
 #-------------------------------
 [GOLEM-1]
@@ -1344,8 +1344,8 @@ Moves=1,HEAVYSLAM,1,TACKLE,1,DEFENSECURL,4,CHARGE,6,ROCKPOLISH,10,STEAMROLLER,12
 Height=1.7
 Weight=316.0
 Pokedex=Because it can't fire boulders at a rapid pace, it's been known to seize nearby Geodude and fire them from its back.
-BattlerPlayerY=16
-BattlerEnemyY=12
+BattlerPlayerY=48
+BattlerEnemyY=37
 BattlerAltitude=0
 #-------------------------------
 [GRIMER-1]
@@ -1360,8 +1360,8 @@ Height=0.7
 Weight=42.0
 Color=Green
 Pokedex=The crystals on Grimer's body are lumps of toxins. If one falls off, lethal poisons leak out.
-BattlerPlayerY=30
-BattlerEnemyY=25
+BattlerPlayerY=77
+BattlerEnemyY=57
 BattlerAltitude=0
 #-------------------------------
 [MUK-1]
@@ -1375,8 +1375,8 @@ Height=1.0
 Weight=52.0
 Color=Green
 Pokedex=The garbage it eats causes continuous chemical changes in its body, which produce its exceedingly vivid coloration.
-BattlerPlayerY=18
-BattlerEnemyY=13
+BattlerPlayerY=62
+BattlerEnemyY=43
 BattlerAltitude=0
 #-------------------------------
 [EXEGGUTOR-1]
@@ -1390,8 +1390,8 @@ Moves=1,DRAGONHAMMER,1,SEEDBOMB,1,BARRAGE,1,HYPNOSIS,1,CONFUSION,17,PSYSHOCK,27,
 Height=10.9
 Weight=415.6
 Pokedex=As it grew taller and taller, it outgrew its reliance on psychic powers, awakening the power of the sleeping dragon.
-BattlerPlayerY=12
-BattlerEnemyY=8
+BattlerPlayerY=42
+BattlerEnemyY=19
 BattlerAltitude=0
 #-------------------------------
 [MAROWAK-1]
@@ -1404,8 +1404,8 @@ Moves=1,GROWL,3,TAILWHIP,7,BONECLUB,11,FLAMEWHEEL,13,LEER,17,HEX,21,BONEMERANG,2
 Weight=34.0
 Color=Purple
 Pokedex=Its custom is to mourn its lost companions. Mounds of dirt by the side of the road mark the graves of the Marowak.
-BattlerPlayerY=29
-BattlerEnemyY=24
+BattlerPlayerY=72
+BattlerEnemyY=61
 BattlerAltitude=0
 #-------------------------------
 [MEOWSTIC-1]
@@ -1426,9 +1426,9 @@ StepsToHatch=5396
 Weight=42.0
 Pokedex=The stalks of leeks are thicker and longer in the Galar region. Farfetch'd that adapted to these stalks took on a unique form.
 WildItemCommon=STICK
-BattlerEnemyY=26
+BattlerEnemyY=65
 Evolutions=SIRFETCHD,Level,26
-BattlerPlayerY=8
+BattlerPlayerY=67
 BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [MEOWTH-2]
@@ -1441,9 +1441,9 @@ Moves=1,FAKEOUT,1,GROWL,4,HONECLAWS,1,SCRATCH,8,PAYDAY,16,METALCLAW,24,SWAGGER,2
 Color=Yellow
 Kind=Scratch Cat
 Pokedex=Living with a savage, seafaring people has toughened this Pokémon’s body so much that parts of it have turned to iron.
-BattlerEnemyY=26
+BattlerEnemyY=15
 Evolutions=PERRSERKER,Level,28
-BattlerPlayerY=11
+BattlerPlayerY=20
 BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [PONYTA-1]
@@ -1462,8 +1462,8 @@ Color=Pink
 Kind=Unique Horn Pokémon
 Pokedex=Its small horn hides a healing power. With a few rubs from this Pokémon’s horn, any slight wound you have will be healed.
 Evolution=RAPIDASH-1,Level,40
-BattlerEnemyY=14
-BattlerPlayerY=8
+BattlerEnemyY=18
+BattlerPlayerY=26
 BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [RAPIDASH-1]
@@ -1481,8 +1481,8 @@ Weight=80.0
 Color=Pink
 Kind=Unique Horn Pokémon
 Pokedex=Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.
-BattlerEnemyY=20
-BattlerPlayerY=10
+BattlerEnemyY=23
+BattlerPlayerY=26
 BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [WEEZING-1]
@@ -1499,8 +1499,8 @@ Weight=16.0
 Color=Green
 Kind=Poison Gas Pokémon
 Pokedex=Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason.
-BattlerEnemyY=40
-BattlerPlayerY=34
+BattlerEnemyY=6
+BattlerPlayerY=24
 BattlerAltitude=10
 #-----------------------------------------------------------------------------
 [MRMIME-1]
@@ -1537,7 +1537,7 @@ Kind=Coral Pokémon
 Pokedex=Sudden climate change wiped out this ancient kind of Corsola. This Pokémon absorbs others’ life-force through its branches.
 Evolutions=CURSOLA,Level,38
 BattlerEnemyY=28
-BattlerPlayerY=20
+BattlerPlayerY=59
 BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [ZIGZAGOON-1]
@@ -1555,8 +1555,8 @@ Color=White
 Kind=Tiny Raccoon
 Pokedex=Its restlessness has it constantly running around. If it sees another Pokémon, it will purposely run into them in order to start a fight.
 Evolution=LINOONE-1,Level,28
-BattlerEnemyY=38
-BattlerPlayerY=27
+BattlerEnemyY=32
+BattlerPlayerY=60
 BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [LINOONE-1]
@@ -1568,9 +1568,9 @@ Moves=0,NIGHTSLASH,1,NIGHTSLASH,1,SWITCHEROO,1,PINMISSILE,1,BABYDOLLEYES,1,TACKL
 Pokedex=It uses its long tongue to taunt opponents. Once the opposition is enraged, this Pokémon hurls itself at the opponent, tackling them forcefully.
 WildItemCommon=POTION
 WildItemUncommon=MAXREVIVE
-BattlerEnemyY=27
+BattlerEnemyY=63
 Evolutions=OBSTAGOON,LevelNight,35
-BattlerPlayerY=55
+BattlerPlayerY=80
 BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [DARUMAKA-1]
@@ -1588,7 +1588,7 @@ Kind=Zen Charm Pokémon
 Pokedex=This very aggressive Pokémon will recklessly challenge opponents stronger than itself.
 Evolution=DARMANITAN-2,Item,ICESTONE
 BattlerEnemyY=15
-BattlerPlayerY=12
+BattlerPlayerY=68
 BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [DARMANITAN-3]
@@ -1605,7 +1605,7 @@ Color=White
 Kind=Zen Charm Pokémon
 Pokedex=Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.
 BattlerEnemyY=33
-BattlerPlayerY=13
+BattlerPlayerY=73
 BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [DARMANITAN-2]
@@ -1623,7 +1623,7 @@ Color=White
 Kind=Zen Charm Pokémon
 Pokedex=Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.
 BattlerEnemyY=33
-BattlerPlayerY=13
+BattlerPlayerY=65
 BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [YAMASK-1]
@@ -1641,7 +1641,7 @@ Kind=Spirit Pokémon
 Pokedex=A clay slab with cursed engravings took possession of a Yamask. The slab is said to be absorbing the Yamask’s dark power.
 Evolutions=RUNERIGUS,Level,40
 BattlerEnemyY=34
-BattlerPlayerY=18
+BattlerPlayerY=49
 BattlerAltitude=20
 #-----------------------------------------------------------------------------
 [STUNFISK-1]
@@ -1658,5 +1658,5 @@ Color=Brown
 Kind=Trap Pokémon
 Pokedex=conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.
 BattlerEnemyY=42
-BattlerPlayerY=48
+BattlerPlayerY=70
 BattlerAltitude=0
