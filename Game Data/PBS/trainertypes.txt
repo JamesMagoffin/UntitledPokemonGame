@@ -203,3 +203,4 @@
 200,HEROINE_Serena,Pokémon Trainer,120,gymleader,,,Female,,
 201,HEROINE_Selene,Pokémon Trainer,120,gymleader,,,Female,,
 202,HEROINE_Gloria,Pokémon Trainer,120,gymleader,,,Female,,
+203,POKEMONTRAINER_Bug,Pokémon Trainer,255,,,,Mixed,,
