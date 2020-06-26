@@ -705,3 +705,4 @@
 757,THROATSPRAY,Throat Spray,Throat Sprays,1,4000,"Raises Sp. Atk when the Pokémon uses a sound-based move.",0,0,0,
 758,TIMIDMINT,Timid Mint,Timid Mints,1,20,"When a Pokémon smells this mint, its Speed will grow more easily, but its Attack will grow more slowly.",1,0,0,
 759,UTILITYUMBRELLA,Utility Umbrella,Utility Umbrellas,1,4000,"An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of weather.",0,0,0,
+760,MEGARING,Mega Ring,Mega Rings,8,0,"This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve in battle.",0,0,6,
