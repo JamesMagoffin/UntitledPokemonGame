@@ -767,8 +767,8 @@ BaseStats=70,150,140,75,65,100
 Abilities=TECHNICIAN
 Height=2.0
 Weight=125.0
-BattlerPlayerY=3
-BattlerEnemyY=7
+BattlerPlayerY=36
+BattlerEnemyY=27
 BattlerAltitude=0
 #-------------------------------
 [HERACROSS-1]
@@ -1605,7 +1605,7 @@ Color=White
 Kind=Zen Charm Pokémon
 Pokedex=Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.
 BattlerEnemyY=33
-BattlerPlayerY=73
+BattlerPlayerY=65
 BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [DARMANITAN-2]
@@ -1623,7 +1623,7 @@ Color=White
 Kind=Zen Charm Pokémon
 Pokedex=Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.
 BattlerEnemyY=33
-BattlerPlayerY=65
+BattlerPlayerY=73
 BattlerAltitude=0
 #-----------------------------------------------------------------------------
 [YAMASK-1]
