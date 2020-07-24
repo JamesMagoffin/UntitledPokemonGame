@@ -1,4 +1,5 @@
 [POKEDEXES]
 pokedex1=Untitled Pokédex
 pokedex2=Untitled Pokédex
+pokedex3=Untitled Pokédex
 

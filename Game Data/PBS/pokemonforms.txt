@@ -1123,8 +1123,6 @@ BattlerAltitude=0
 FormName=Mega Diancie
 MegaStone=DIANCITE
 BaseStats=50,160,110,110,160,110
-Height=1.1
-Weight=27.8
 BattlerPlayerY=1
 BattlerEnemyY=11
 BattlerAltitude=10
@@ -1136,14 +1134,13 @@ Type2=NORMAL
 Abilities=GLUTTONY,HUSTLE
 HiddenAbility=THICKFAT
 Moves=1,TACKLE,1,TAILWHIP,4,QUICKATTACK,7,FOCUSENERGY,10,BITE,13,PURSUIT,16,HYPERFANG,19,ASSURANCE,22,CRUNCH,25,SUCKERPUNCH,28,SUPERFANG,31,DOUBLEEDGE,34,ENDEAVOR
-EggMoves=
 Weight=3.8
 Color=Black
 Pokedex=With its incisors, it gnaws through doors and infiltrates people's homes. Then it steals whatever food it finds.
 WildItemUncommon=PECHABERRY
+BattlerPlayerY=74
 BattlerEnemyY=53
 Evolutions=RATICATE,LevelNight,20
-BattlerPlayerY=74
 BattlerAltitude=0
 #-------------------------------
 [RATICATE-1]
@@ -1184,7 +1181,6 @@ BaseStats=50,75,90,40,10,35
 Abilities=SNOWCLOAK
 HiddenAbility=SLUSHRUSH
 Moves=1,SCRATCH,1,DEFENSECURL,3,BIDE,5,POWDERSNOW,7,ICEBALL,9,RAPIDSPIN,11,FURYCUTTER,14,METALCLAW,17,SWIFT,20,FURYSWIPES,23,IRONDEFENSE,26,SLASH,30,IRONHEAD,34,GYROBALL,38,SWORDSDANCE,42,HAIL,46,BLIZZARD
-EggMoves=
 Height=0.7
 Weight=40.0
 Color=Gray
@@ -1192,8 +1188,8 @@ Habitat=Mountain
 Pokedex=It lives on snowy mountains. Its steel shell is very hard--so much so, it can't roll its body up into a ball.
 WildItemUncommon=GRIPCLAW
 BattlerPlayerY=74
-Evolutions=SANDSLASH,Item,ICESTONE
 BattlerEnemyY=54
+Evolutions=SANDSLASH,Item,ICESTONE
 BattlerAltitude=0
 #-------------------------------
 [SANDSLASH-1]
@@ -1219,11 +1215,10 @@ Type1=ICE
 Abilities=SNOWCLOAK
 HiddenAbility=SNOWWARNING
 Moves=1,POWDERSNOW,4,TAILWHIP,7,ROAR,9,BABYDOLLEYES,10,ICESHARD,12,CONFUSERAY,15,ICYWIND,18,PAYBACK,20,MIST,23,FEINTATTACK,26,HEX,28,AURORABEAM,31,EXTRASENSORY,34,SAFEGUARD,36,ICEBEAM,39,IMPRISON,42,BLIZZARD,44,GRUDGE,47,CAPTIVATE,50,SHEERCOLD
-EggMoves=
 Color=White
 Pokedex=In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off.
 WildItemUncommon=SNOWBALL
-BattlerPlayerY=70
+BattlerPlayerY=78
 BattlerEnemyY=53
 Evolutions=NINETALES,Item,ICESTONE
 BattlerAltitude=0
@@ -1251,7 +1246,6 @@ BaseStats=10,55,30,90,35,45
 Abilities=SANDVEIL,TANGLINGHAIR
 HiddenAbility=SANDFORCE
 Moves=1,SANDATTACK,1,METALCLAW,4,GROWL,7,ASTONISH,10,MUDSLAP,14,MAGNITUDE,18,BULLDOZE,22,SUCKERPUNCH,25,MUDBOMB,28,EARTHPOWER,31,DIG,35,IRONHEAD,39,EARTHQUAKE,43,FISSURE
-EggMoves=
 Weight=1.0
 Pokedex=Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings.
 BattlerPlayerY=82
@@ -1280,12 +1274,11 @@ BaseStats=40,35,35,90,50,40
 Abilities=PICKUP,TECHNICIAN
 HiddenAbility=RATTLED
 Moves=1,SCRATCH,1,GROWL,6,BITE,9,FAKEOUT,14,FURYSWIPES,17,SCREECH,22,FEINTATTACK,25,TAUNT,30,PAYDAY,33,SLASH,38,NASTYPLOT,41,ASSURANCE,46,CAPTIVATE,49,NIGHTSLASH,50,FEINT,55,DARKPULSE
-EggMoves=
 Color=Gray
 Pokedex=When its pride is wounded, or when the gold coin on its forehead is dirtied, it flies into a hysterical rage.
 BattlerPlayerY=66
-Evolutions=PERSIAN,Happiness,
 BattlerEnemyY=44
+Evolutions=PERSIAN,Happiness,
 BattlerAltitude=0
 #-------------------------------
 [PERSIAN-1]
@@ -1310,7 +1303,6 @@ Type2=ELECTRIC
 Abilities=MAGNETPULL,STURDY
 HiddenAbility=GALVANIZE
 Moves=1,TACKLE,1,DEFENSECURL,4,CHARGE,6,ROCKPOLISH,10,ROLLOUT,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,28,STEALTHROCK,30,ROCKBLAST,34,DISCHARGE,36,EXPLOSION,40,DOUBLEEDGE,42,STONEEDGE
-EggMoves=
 Weight=20.3
 Color=Gray
 Pokedex=Its body is a magnetic stone. Iron sand attaches to the portions of its body that are particularly magnetic.
@@ -1355,7 +1347,6 @@ Type2=DARK
 Abilities=POISONTOUCH,GLUTTONY
 HiddenAbility=POWEROFALCHEMY
 Moves=1,POUND,1,POISONGAS,4,HARDEN,7,BITE,12,DISABLE,15,ACIDSPRAY,18,POISONFANG,21,MINIMIZE,26,FLING,29,KNOCKOFF,32,CRUNCH,37,SCREECH,40,GUNKSHOT,43,ACIDARMOR,46,BELCH,48,MEMENTO
-EggMoves=
 Height=0.7
 Weight=42.0
 Color=Green
@@ -1411,8 +1402,8 @@ BattlerAltitude=0
 [MEOWSTIC-1]
 FormName=Female
 Moves=1,STOREDPOWER,1,MEFIRST,1,MAGICALLEAF,1,SCRATCH,1,LEER,1,COVET,1,CONFUSION,5,COVET,9,CONFUSION,13,LIGHTSCREEN,17,PSYBEAM,19,FAKEOUT,22,DISARMINGVOICE,25,PSYSHOCK,28,CHARGEBEAM,31,SHADOWBALL,35,EXTRASENSORY,40,PSYCHIC,43,ROLEPLAY,45,SIGNALBEAM,48,SUCKERPUNCH,50,FUTURESIGHT,53,STOREDPOWER
-BattlerEnemyY=50
 BattlerPlayerY=45
+BattlerEnemyY=50
 BattlerAltitude=0
 #-------------------------------
 [FARFETCHD-1]
@@ -1426,237 +1417,211 @@ StepsToHatch=5396
 Weight=42.0
 Pokedex=The stalks of leeks are thicker and longer in the Galar region. Farfetch'd that adapted to these stalks took on a unique form.
 WildItemCommon=STICK
+BattlerPlayerY=67
 BattlerEnemyY=65
 Evolutions=SIRFETCHD,Level,26
-BattlerPlayerY=67
 BattlerAltitude=0
-#-----------------------------------------------------------------------------
+#-------------------------------
 [MEOWTH-2]
-Name=Galarian form
 Type1=STEEL
 BaseStats=50,65,55,40,40,40
 Abilities=PICKUP,TOUGHCLAWS
 HiddenAbility=UNNERVE
-Moves=1,FAKEOUT,1,GROWL,4,HONECLAWS,1,SCRATCH,8,PAYDAY,16,METALCLAW,24,SWAGGER,29,FURYSWIPES,32,SCREECH,36,SLASH,40,METALSOUND,44,THRASH
-Color=Yellow
-Kind=Scratch Cat
+Moves=1,FAKEOUT,1,GROWL,1,SCRATCH,4,HONECLAWS,8,PAYDAY,16,METALCLAW,24,SWAGGER,29,FURYSWIPES,32,SCREECH,36,SLASH,40,METALSOUND,44,THRASH
 Pokedex=Living with a savage, seafaring people has toughened this Pokémon’s body so much that parts of it have turned to iron.
+BattlerPlayerY=20
 BattlerEnemyY=15
 Evolutions=PERRSERKER,Level,28
-BattlerPlayerY=20
 BattlerAltitude=0
-#-----------------------------------------------------------------------------
+#-------------------------------
 [PONYTA-1]
-Name=Galarian form
 Type1=PSYCHIC
-BaseStats=50,85,55,90,65,65
-BaseExp=76
-EffortPoints=0,0,0,1,0,0
 Abilities=RUNAWAY,PASTELVEIL
 HiddenAbility=ANTICIPATION
 Moves=1,GROWL,1,TACKLE,5,TAILWHIP,10,CONFUSION,15,FAIRYWIND,20,AGILITY,25,PSYBEAM,30,STOMP,35,HEALPULSE,41,TAKEDOWN,45,DAZZLINGGLEAM,50,PSYCHIC,55,HEALINGWISH
-EggMoves=DOUBLEKICK,DOUBLEEDGE,HORNDRILL,MORNINGSUN,THRASH
+EggMoves=
 Height=0.8
 Weight=24.0
 Color=Pink
 Kind=Unique Horn Pokémon
 Pokedex=Its small horn hides a healing power. With a few rubs from this Pokémon’s horn, any slight wound you have will be healed.
-Evolution=RAPIDASH-1,Level,40
-BattlerEnemyY=18
 BattlerPlayerY=26
+BattlerEnemyY=18
 BattlerAltitude=0
-#-----------------------------------------------------------------------------
+#-------------------------------
 [RAPIDASH-1]
-Name=Galarian form
 Type1=PSYCHIC
 Type2=FAIRY
-BaseStats=65,100,70,105,80,80
 EffortPoints=0,0,0,0,0,2
 Abilities=RUNAWAY,PASTELVEIL
 HiddenAbility=ANTICIPATION
 Moves=1,CONFUSION,1,GROWL,1,MEGAHORN,1,PSYCHOCUT,1,QUICKATTACK,1,TACKLE,1,TAILWHIP,15,FAIRYWIND,20,AGILITY,25,PSYBEAM,30,STOMP,35,HEALPULSE,43,TAKEDOWN,49,DAZZLINGGLEAM,56,PSYCHIC,63,HEALINGWISH
-EggMoves=DOUBLEKICK,DOUBLEEDGE,HORNDRILL,MORNINGSUN,THRASH
-Height=1.7
 Weight=80.0
 Color=Pink
 Kind=Unique Horn Pokémon
 Pokedex=Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.
-BattlerEnemyY=23
 BattlerPlayerY=26
+BattlerEnemyY=23
 BattlerAltitude=0
-#-----------------------------------------------------------------------------
+#-------------------------------
 [WEEZING-1]
-Name=Galarian form
 Type1=POISON
 Type2=FAIRY
-BaseStats=65,90,120,60,85,70
 Abilities=LEVITATE,NEUTRALIZINGGAS
 HiddenAbility=MISTYSURGE
 Moves=1,AROMATICMIST,1,DEFOG,1,DOUBLEHIT,1,FAIRYWIND,1,HAZE,1,HEATWAVE,1,POISONGAS,1,SMOG,1,SMOKESCREEN,1,TACKLE,12,CLEARSMOG,16,ASSURANCE,20,SLUDGE,24,AROMATHERAPY,28,SELFDESTRUCT,32,SLUDGEBOMB,38,TOXIC,44,BELCH,50,EXPLOSION,56,MEMENTO,62,DESTINYBOND,68,MISTYTERRAIN
-EggMoves=CURSE,GRUDGE,PAINSPLIT,PSYBEAM,SPITUP,SPITE,STOCKPILE,SWALLOW
 Height=3.0
 Weight=16.0
 Color=Green
 Kind=Poison Gas Pokémon
 Pokedex=Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason.
-BattlerEnemyY=6
 BattlerPlayerY=24
+BattlerEnemyY=6
 BattlerAltitude=10
-#-----------------------------------------------------------------------------
+#-------------------------------
 [MRMIME-1]
-Name=Galarian form
 Type1=PSYCHIC
 Type2=ICE
 BaseStats=50,65,65,100,90,90
 Abilities=VITALSPIRIT,SCREENCLEANER
 HiddenAbility=ICEBODY
 Moves=1,BATONPASS,1,COPYCAT,1,DAZZLINGGLEAM,1,ENCORE,1,ICESHARD,1,LIGHTSCREEN,1,MIMIC,1,MISTYTERRAIN,1,POUND,1,PROTECT,1,RAPIDSPIN,1,RECYCLE,1,REFLECT,1,ROLEPLAY,1,SAFEGUARD,1,CONFUSION,16,ALLYSWITCH,20,ICYWIND,24,DOUBLEKICK,28,PSYBEAM,32,HYPNOSIS,36,MIRRORCOAT,40,SUCKERPUNCH,48,PSYCHIC,52,TEETERDANCE
-EggMoves=CONFUSERAY,FAKEOUT,HYPNOSIS,POWERSPLIT,TICKLE
+EggMoves=
 Height=1.4
 Weight=56.8
 Color=Blue
 Kind=Dancing Pokémon
 Pokedex=It can radiate chilliness from the bottoms of its feet. It’ll spend the whole day tap-dancing on a frozen floor.
-Evolution=MRRIME,Level,42
 BattlerEnemyY=14
 BattlerPlayerY=11
 BattlerAltitude=0
-#-----------------------------------------------------------------------------
+#-------------------------------
 [CORSOLA-1]
-Formname=Galarian form
 Type1=GHOST
 BaseStats=60,55,100,30,65,100
 Abilities=WEAKARMOR
 HiddenAbility=CURSEDBODY
 Moves=1,HARDEN,1,TACKLE,5,ASTONISH,10,DISABLE,15,SPITE,20,ANCIENTPOWER,25,HEX,30,CURSE,35,STRENGTHSAP,40,POWERGEM,45,NIGHTSHADE,50,GRUDGE,55,MIRRORCOAT
-EggMoves=CONFUSERAY,DESTINYBOND,HAZE,HEADSMASH,NATUREPOWER,WATERPULSE
-Height=0.6
+EggMoves=
 Weight=0.5
 Color=Blue
 Kind=Coral Pokémon
 Pokedex=Sudden climate change wiped out this ancient kind of Corsola. This Pokémon absorbs others’ life-force through its branches.
+BattlerPlayerY=59
 Evolutions=CURSOLA,Level,38
 BattlerEnemyY=28
-BattlerPlayerY=59
 BattlerAltitude=0
-#-----------------------------------------------------------------------------
+#-------------------------------
 [ZIGZAGOON-1]
-Name=Galarian form
 Type1=DARK
 Type2=NORMAL
-BaseStats=38,30,41,60,30,41
-Abilities=PICKUP,GLUTTONY
-HiddenAbility=QUICKFEET
 Moves=1,LEER,1,TACKLE,3,SANDATTACK,6,LICK,9,SNARL,12,HEADBUTT,15,BABYDOLLEYES,18,PINMISSILE,21,REST,24,TAKEDOWN,27,SCARYFACE,30,COUNTER,33,TAUNT,36,DOUBLEEDGE
-EggMoves=KNOCKOFF,PARTINGSHOT,QUICKGUARD
-Height=0.4
-Weight=17.5
+EggMoves=
 Color=White
 Kind=Tiny Raccoon
 Pokedex=Its restlessness has it constantly running around. If it sees another Pokémon, it will purposely run into them in order to start a fight.
-Evolution=LINOONE-1,Level,28
-BattlerEnemyY=32
 BattlerPlayerY=60
+BattlerEnemyY=32
 BattlerAltitude=0
-#-----------------------------------------------------------------------------
+#-------------------------------
 [LINOONE-1]
 FormName=Galarian Form
 Type1=DARK
 Type2=NORMAL
-BaseStats=78,70,61,100,50,61
 Moves=0,NIGHTSLASH,1,NIGHTSLASH,1,SWITCHEROO,1,PINMISSILE,1,BABYDOLLEYES,1,TACKLE,1,LEER,1,LICK,3,SANDATTACK,9,SNARL,12,HEADBUTT,15,HONECLAWS,18,FURYSWIPES,23,REST,28,TAKEDOWN,33,SCARYFACE,38,COUNTER,43,TAUNT,48,DOUBLEEDGE
 Pokedex=It uses its long tongue to taunt opponents. Once the opposition is enraged, this Pokémon hurls itself at the opponent, tackling them forcefully.
 WildItemCommon=POTION
 WildItemUncommon=MAXREVIVE
+BattlerPlayerY=80
 BattlerEnemyY=63
 Evolutions=OBSTAGOON,LevelNight,35
-BattlerPlayerY=80
 BattlerAltitude=0
-#-----------------------------------------------------------------------------
+#-------------------------------
 [DARUMAKA-1]
-Name=Galarian form
 Type1=ICE
-BaseStats=70,90,45,50,15,45
-Abilities=HUSTLE
-HiddenAbility=INNERFOCUS
 Moves=1,POWDERSNOW,1,TACKLE,4,TAUNT,8,BITE,12,AVALANCHE,16,WORKUP,20,ICEFANG,24,HEADBUTT,28,ICEPUNCH,32,UPROAR,36,BELLYDRUM,40,BLIZZARD,44,THRASH,48,SUPERPOWER
-EggMoves=FLAMEWHEEL,FOCUSPUNCH,FREEZEDRY,HAMMERARM,INCINERATE,POWERUPPUNCH,TAKEDOWN,YAWN
+EggMoves=
 Height=0.7
 Weight=40.0
 Color=White
 Kind=Zen Charm Pokémon
 Pokedex=This very aggressive Pokémon will recklessly challenge opponents stronger than itself.
-Evolution=DARMANITAN-2,Item,ICESTONE
-BattlerEnemyY=15
 BattlerPlayerY=68
+BattlerEnemyY=15
 BattlerAltitude=0
-#-----------------------------------------------------------------------------
+#-------------------------------
 [DARMANITAN-3]
-Name=Galarian form
 Type1=ICE
-BaseStats=105,140,55,95,30,55
 Abilities=GORILLATACTICS
 HiddenAbility=ZENMODE
 Moves=1,BITE,1,ICICLECRASH,1,POWDERSNOW,1,TACKLE,1,TAUNT,12,AVALANCHE,16,WORKUP,20,ICEFANG,24,HEADBUTT,28,ICEPUNCH,32,UPROAR,38,BELLYDRUM,44,BLIZZARD,50,THRASH,56,SUPERPOWER
-EggMoves=ICICLECRASH
 Height=1.7
 Weight=120.0
 Color=White
 Kind=Zen Charm Pokémon
 Pokedex=Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.
+BattlerPlayerY=73
 BattlerEnemyY=33
-BattlerPlayerY=65
 BattlerAltitude=0
-#-----------------------------------------------------------------------------
+#-------------------------------
 [DARMANITAN-2]
-Name=Galarian form
 Type1=ICE
 Type2=FIRE
 BaseStats=105,160,55,135,30,55
 Abilities=GORILLATACTICS
 HiddenAbility=ZENMODE
 Moves=1,BITE,1,ICICLECRASH,1,POWDERSNOW,1,TACKLE,1,TAUNT,12,AVALANCHE,16,WORKUP,20,ICEFANG,24,HEADBUTT,28,ICEPUNCH,32,UPROAR,38,BELLYDRUM,44,BLIZZARD,50,THRASH,56,SUPERPOWER
-EggMoves=ICICLECRASH
 Height=1.7
 Weight=120.0
 Color=White
 Kind=Zen Charm Pokémon
 Pokedex=Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.
+BattlerPlayerY=65
 BattlerEnemyY=33
-BattlerPlayerY=73
 BattlerAltitude=0
-#-----------------------------------------------------------------------------
+#-------------------------------
 [YAMASK-1]
-Name=Galarian form
 Type1=GROUND
 Type2=GHOST
 BaseStats=38,55,85,30,30,65
 Abilities=WANDERINGSPIRIT
 Moves=1,ASTONISH,1,PROTECT,4,HAZE,8,NIGHTSHADE,12,DISABLE,16,BRUTALSWING,20,CRAFTYSHIELD,24,HEX,28,MEANLOOK,32,SLAM,36,CURSE
-EggMoves=MEMENTO
-Height=0.5
-Weight=1.5
+EggMoves=
 Color=White
 Kind=Spirit Pokémon
 Pokedex=A clay slab with cursed engravings took possession of a Yamask. The slab is said to be absorbing the Yamask’s dark power.
+BattlerPlayerY=49
 Evolutions=RUNERIGUS,Level,40
 BattlerEnemyY=34
-BattlerPlayerY=49
 BattlerAltitude=20
-#-----------------------------------------------------------------------------
+#-------------------------------
 [STUNFISK-1]
-Name=Galarian form
 Type1=GROUND
 Type2=STEEL
 BaseStats=109,81,99,32,66,84
 Abilities=MIMICRY
 Moves=1,ASTONISH,1,PROTECT,4,HAZE,8,NIGHTSHADE,12,DISABLE,16,BRUTALSWING,20,CRAFTYSHIELD,24,HEX,28,MEANLOOK,32,SLAM,36,CURSE
-EggMoves=MEMENTO
-Height=0.7
+EggMoves=
 Weight=20.5
-Color=Brown
 Kind=Trap Pokémon
 Pokedex=conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.
+BattlerPlayerY=70
 BattlerEnemyY=42
+BattlerAltitude=0
+#-------------------------------
+[DRIFLOON-1]
+Type1=FIRE
+Type2=FAIRY
+BaseStats=109,81,99,32,66,84
+Abilities=FLAREBOOST,FLASHFIRE
+HiddenAbility=PIXILATE
+Moves=1,FIRESPIN,1,MINIMIZE,4,EMBER,8,PROTECT,12,FAIRYWIND,16,BABYDOLLEYES,20,ROUND,24,HEX,28,SELFDESTRUCT,32,SLAM,36,CURSE
+EggMoves=
+Height=0.7
+Weight=20.5
+Color=Red
+Kind=Balloon Pokémon
+Pokedex=conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.
 BattlerPlayerY=70
 BattlerAltitude=0
+BattlerEnemyY=42

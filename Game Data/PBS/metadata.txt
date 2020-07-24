@@ -79,7 +79,7 @@ Outdoor=true
 MapPosition=0,14,10
 #-------------------------------
 [012]
-# MAP012
+# PWT
 MapPosition=0,14,10
 #-------------------------------
 [013]
@@ -103,7 +103,7 @@ MapPosition=0,13,10
 MapPosition=0,13,10
 #-------------------------------
 [018]
-# MAP018
+# PWT Stage
 MapPosition=0,13,10
 #-------------------------------
 [019]
@@ -214,10 +214,12 @@ MapPosition=0,13,6
 HealingSpot=35,17,7
 #-------------------------------
 [037]
+# Fairy Garden
 BattleBack=EliteA
 MapPosition=0,13,6
 #-------------------------------
 [038]
+# Project Yisal
 MapPosition=0,13,6
 #-------------------------------
 [039]
@@ -228,9 +230,10 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [040]
+# MAP040
 MapPosition=0,11,6
-Outdoor=true
-BicycleAlways=true
+Outdoor=false
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [041]

@@ -1,4 +1,4 @@
-﻿#-------------------------------
+#-------------------------------
 [1]
 Name=Bulbasaur
 InternalName=BULBASAUR
@@ -12849,7 +12849,7 @@ RegionalNumbers=133,133,425
 Kind=Balloon
 Pokedex=A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.
 BattlerPlayerY=0
-BattlerEnemyY=15
+BattlerEnemyY=42
 BattlerAltitude=9
 Evolutions=DRIFBLIM,Level,28
 #-------------------------------
