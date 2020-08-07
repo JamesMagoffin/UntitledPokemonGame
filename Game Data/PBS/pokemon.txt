@@ -4044,7 +4044,7 @@ Pokedex=An Eevee has an unstable genetic makeup that suddenly mutates due to its
 BattlerPlayerY=12
 BattlerEnemyY=14
 BattlerAltitude=0
-Evolutions=VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Location,28,GLACEON,Location,34,ESPEON,HappinessDay,,UMBREON,HappinessNight,
+Evolutions=VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Location,28,GLACEON,Location,34,ESPEON,HappinessDay,,UMBREON,HappinessNight,,SYLVEON,Level,42
 #-------------------------------
 [134]
 Name=Vaporeon
@@ -19766,7 +19766,7 @@ Pokedex=The hotter the flame sac on its belly, the faster it can fly, but it tak
 BattlerPlayerY=39
 BattlerEnemyY=48
 BattlerAltitude=11
-Evolutions=
+Evolutions=TALONFLAME,Level,35
 #-------------------------------
 [663]
 Name=Talonflame
@@ -24076,8 +24076,8 @@ Habitat=Rare
 RegionalNumbers=0,0,809
 Kind=Hex Nut
 Pokedex=Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.
-BattlerPlayerY=3
-BattlerEnemyY=45
+BattlerPlayerY=46
+BattlerEnemyY=34
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -24106,8 +24106,8 @@ Habitat=Grassland
 RegionalNumbers=0,0,810
 Kind=Chimp
 Pokedex=When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.
-BattlerPlayerY=70
-BattlerEnemyY=69
+BattlerPlayerY=23
+BattlerEnemyY=18
 BattlerAltitude=0
 Evolutions=THWACKEY,Level,16
 #-------------------------------
@@ -24196,8 +24196,8 @@ Habitat=Mountain
 RegionalNumbers=0,0,813
 Kind=Rabbit
 Pokedex=A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power.
-BattlerPlayerY=66
-BattlerEnemyY=66
+BattlerPlayerY=36
+BattlerEnemyY=28
 BattlerAltitude=0
 Evolutions=RABOOT,Level,16
 #-------------------------------

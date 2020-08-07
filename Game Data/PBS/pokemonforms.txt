@@ -1560,7 +1560,7 @@ Weight=120.0
 Color=White
 Kind=Zen Charm Pokémon
 Pokedex=Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.
-BattlerPlayerY=73
+BattlerPlayerY=65
 BattlerEnemyY=33
 BattlerAltitude=0
 #-------------------------------
@@ -1576,7 +1576,7 @@ Weight=120.0
 Color=White
 Kind=Zen Charm Pokémon
 Pokedex=Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.
-BattlerPlayerY=65
+BattlerPlayerY=73
 BattlerEnemyY=33
 BattlerAltitude=0
 #-------------------------------
@@ -1625,3 +1625,28 @@ Pokedex=conspicuous lips lure prey in as it lies in wait in the mud. When prey g
 BattlerPlayerY=70
 BattlerAltitude=0
 BattlerEnemyY=42
+#-------------------------------
+[LAPRAS-1]
+FormName=Mega Lapras
+MegaStone=LAPRASITE
+Type1=WATER
+Type2=ICE
+BaseStats=160,105,90,60,105,115
+Abilities=SNOWWARNING
+Weight=330
+BattlerPlayerY=27
+BattlerEnemyY=24
+BattlerAltitude=0
+#-------------------------------
+[GARBODOR-1]
+FormName=Mega Garbodor
+MegaStone=GARBODORITE
+Type1=POISON
+Type2=STEEL
+BaseStats=95,125,107,80,107,60
+Abilities=POISONTOUCH
+Weight=204.5
+BattlerPlayerY=34
+BattlerEnemyY=28
+BattlerAltitude=0
+#-------------------------------

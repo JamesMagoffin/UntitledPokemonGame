@@ -706,3 +706,5 @@
 758,TIMIDMINT,Timid Mint,Timid Mints,1,20,"When a Pokémon smells this mint, its Speed will grow more easily, but its Attack will grow more slowly.",1,0,0,
 759,UTILITYUMBRELLA,Utility Umbrella,Utility Umbrellas,1,4000,"An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of weather.",0,0,0,
 760,MEGARING,Mega Ring,Mega Rings,8,0,"This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve in battle.",0,0,6,
+761,LAPRASITE,Laprasite,Laprasites,1,1000,"One of the mysterious Mega Stones. Have Lapras hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
+762,GARBODORITE,Garbodorite,Garbodorites,1,1000,"One of the mysterious Mega Stones. Have Garbodor hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
