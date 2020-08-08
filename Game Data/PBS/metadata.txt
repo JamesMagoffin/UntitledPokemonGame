@@ -216,7 +216,8 @@ HealingSpot=35,17,7
 [037]
 # Forest - City Bridge
 SnapEdges=true
-BattleBack=EliteA
+BattleBack=
+Bicycle=true
 MapPosition=0,13,6
 Outdoor=true
 ShowArea=true
@@ -235,6 +236,7 @@ ShowArea=true
 [040]
 # Forest - Little Pond
 SnapEdges=true
+Bicycle=true
 MapPosition=0,11,6
 Outdoor=true
 BicycleAlways=false
@@ -244,6 +246,7 @@ ShowArea=true
 # Forest - Lakeside
 MapSize=1,111
 SnapEdges=true
+Bicycle=true
 MapPosition=0,11,7
 Outdoor=true
 BicycleAlways=false
@@ -264,6 +267,7 @@ ShowArea=true
 # Forest - Cabins
 MapSize=2,11
 SnapEdges=true
+Bicycle=true
 MapPosition=0,11,10
 Outdoor=true
 ShowArea=true
@@ -271,13 +275,14 @@ ShowArea=true
 [045]
 # Forest - Mini Falls
 SnapEdges=true
+Bicycle=true
 MapPosition=0,11,10
 Outdoor=true
-BicycleAlways=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [046]
-# Forest - Deep Entrance
+# Forest - Depths
 SnapEdges=true
 Bicycle=true
 MapPosition=0,12,6
@@ -289,7 +294,7 @@ ShowArea=true
 MapSize=2,11
 SnapEdges=true
 BattleBack=Mountain
-Weather=Rain,0
+Bicycle=true
 MapPosition=0,15,10
 Outdoor=true
 ShowArea=true
@@ -310,7 +315,7 @@ ShowArea=true
 [050]
 # Forest - Mountainside
 SnapEdges=true
-BattleBack=CaveDark
+BattleBack=
 Bicycle=true
 MapPosition=0,16,10
 DarkMap=false
