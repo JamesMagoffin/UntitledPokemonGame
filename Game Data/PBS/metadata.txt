@@ -214,11 +214,12 @@ MapPosition=0,13,6
 HealingSpot=35,17,7
 #-------------------------------
 [037]
-# MAP037
+# Forest - City Bridge
 SnapEdges=true
 BattleBack=EliteA
 MapPosition=0,13,6
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [038]
 # Project Yisal
@@ -232,20 +233,20 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [040]
-# MAP040
+# Forest - Little Pond
 SnapEdges=true
 MapPosition=0,11,6
 Outdoor=true
 BicycleAlways=false
-ShowArea=false
+ShowArea=true
 #-------------------------------
 [041]
-# MAP041
+# Forest - Lakeside
 MapSize=1,111
 SnapEdges=true
 MapPosition=0,11,7
 Outdoor=true
-BicycleAlways=true
+BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [042]
@@ -260,7 +261,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [044]
-# MAP044
+# Forest - Cabins
 MapSize=2,11
 SnapEdges=true
 MapPosition=0,11,10
@@ -268,7 +269,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [045]
-# MAP045
+# Forest - Mini Falls
 SnapEdges=true
 MapPosition=0,11,10
 Outdoor=true
@@ -276,13 +277,15 @@ BicycleAlways=true
 ShowArea=true
 #-------------------------------
 [046]
-# MAP046
+# Forest - Deep Entrance
 SnapEdges=true
 Bicycle=true
 MapPosition=0,12,6
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [047]
-# MAP047
+# Forest - Waterfall View
 MapSize=2,11
 SnapEdges=true
 BattleBack=Mountain
@@ -297,18 +300,22 @@ Bicycle=false
 Outdoor=true
 #-------------------------------
 [049]
-# MAP049
+# Forest - Waterfall Fork
 SnapEdges=true
 Bicycle=true
 MapPosition=0,16,10
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [050]
-# MAP050
+# Forest - Mountainside
 SnapEdges=true
 BattleBack=CaveDark
 Bicycle=true
 MapPosition=0,16,10
-DarkMap=true
+DarkMap=false
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [051]
 # Forest
