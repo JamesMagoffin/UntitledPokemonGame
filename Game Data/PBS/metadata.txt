@@ -214,9 +214,11 @@ MapPosition=0,13,6
 HealingSpot=35,17,7
 #-------------------------------
 [037]
-# Fairy Garden
+# MAP037
+SnapEdges=true
 BattleBack=EliteA
 MapPosition=0,13,6
+Outdoor=true
 #-------------------------------
 [038]
 # Project Yisal
@@ -231,13 +233,16 @@ ShowArea=true
 #-------------------------------
 [040]
 # MAP040
+SnapEdges=true
 MapPosition=0,11,6
-Outdoor=false
+Outdoor=true
 BicycleAlways=false
-ShowArea=true
+ShowArea=false
 #-------------------------------
 [041]
+# MAP041
 MapSize=1,111
+SnapEdges=true
 MapPosition=0,11,7
 Outdoor=true
 BicycleAlways=true
@@ -255,23 +260,31 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [044]
+# MAP044
 MapSize=2,11
+SnapEdges=true
 MapPosition=0,11,10
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [045]
+# MAP045
+SnapEdges=true
 MapPosition=0,11,10
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
 #-------------------------------
 [046]
+# MAP046
+SnapEdges=true
 Bicycle=true
 MapPosition=0,12,6
 #-------------------------------
 [047]
+# MAP047
 MapSize=2,11
+SnapEdges=true
 BattleBack=Mountain
 Weather=Rain,0
 MapPosition=0,15,10
@@ -284,16 +297,21 @@ Bicycle=false
 Outdoor=true
 #-------------------------------
 [049]
+# MAP049
+SnapEdges=true
 Bicycle=true
 MapPosition=0,16,10
 #-------------------------------
 [050]
+# MAP050
+SnapEdges=true
 BattleBack=CaveDark
 Bicycle=true
 MapPosition=0,16,10
 DarkMap=true
 #-------------------------------
 [051]
+# Forest
 Bicycle=true
 Dungeon=true
 MapPosition=0,16,10
