@@ -528,7 +528,7 @@
 528,SURFBOARD,Boat,,8,0,"",0,0,6,
 529,ABSOLITE,Absolite,Absolites,1,1000,"One of the mysterious Mega Stones. Have Absol hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
 530,GALLADITE,Galladite,Galladites,1,1000,"One of the mysterious Mega Stones. Have Gallade hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
-531,GLALITE,Glalite,Glalites,1,1000,"One of the mysterious Mega Stones. Have Glalie hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
+531,GLALITITE,Glalitite,Glalitites,1,1000,"One of the mysterious Mega Stones. Have Glalie hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
 532,PINSIRITE,Pinsirite,Pinsirites,1,1000,"One of the mysterious Mega Stones. Have Pinsir hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
 533,GARCHOMPITE,Garchompite,Garchompites,1,1000,"One of the mysterious Mega Stones. Have Garchomp hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
 534,BLASTOISINITE,Blastoisinite,Blastoisinites,1,1000,"One of the mysterious Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
