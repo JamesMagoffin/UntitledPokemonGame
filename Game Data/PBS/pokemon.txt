@@ -25,8 +25,8 @@ Habitat=Grassland
 RegionalNumbers=1,231
 Kind=Seed
 Pokedex=Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.
-BattlerPlayerY=33
-BattlerEnemyY=27
+BattlerPlayerY=70
+BattlerEnemyY=77
 BattlerAltitude=0
 Evolutions=IVYSAUR,Level,16
 #-------------------------------
@@ -55,8 +55,8 @@ Habitat=Grassland
 RegionalNumbers=2,232
 Kind=Seed
 Pokedex=To support its bulb, Ivysaur's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.
-BattlerPlayerY=24
-BattlerEnemyY=23
+BattlerPlayerY=54
+BattlerEnemyY=61
 BattlerAltitude=0
 Evolutions=VENUSAUR,Level,32
 #-------------------------------
@@ -85,8 +85,8 @@ Habitat=Grassland
 RegionalNumbers=3,233
 Kind=Seed
 Pokedex=Venusaur's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.
-BattlerPlayerY=16
-BattlerEnemyY=10
+BattlerPlayerY=44
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -115,8 +115,8 @@ Habitat=Mountain
 RegionalNumbers=4,234
 Kind=Lizard
 Pokedex=The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is happy, and blazes when it is enraged.
-BattlerPlayerY=25
-BattlerEnemyY=23
+BattlerPlayerY=52
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=CHARMELEON,Level,16
 #-------------------------------
@@ -144,8 +144,8 @@ Habitat=Mountain
 RegionalNumbers=5,235
 Kind=Flame
 Pokedex=Without pity, its sharp claws destroy foes. If it encounters a strong enemy, it becomes agitated, and the flame on its tail flares with a bluish white color.
-BattlerPlayerY=19
-BattlerEnemyY=19
+BattlerPlayerY=44
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=CHARIZARD,Level,36
 #-------------------------------
@@ -174,8 +174,8 @@ Habitat=Mountain
 RegionalNumbers=6,236
 Kind=Flame
 Pokedex=A Charizard flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.
-BattlerPlayerY=9
-BattlerEnemyY=4
+BattlerPlayerY=26
+BattlerEnemyY=32
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -204,8 +204,8 @@ Habitat=WatersEdge
 RegionalNumbers=7,237
 Kind=Tiny Turtle
 Pokedex=Its shell is not just for protection. Its rounded shape and the grooves on its surface minimize resistance in water, enabling Squirtle to swim at high speeds.
-BattlerPlayerY=29
-BattlerEnemyY=24
+BattlerPlayerY=60
+BattlerEnemyY=70
 BattlerAltitude=0
 Evolutions=WARTORTLE,Level,16
 #-------------------------------
@@ -233,8 +233,8 @@ Habitat=WatersEdge
 RegionalNumbers=8,238
 Kind=Turtle
 Pokedex=Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokémon's toughness in battle.
-BattlerPlayerY=19
-BattlerEnemyY=17
+BattlerPlayerY=40
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=BLASTOISE,Level,36
 #-------------------------------
@@ -262,8 +262,8 @@ Habitat=WatersEdge
 RegionalNumbers=9,239
 Kind=Shellfish
 Pokedex=The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.
-BattlerPlayerY=17
-BattlerEnemyY=12
+BattlerPlayerY=36
+BattlerEnemyY=56
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -291,8 +291,8 @@ Habitat=Forest
 RegionalNumbers=10,24
 Kind=Worm
 Pokedex=Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
-BattlerPlayerY=29
-BattlerEnemyY=27
+BattlerPlayerY=58
+BattlerEnemyY=67
 BattlerAltitude=0
 Evolutions=METAPOD,Level,7
 #-------------------------------
@@ -319,9 +319,9 @@ Habitat=Forest
 RegionalNumbers=11,25
 Kind=Cocoon
 Pokedex=Its shell is as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside the shell.
-BattlerPlayerY=27
-BattlerEnemyY=27
-BattlerAltitude=12
+BattlerPlayerY=54
+BattlerEnemyY=70
+BattlerAltitude=0
 Evolutions=BUTTERFREE,Level,10
 #-------------------------------
 [12]
@@ -350,9 +350,9 @@ RegionalNumbers=12,26
 Kind=Butterfly
 Pokedex=It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.
 WildItemUncommon=SILVERPOWDER
-BattlerPlayerY=23
-BattlerEnemyY=18
-BattlerAltitude=15
+BattlerPlayerY=43
+BattlerEnemyY=48
+BattlerAltitude=31
 Evolutions=
 #-------------------------------
 [13]
@@ -380,8 +380,8 @@ Habitat=Forest
 RegionalNumbers=13,27
 Kind=Hairy Bug
 Pokedex=A Weedle has an extremely acute sense of smell. It distinguishes its favorite kinds of leaves from those it dislikes by sniffing with its big red proboscis (nose).
-BattlerPlayerY=31
-BattlerEnemyY=28
+BattlerPlayerY=62
+BattlerEnemyY=69
 BattlerAltitude=0
 Evolutions=KAKUNA,Level,7
 #-------------------------------
@@ -409,9 +409,9 @@ Habitat=Forest
 RegionalNumbers=14,28
 Kind=Cocoon
 Pokedex=It remains virtually immobile while it clings to a tree. However, on the inside, it busily prepares for evolution. This is evident from how hot its shell becomes.
-BattlerPlayerY=28
-BattlerEnemyY=26
-BattlerAltitude=11
+BattlerPlayerY=56
+BattlerEnemyY=65
+BattlerAltitude=0
 Evolutions=BEEDRILL,Level,10
 #-------------------------------
 [15]
@@ -440,9 +440,9 @@ RegionalNumbers=15,29
 Kind=Poison Bee
 Pokedex=A Beedrill is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.
 WildItemUncommon=POISONBARB
-BattlerPlayerY=18
-BattlerEnemyY=15
-BattlerAltitude=11
+BattlerPlayerY=46
+BattlerEnemyY=35
+BattlerAltitude=26
 Evolutions=
 #-------------------------------
 [16]
@@ -471,8 +471,8 @@ Habitat=Forest
 RegionalNumbers=16,10
 Kind=Tiny Bird
 Pokedex=It has an extremely sharp sense of direction. It can unerringly return home to its nest, however far it may be removed from its familiar surroundings.
-BattlerPlayerY=30
-BattlerEnemyY=24
+BattlerPlayerY=64
+BattlerEnemyY=69
 BattlerAltitude=0
 Evolutions=PIDGEOTTO,Level,18
 #-------------------------------
@@ -501,9 +501,9 @@ Habitat=Forest
 RegionalNumbers=17,11
 Kind=Bird
 Pokedex=This Pokémon flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.
-BattlerPlayerY=9
-BattlerEnemyY=17
-BattlerAltitude=0
+BattlerPlayerY=21
+BattlerEnemyY=24
+BattlerAltitude=29
 Evolutions=PIDGEOT,Level,36
 #-------------------------------
 [18]
@@ -531,9 +531,9 @@ Habitat=Forest
 RegionalNumbers=18,12
 Kind=Bird
 Pokedex=This Pokémon has gorgeous, glossy feathers. Many trainers are so captivated by the beautiful feathers on its head that they choose Pidgeot as their Pokémon.
-BattlerPlayerY=16
-BattlerEnemyY=8
-BattlerAltitude=11
+BattlerPlayerY=40
+BattlerEnemyY=50
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [19]
@@ -561,8 +561,8 @@ Habitat=Grassland
 RegionalNumbers=19,17
 Kind=Mouse
 Pokedex=A Rattata is cautious in the extreme. Even while it is asleep, it constantly moves its ears and listens for danger. It will make its nest anywhere.
-BattlerPlayerY=30
-BattlerEnemyY=24
+BattlerPlayerY=71
+BattlerEnemyY=77
 BattlerAltitude=0
 Evolutions=RATICATE,Level,20
 #-------------------------------
@@ -590,8 +590,8 @@ Habitat=Grassland
 RegionalNumbers=20,18
 Kind=Mouse
 Pokedex=A Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.
-BattlerPlayerY=21
-BattlerEnemyY=16
+BattlerPlayerY=52
+BattlerEnemyY=57
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -622,8 +622,8 @@ Habitat=RoughTerrain
 RegionalNumbers=21,13
 Kind=Tiny Bird
 Pokedex=Its loud cry can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.
-BattlerPlayerY=29
-BattlerEnemyY=25
+BattlerPlayerY=62
+BattlerEnemyY=76
 BattlerAltitude=0
 Evolutions=FEAROW,Level,20
 #-------------------------------
@@ -653,9 +653,9 @@ RegionalNumbers=22,14
 Kind=Beak
 Pokedex=Its long neck and elongated beak are ideal for catching prey in soil or water. It deftly moves this extended and skinny beak to pluck prey.
 WildItemUncommon=SHARPBEAK
-BattlerPlayerY=9
-BattlerEnemyY=6
-BattlerAltitude=8
+BattlerPlayerY=34
+BattlerEnemyY=23
+BattlerAltitude=31
 Evolutions=
 #-------------------------------
 [23]
@@ -683,8 +683,8 @@ Habitat=Grassland
 RegionalNumbers=23,50
 Kind=Snake
 Pokedex=An Ekans curls itself up in a spiral while it rests. This position allows it to quickly respond to an enemy from any direction with a threat from its upraised head.
-BattlerPlayerY=26
-BattlerEnemyY=23
+BattlerPlayerY=60
+BattlerEnemyY=71
 BattlerAltitude=0
 Evolutions=ARBOK,Level,22
 #-------------------------------
@@ -712,8 +712,8 @@ Habitat=Grassland
 RegionalNumbers=24,51
 Kind=Cobra
 Pokedex=This Pokémon has a terrifically strong constricting power. It can even flatten steel oil drums. Once it wraps its body around its foe, escaping is impossible.
-BattlerPlayerY=15
-BattlerEnemyY=12
+BattlerPlayerY=48
+BattlerEnemyY=48
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -743,8 +743,8 @@ RegionalNumbers=25,22
 Kind=Mouse
 Pokedex=It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.
 WildItemUncommon=LIGHTBALL
-BattlerPlayerY=27
-BattlerEnemyY=18
+BattlerPlayerY=54
+BattlerEnemyY=64
 BattlerAltitude=0
 Evolutions=RAICHU,Item,THUNDERSTONE
 #-------------------------------
@@ -772,8 +772,8 @@ Habitat=Forest
 RegionalNumbers=26,23
 Kind=Mouse
 Pokedex=If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down.
-BattlerPlayerY=15
-BattlerEnemyY=11
+BattlerPlayerY=31
+BattlerEnemyY=55
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -803,8 +803,8 @@ RegionalNumbers=27,48
 Kind=Mouse
 Pokedex=When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.
 WildItemUncommon=GRIPCLAW
-BattlerPlayerY=30
-BattlerEnemyY=23
+BattlerPlayerY=64
+BattlerEnemyY=73
 BattlerAltitude=0
 Evolutions=SANDSLASH,Level,22
 #-------------------------------
@@ -833,8 +833,8 @@ RegionalNumbers=28,49
 Kind=Mouse
 Pokedex=It curls up in a ball to protect itself from enemy attacks. It also curls up to prevent heatstroke during the daytime when temperatures rise sharply.
 WildItemUncommon=GRIPCLAW
-BattlerPlayerY=24
-BattlerEnemyY=19
+BattlerPlayerY=56
+BattlerEnemyY=65
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -863,8 +863,8 @@ Habitat=Grassland
 RegionalNumbers=29,95
 Kind=Poison Pin
 Pokedex=Its highly toxic barbs are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.
-BattlerPlayerY=30
-BattlerEnemyY=27
+BattlerPlayerY=64
+BattlerEnemyY=67
 BattlerAltitude=0
 Evolutions=NIDORINA,Level,16
 #-------------------------------
@@ -892,8 +892,8 @@ Habitat=Grassland
 RegionalNumbers=30,96
 Kind=Poison Pin
 Pokedex=When it is with its friends or family, its barbs are tucked away to prevent injury. It appears to become nervous if separated from the others.
-BattlerPlayerY=24
-BattlerEnemyY=20
+BattlerPlayerY=52
+BattlerEnemyY=72
 BattlerAltitude=0
 Evolutions=NIDOQUEEN,Item,MOONSTONE
 #-------------------------------
@@ -922,8 +922,8 @@ Habitat=Grassland
 RegionalNumbers=31,97
 Kind=Drill
 Pokedex=It is adept at sending foes flying with harsh tackles using its tough, scaly body. This Pokémon is at its strongest when it is defending its young.
-BattlerPlayerY=15
-BattlerEnemyY=9
+BattlerPlayerY=34
+BattlerEnemyY=47
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -952,8 +952,8 @@ Habitat=Grassland
 RegionalNumbers=32,98
 Kind=Poison Pin
 Pokedex=The male Nidoran has developed muscles that freely move its ears in any direction. Even the slightest sound does not escape this Pokémon's notice.
-BattlerPlayerY=28
-BattlerEnemyY=24
+BattlerPlayerY=64
+BattlerEnemyY=78
 BattlerAltitude=0
 Evolutions=NIDORINO,Level,16
 #-------------------------------
@@ -981,8 +981,8 @@ Habitat=Grassland
 RegionalNumbers=33,99
 Kind=Poison Pin
 Pokedex=Its horn is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.
-BattlerPlayerY=21
-BattlerEnemyY=19
+BattlerPlayerY=52
+BattlerEnemyY=66
 BattlerAltitude=0
 Evolutions=NIDOKING,Item,MOONSTONE
 #-------------------------------
@@ -1011,8 +1011,8 @@ Habitat=Grassland
 RegionalNumbers=34,100
 Kind=Drill
 Pokedex=A Nidoking's thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.
-BattlerPlayerY=17
-BattlerEnemyY=10
+BattlerPlayerY=36
+BattlerEnemyY=47
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -1041,8 +1041,8 @@ RegionalNumbers=35,41
 Kind=Fairy
 Pokedex=On every night of a full moon, they come out to play. When dawn arrives, the tired Clefairy go to sleep nestled up against each other in deep and quiet mountains.
 WildItemUncommon=MOONSTONE
-BattlerPlayerY=28
-BattlerEnemyY=27
+BattlerPlayerY=56
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=CLEFABLE,Item,MOONSTONE
 #-------------------------------
@@ -1071,8 +1071,8 @@ RegionalNumbers=36,42
 Kind=Fairy
 Pokedex=A Clefable uses its wings to skip lightly as if it were flying. Its bouncy step lets it even walk on water. On quiet, moonlit nights, it strolls on lakes.
 WildItemUncommon=MOONSTONE
-BattlerPlayerY=19
-BattlerEnemyY=21
+BattlerPlayerY=40
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -1102,8 +1102,8 @@ RegionalNumbers=37,127
 Kind=Fox
 Pokedex=It can freely control fire, making fiery orbs fly like will-o'-the-wisps. Just before evolution, its six tails grow hot as if on fire.
 WildItemUncommon=CHARCOAL
-BattlerPlayerY=25
-BattlerEnemyY=22
+BattlerPlayerY=58
+BattlerEnemyY=57
 BattlerAltitude=0
 Evolutions=NINETALES,Item,FIRESTONE
 #-------------------------------
@@ -1132,8 +1132,8 @@ RegionalNumbers=38,128
 Kind=Fox
 Pokedex=It has long been said that each of the nine tails embody an enchanted power. A long-lived Ninetales will have fur that shines like gold.
 WildItemUncommon=CHARCOAL
-BattlerPlayerY=13
-BattlerEnemyY=11
+BattlerPlayerY=32
+BattlerEnemyY=46
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -1163,8 +1163,8 @@ RegionalNumbers=39,44
 Kind=Balloon
 WildItemUncommon=MOONSTONE
 Pokedex=Nothing can avoid falling asleep hearing a Jigglypuff's song. The sound waves of its singing voice match the brain waves of someone in a deep sleep.
-BattlerPlayerY=31
-BattlerEnemyY=27
+BattlerPlayerY=64
+BattlerEnemyY=75
 BattlerAltitude=0
 Evolutions=WIGGLYTUFF,Item,MOONSTONE
 #-------------------------------
@@ -1194,8 +1194,8 @@ RegionalNumbers=40,45
 Kind=Balloon
 WildItemUncommon=MOONSTONE
 Pokedex=Its fur is the ultimate in luxuriousness. Sleeping alongside a Wigglytuff is simply divine. Its body expands seemingly without end when it inhales.
-BattlerPlayerY=21
-BattlerEnemyY=15
+BattlerPlayerY=44
+BattlerEnemyY=54
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -1225,9 +1225,9 @@ Habitat=Cave
 RegionalNumbers=41,37
 Kind=Bat
 Pokedex=While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.
-BattlerPlayerY=32
-BattlerEnemyY=20
-BattlerAltitude=13
+BattlerPlayerY=50
+BattlerEnemyY=45
+BattlerAltitude=31
 Evolutions=GOLBAT,Level,22
 #-------------------------------
 [42]
@@ -1255,9 +1255,9 @@ Habitat=Cave
 RegionalNumbers=42,38
 Kind=Bat
 Pokedex=Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and Pokémon. It flits about in darkness and strikes from behind.
-BattlerPlayerY=19
-BattlerEnemyY=15
-BattlerAltitude=12
+BattlerPlayerY=34
+BattlerEnemyY=32
+BattlerAltitude=35
 Evolutions=CROBAT,Happiness,
 #-------------------------------
 [43]
@@ -1287,8 +1287,8 @@ RegionalNumbers=43,83
 Kind=Weed
 WildItemUncommon=ABSORBBULB
 Pokedex=This Pokémon grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.
-BattlerPlayerY=30
-BattlerEnemyY=26
+BattlerPlayerY=60
+BattlerEnemyY=68
 BattlerAltitude=0
 Evolutions=GLOOM,Level,21
 #-------------------------------
@@ -1318,8 +1318,8 @@ RegionalNumbers=44,84
 Kind=Weed
 WildItemUncommon=ABSORBBULB
 Pokedex=A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.
-BattlerPlayerY=25
-BattlerEnemyY=24
+BattlerPlayerY=56
+BattlerEnemyY=61
 BattlerAltitude=0
 Evolutions=VILEPLUME,Item,LEAFSTONE,BELLOSSOM,Item,SUNSTONE
 #-------------------------------
@@ -1349,8 +1349,8 @@ RegionalNumbers=45,85
 Kind=Flower
 WildItemUncommon=ABSORBBULB
 Pokedex=In seasons when it produces more pollen, the air around a Vileplume turns yellow with the powder as it walks. The pollen is highly toxic and causes paralysis.
-BattlerPlayerY=23
-BattlerEnemyY=19
+BattlerPlayerY=48
+BattlerEnemyY=51
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -1382,8 +1382,8 @@ Kind=Mushroom
 Pokedex=A Paras has parasitic tochukaso mushrooms growing on its back. They grow by drawing nutrients from the host. They are valued as a medicine for long life.
 WildItemCommon=TINYMUSHROOM
 WildItemUncommon=BIGMUSHROOM
-BattlerPlayerY=32
-BattlerEnemyY=27
+BattlerPlayerY=76
+BattlerEnemyY=85
 BattlerAltitude=0
 Evolutions=PARASECT,Level,24
 #-------------------------------
@@ -1414,8 +1414,8 @@ Kind=Mushroom
 Pokedex=Parasect are known to infest the roots of large trees en masse and drain nutrients. When an infested tree dies, they move onto another tree all at once.
 WildItemCommon=TINYMUSHROOM
 WildItemUncommon=BIGMUSHROOM
-BattlerPlayerY=22
-BattlerEnemyY=18
+BattlerPlayerY=64
+BattlerEnemyY=62
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -1445,8 +1445,8 @@ Habitat=Forest
 RegionalNumbers=48,109
 Kind=Insect
 Pokedex=Its coat of thin, stiff hair that covers its entire body is said to have evolved for protection. Its large eyes never fail to spot even miniscule prey.
-BattlerPlayerY=24
-BattlerEnemyY=16
+BattlerPlayerY=60
+BattlerEnemyY=62
 BattlerAltitude=0
 Evolutions=VENOMOTH,Level,31
 #-------------------------------
@@ -1476,9 +1476,9 @@ RegionalNumbers=49,110
 Kind=Poison Moth
 Pokedex=Venomoth are nocturnal--they only are active at night. Their favorite prey are insects that gather around streetlights, attracted by the light in the darkness.
 WildItemUncommon=SHEDSHELL
-BattlerPlayerY=16
-BattlerEnemyY=18
-BattlerAltitude=15
+BattlerPlayerY=27
+BattlerEnemyY=26
+BattlerAltitude=30
 Evolutions=
 #-------------------------------
 [50]
@@ -1507,8 +1507,8 @@ RegionalNumbers=50,134
 Kind=Mole
 Pokedex=Diglett are raised in most farms. The reason is simple--wherever they burrow, the soil is left perfectly tilled for growing delicious crops.
 WildItemUncommon=SOFTSAND
-BattlerPlayerY=32
-BattlerEnemyY=30
+BattlerPlayerY=78
+BattlerEnemyY=78
 BattlerAltitude=0
 Evolutions=DUGTRIO,Level,26
 #-------------------------------
@@ -1537,8 +1537,8 @@ RegionalNumbers=51,135
 Kind=Mole
 Pokedex=Because the triplets originally split from one body, they think exactly alike. They work cooperatively to burrow endlessly through the ground.
 WildItemUncommon=SOFTSAND
-BattlerPlayerY=27
-BattlerEnemyY=23
+BattlerPlayerY=72
+BattlerEnemyY=71
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -1568,8 +1568,8 @@ RegionalNumbers=52,138
 Kind=Scratch Cat
 Pokedex=Meowth withdraw their sharp claws into their paws to silently sneak about. For some reason, this Pokémon loves shiny coins that glitter with light.
 WildItemUncommon=QUICKCLAW
-BattlerPlayerY=25
-BattlerEnemyY=20
+BattlerPlayerY=52
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=PERSIAN,Level,28
 #-------------------------------
@@ -1598,8 +1598,8 @@ RegionalNumbers=53,139
 Kind=Classy Cat
 Pokedex=A Persian's six bold whiskers sense air movements to determine what is in its vicinity. It becomes docile if grabbed by the whiskers.
 WildItemUncommon=QUICKCLAW
-BattlerPlayerY=15
-BattlerEnemyY=16
+BattlerPlayerY=38
+BattlerEnemyY=46
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -1628,8 +1628,8 @@ Habitat=WatersEdge
 RegionalNumbers=54,140
 Kind=Duck
 Pokedex=When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.
-BattlerPlayerY=27
-BattlerEnemyY=21
+BattlerPlayerY=56
+BattlerEnemyY=68
 BattlerAltitude=0
 Evolutions=GOLDUCK,Level,33
 #-------------------------------
@@ -1657,8 +1657,8 @@ Habitat=WatersEdge
 RegionalNumbers=55,141
 Kind=Duck
 Pokedex=A Golduck is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.
-BattlerPlayerY=20
-BattlerEnemyY=15
+BattlerPlayerY=48
+BattlerEnemyY=54
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -1687,8 +1687,8 @@ Habitat=Mountain
 RegionalNumbers=56,136
 Kind=Pig Monkey
 Pokedex=When it starts shaking and its nasal breathing turns rough, it's a sure sign of anger. However, since this happens instantly, there is no time to flee.
-BattlerPlayerY=24
-BattlerEnemyY=22
+BattlerPlayerY=54
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=PRIMEAPE,Level,28
 #-------------------------------
@@ -1716,8 +1716,8 @@ Habitat=Mountain
 RegionalNumbers=57,137
 Kind=Pig Monkey
 Pokedex=When it becomes furious, its blood circulation becomes more robust, and its muscles are made stronger. But it also becomes much less intelligent.
-BattlerPlayerY=21
-BattlerEnemyY=16
+BattlerPlayerY=42
+BattlerEnemyY=58
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -1746,8 +1746,8 @@ Habitat=Grassland
 RegionalNumbers=58,129
 Kind=Puppy
 Pokedex=Its superb sense of smell ensures that this Pokémon won't forget any scent, no matter what. It uses its sense of smell to detect the emotions of others.
-BattlerPlayerY=25
-BattlerEnemyY=19
+BattlerPlayerY=60
+BattlerEnemyY=73
 BattlerAltitude=0
 Evolutions=ARCANINE,Item,FIRESTONE
 #-------------------------------
@@ -1778,8 +1778,8 @@ Pokedex=This fleet-footed Pokémon is said to run over 6,200 miles in a single d
 WildItemCommon=RAWSTBERRY
 WildItemUncommon=RAWSTBERRY
 WildItemRare=RAWSTBERRY
-BattlerPlayerY=9
-BattlerEnemyY=9
+BattlerPlayerY=30
+BattlerEnemyY=45
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -1808,8 +1808,8 @@ Habitat=WatersEdge
 RegionalNumbers=60,72
 Kind=Tadpole
 Pokedex=It is possible to see this Pokémon's spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.
-BattlerPlayerY=27
-BattlerEnemyY=27
+BattlerPlayerY=56
+BattlerEnemyY=64
 BattlerAltitude=0
 Evolutions=POLIWHIRL,Level,25
 #-------------------------------
@@ -1838,8 +1838,8 @@ RegionalNumbers=61,73
 Kind=Tadpole
 Pokedex=Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.
 WildItemUncommon=KINGSROCK
-BattlerPlayerY=24
-BattlerEnemyY=22
+BattlerPlayerY=50
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=POLIWRATH,Item,WATERSTONE,POLITOED,TradeItem,KINGSROCK
 #-------------------------------
@@ -1869,8 +1869,8 @@ RegionalNumbers=62,74
 Kind=Tadpole
 Pokedex=Its highly developed muscles never grow fatigued, however much it exercises. This Pokémon can swim back and forth across the Pacific Ocean without effort.
 WildItemUncommon=KINGSROCK
-BattlerPlayerY=20
-BattlerEnemyY=17
+BattlerPlayerY=42
+BattlerEnemyY=51
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -1900,8 +1900,8 @@ RegionalNumbers=63,89
 Kind=Psi
 Pokedex=A Pokémon that sleeps 18 hours a day. Observation revealed that it uses Teleport to change its location once every hour.
 WildItemUncommon=TWISTEDSPOON
-BattlerPlayerY=27
-BattlerEnemyY=22
+BattlerPlayerY=58
+BattlerEnemyY=71
 BattlerAltitude=0
 Evolutions=KADABRA,Level,16
 #-------------------------------
@@ -1930,8 +1930,8 @@ RegionalNumbers=64,90
 Kind=Psi
 Pokedex=It is rumored that a boy with psychic abilities suddenly transformed into Kadabra while he was assisting research into extrasensory powers.
 WildItemUncommon=TWISTEDSPOON
-BattlerPlayerY=18
-BattlerEnemyY=13
+BattlerPlayerY=41
+BattlerEnemyY=55
 BattlerAltitude=0
 Evolutions=ALAKAZAM,Trade,
 #-------------------------------
@@ -1960,8 +1960,8 @@ RegionalNumbers=65,91
 Kind=Psi
 Pokedex=While it has strong psychic abilities and high intelligence, an Alakazam's muscles are very weak. It uses psychic power to move its body.
 WildItemUncommon=TWISTEDSPOON
-BattlerPlayerY=16
-BattlerEnemyY=12
+BattlerPlayerY=38
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -1991,8 +1991,8 @@ RegionalNumbers=66,142
 Kind=Superpower
 WildItemUncommon=FOCUSBAND
 Pokedex=It continually undertakes strenuous training to master all forms of martial arts. Its strength lets it easily hoist a sumo wrestler onto its shoulders.
-BattlerPlayerY=21
-BattlerEnemyY=17
+BattlerPlayerY=42
+BattlerEnemyY=56
 BattlerAltitude=0
 Evolutions=MACHOKE,Level,28
 #-------------------------------
@@ -2021,8 +2021,8 @@ RegionalNumbers=67,143
 Kind=Superpower
 WildItemUncommon=FOCUSBAND
 Pokedex=A belt is worn by a Machoke to keep its overwhelming power under control. Because it is so dangerous, no one has ever removed the belt.
-BattlerPlayerY=14
-BattlerEnemyY=12
+BattlerPlayerY=34
+BattlerEnemyY=41
 BattlerAltitude=0
 Evolutions=MACHAMP,Trade,
 #-------------------------------
@@ -2051,8 +2051,8 @@ RegionalNumbers=68,144
 Kind=Superpower
 WildItemUncommon=FOCUSBAND
 Pokedex=It is impossible to defend against punches and chops doled out by its four arms. Its fighting spirit flares up when it faces a tough opponent.
-BattlerPlayerY=10
-BattlerEnemyY=5
+BattlerPlayerY=22
+BattlerEnemyY=39
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -2082,8 +2082,8 @@ Habitat=Forest
 RegionalNumbers=69,64
 Kind=Flower
 Pokedex=A Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, it leaks a fluid that melts even iron.
-BattlerPlayerY=25
-BattlerEnemyY=25
+BattlerPlayerY=60
+BattlerEnemyY=65
 BattlerAltitude=0
 Evolutions=WEEPINBELL,Level,21
 #-------------------------------
@@ -2112,9 +2112,9 @@ Habitat=Forest
 RegionalNumbers=70,65
 Kind=Flycatcher
 Pokedex=At night, a Weepinbell hangs on to a tree branch with its hooked rear and sleeps. If it moves around in its sleep, it may wake up to find itself on the ground.
-BattlerPlayerY=24
-BattlerEnemyY=22
-BattlerAltitude=10
+BattlerPlayerY=46
+BattlerEnemyY=56
+BattlerAltitude=9
 Evolutions=VICTREEBEL,Item,LEAFSTONE
 #-------------------------------
 [71]
@@ -2142,8 +2142,8 @@ Habitat=Forest
 RegionalNumbers=71,66
 Kind=Flycatcher
 Pokedex=The long vine extending from its head is waved about as if it were a living thing to attract prey. When an unsuspecting victim approaches, it is swallowed whole.
-BattlerPlayerY=10
-BattlerEnemyY=15
+BattlerPlayerY=26
+BattlerEnemyY=38
 BattlerAltitude=11
 Evolutions=
 #-------------------------------
@@ -2174,9 +2174,9 @@ RegionalNumbers=72,164
 Kind=Jellyfish
 Pokedex=Its body is almost entirely composed of water. It ensnares its foe with its two long tentacles, then stabs with the poison stingers at their tips.
 WildItemUncommon=POISONBARB
-BattlerPlayerY=21
-BattlerEnemyY=15
-BattlerAltitude=8
+BattlerPlayerY=33
+BattlerEnemyY=32
+BattlerAltitude=10
 Evolutions=TENTACRUEL,Level,30
 #-------------------------------
 [73]
@@ -2205,9 +2205,9 @@ RegionalNumbers=73,165
 Kind=Jellyfish
 Pokedex=It lives in complex rock formations on the ocean floor and traps prey using its 80 tentacles. Its red orbs glow when it grows excited or agitated.
 WildItemUncommon=POISONBARB
-BattlerPlayerY=17
-BattlerEnemyY=13
-BattlerAltitude=7
+BattlerPlayerY=34
+BattlerEnemyY=21
+BattlerAltitude=14
 Evolutions=
 #-------------------------------
 [74]
@@ -2237,9 +2237,9 @@ RegionalNumbers=74,34
 Kind=Rock
 Pokedex=It climbs mountain paths using only the power of its arms. Because they look just like boulders lining paths, hikers may step on them without noticing.
 WildItemUncommon=EVERSTONE
-BattlerPlayerY=33
-BattlerEnemyY=28
-BattlerAltitude=16
+BattlerPlayerY=40
+BattlerEnemyY=30
+BattlerAltitude=12
 Evolutions=GRAVELER,Level,25
 #-------------------------------
 [75]
@@ -2268,8 +2268,8 @@ RegionalNumbers=75,35
 Kind=Rock
 Pokedex=They descend from mountains by tumbling down steep slopes. They are so brutal, they smash aside obstructing trees and massive boulders with thunderous tackles.
 WildItemUncommon=EVERSTONE
-BattlerPlayerY=28
-BattlerEnemyY=22
+BattlerPlayerY=58
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=GOLEM,Trade,
 #-------------------------------
@@ -2299,8 +2299,8 @@ RegionalNumbers=76,36
 Kind=Megaton
 Pokedex=It is said to live in volcanic craters on mountain peaks. Once a year, it sheds its hide and grows larger. The shed hide crumbles and returns to the soil.
 WildItemUncommon=EVERSTONE
-BattlerPlayerY=20
-BattlerEnemyY=16
+BattlerPlayerY=44
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -2329,8 +2329,8 @@ Habitat=Grassland
 RegionalNumbers=77,206
 Kind=Fire Horse
 Pokedex=A Ponyta is very weak at birth. It can barely stand up. Its legs become stronger as it stumbles and falls while trying to keep up with its parent.
-BattlerPlayerY=19
-BattlerEnemyY=18
+BattlerPlayerY=44
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=RAPIDASH,Level,40
 #-------------------------------
@@ -2358,8 +2358,8 @@ Habitat=Grassland
 RegionalNumbers=78,207
 Kind=Fire Horse
 Pokedex=It usually canters casually in the fields and plains. But once a Rapidash turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.
-BattlerPlayerY=13
-BattlerEnemyY=10
+BattlerPlayerY=34
+BattlerEnemyY=35
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -2390,8 +2390,8 @@ RegionalNumbers=79,80
 Kind=Dopey
 Pokedex=It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends entire days just loafing at water's edge.
 WildItemUncommon=LAGGINGTAIL
-BattlerPlayerY=26
-BattlerEnemyY=29
+BattlerPlayerY=56
+BattlerEnemyY=64
 BattlerAltitude=0
 Evolutions=SLOWBRO,Level,37,SLOWKING,TradeItem,KINGSROCK
 #-------------------------------
@@ -2421,8 +2421,8 @@ RegionalNumbers=80,81
 Kind=Hermit Crab
 Pokedex=Its tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This forces it to reluctantly swim and catch prey.
 WildItemUncommon=KINGSROCK
-BattlerPlayerY=17
-BattlerEnemyY=15
+BattlerPlayerY=37
+BattlerEnemyY=45
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -2454,7 +2454,7 @@ Pokedex=The units at its sides are extremely powerful magnets. They generate eno
 WildItemUncommon=METALCOAT
 BattlerPlayerY=36
 BattlerEnemyY=31
-BattlerAltitude=19
+BattlerAltitude=9
 Evolutions=MAGNETON,Level,30
 #-------------------------------
 [82]
@@ -2485,7 +2485,7 @@ Pokedex=It is actually three Magnemite linked by magnetism. It generates powerfu
 WildItemUncommon=METALCOAT
 BattlerPlayerY=22
 BattlerEnemyY=16
-BattlerAltitude=15
+BattlerAltitude=12
 Evolutions=MAGNEZONE,Item,THUNDERSTONE
 #-------------------------------
 [83]
@@ -2515,8 +2515,8 @@ RegionalNumbers=83,160
 Kind=Wild Duck
 Pokedex=It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pokémon occasionally fights with others over choice sticks.
 WildItemUncommon=STICK
-BattlerPlayerY=22
-BattlerEnemyY=20
+BattlerPlayerY=52
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -2547,8 +2547,8 @@ RegionalNumbers=84,204
 Kind=Twin Bird
 Pokedex=Even while eating or sleeping, one of the heads remains always vigilant for any sign of danger. When threatened, it flees at over 60 miles per hour.
 WildItemUncommon=SHARPBEAK
-BattlerPlayerY=21
-BattlerEnemyY=17
+BattlerPlayerY=48
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=DODRIO,Level,31
 #-------------------------------
@@ -2578,8 +2578,8 @@ RegionalNumbers=85,205
 Kind=Triple Bird
 Pokedex=A peculiar Pokémon species with three heads. It vigorously races across grassy plains even in arid seasons with little rainfall.
 WildItemUncommon=SHARPBEAK
-BattlerPlayerY=11
-BattlerEnemyY=5
+BattlerPlayerY=26
+BattlerEnemyY=32
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -2608,8 +2608,8 @@ Habitat=Sea
 RegionalNumbers=86,178
 Kind=Sea Lion
 Pokedex=Seel hunt for prey in frigid, ice-covered seas. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.
-BattlerPlayerY=26
-BattlerEnemyY=20
+BattlerPlayerY=56
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=DEWGONG,Level,34
 #-------------------------------
@@ -2638,8 +2638,8 @@ Habitat=Sea
 RegionalNumbers=87,179
 Kind=Sea Lion
 Pokedex=It loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.
-BattlerPlayerY=18
-BattlerEnemyY=11
+BattlerPlayerY=38
+BattlerEnemyY=40
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -2669,8 +2669,8 @@ RegionalNumbers=88,117
 Kind=Sludge
 Pokedex=Born from polluted sludge in the sea, Grimer's favorite food is anything filthy. They feed on wastewater pumped out from factories.
 WildItemUncommon=BLACKSLUDGE
-BattlerPlayerY=28
-BattlerEnemyY=24
+BattlerPlayerY=62
+BattlerEnemyY=76
 BattlerAltitude=0
 Evolutions=MUK,Level,38
 #-------------------------------
@@ -2699,8 +2699,8 @@ RegionalNumbers=89,118
 Kind=Sludge
 Pokedex=It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making Muk reek like putrid kitchen garbage.
 WildItemUncommon=BLACKSLUDGE
-BattlerPlayerY=19
-BattlerEnemyY=10
+BattlerPlayerY=50
+BattlerEnemyY=56
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -2731,8 +2731,8 @@ Kind=Bivalve
 Pokedex=At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out.
 WildItemCommon=PEARL
 WildItemUncommon=BIGPEARL
-BattlerPlayerY=34
-BattlerEnemyY=28
+BattlerPlayerY=75
+BattlerEnemyY=81
 BattlerAltitude=0
 Evolutions=CLOYSTER,Item,WATERSTONE
 #-------------------------------
@@ -2763,8 +2763,8 @@ Kind=Bivalve
 Pokedex=It swims in the sea by swallowing water, then jetting it out toward the rear. The Cloyster shoots spikes from its shell using the same system.
 WildItemCommon=PEARL
 WildItemUncommon=BIGPEARL
-BattlerPlayerY=20
-BattlerEnemyY=14
+BattlerPlayerY=46
+BattlerEnemyY=47
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -2793,9 +2793,9 @@ Habitat=Cave
 RegionalNumbers=92,58
 Kind=Gas
 Pokedex=When exposed to a strong wind, a Gastly's gaseous body quickly dwindles away. They cluster under the eaves of houses to escape the ravages of wind.
-BattlerPlayerY=22
-BattlerEnemyY=22
-BattlerAltitude=13
+BattlerPlayerY=33
+BattlerEnemyY=34
+BattlerAltitude=30
 Evolutions=HAUNTER,Level,25
 #-------------------------------
 [93]
@@ -2822,9 +2822,9 @@ Habitat=Cave
 RegionalNumbers=93,59
 Kind=Gas
 Pokedex=If a Haunter beckons you while it is floating in darkness, don't approach it. This Pokémon will try to lick you with its tongue and steal your life away.
-BattlerPlayerY=26
-BattlerEnemyY=20
-BattlerAltitude=14
+BattlerPlayerY=32
+BattlerEnemyY=32
+BattlerAltitude=22
 Evolutions=GENGAR,Trade,
 #-------------------------------
 [94]
@@ -2851,8 +2851,8 @@ Habitat=Cave
 RegionalNumbers=94,60
 Kind=Shadow
 Pokedex=Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a Gengar running past you, pretending to be your shadow.
-BattlerPlayerY=21
-BattlerEnemyY=18
+BattlerPlayerY=44
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -2882,8 +2882,8 @@ Habitat=Cave
 RegionalNumbers=95,62
 Kind=Rock Snake
 Pokedex=There is a magnet in its brain that prevents an Onix from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.
-BattlerPlayerY=13
-BattlerEnemyY=8
+BattlerPlayerY=32
+BattlerEnemyY=34
 BattlerAltitude=0
 Evolutions=STEELIX,TradeItem,METALCOAT
 #-------------------------------
@@ -2912,8 +2912,8 @@ Habitat=Grassland
 RegionalNumbers=96,87
 Kind=Hypnosis
 Pokedex=If your nose becomes itchy while you are sleeping, it's a sure sign that a Drowzee is standing above your pillow and trying to eat your dream through your nostrils.
-BattlerPlayerY=22
-BattlerEnemyY=18
+BattlerPlayerY=46
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=HYPNO,Level,26
 #-------------------------------
@@ -2941,8 +2941,8 @@ Habitat=Grassland
 RegionalNumbers=97,88
 Kind=Hypnosis
 Pokedex=The arcing movement and glitter of the pendulum in a Hypno's hand lull the foe into deep hypnosis. While searching for prey, it polishes the pendulum.
-BattlerPlayerY=18
-BattlerEnemyY=12
+BattlerPlayerY=40
+BattlerEnemyY=51
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -2971,8 +2971,8 @@ Habitat=WatersEdge
 RegionalNumbers=98,166
 Kind=River Crab
 Pokedex=Krabby live in holes dug into beaches. On sandy shores with little in the way of food, they can be seen squabbling with each other over territory.
-BattlerPlayerY=28
-BattlerEnemyY=23
+BattlerPlayerY=70
+BattlerEnemyY=74
 BattlerAltitude=0
 Evolutions=KINGLER,Level,28
 #-------------------------------
@@ -3000,8 +3000,8 @@ Habitat=WatersEdge
 RegionalNumbers=99,167
 Kind=Pincer
 Pokedex=It waves its huge, oversized claw in the air to communicate with others. But since the claw is so heavy, this Pokémon quickly tires.
-BattlerPlayerY=18
-BattlerEnemyY=16
+BattlerPlayerY=44
+BattlerEnemyY=52
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -3029,8 +3029,8 @@ Habitat=Urban
 RegionalNumbers=100,121
 Kind=Ball
 Pokedex=It bears an uncanny and unexplained resemblance to a Poké Ball. Because it explodes at the slightest shock, even veteran trainers treat it with caution.
-BattlerPlayerY=33
-BattlerEnemyY=29
+BattlerPlayerY=66
+BattlerEnemyY=73
 BattlerAltitude=0
 Evolutions=ELECTRODE,Level,30
 #-------------------------------
@@ -3058,8 +3058,8 @@ Habitat=Urban
 RegionalNumbers=101,122
 Kind=Ball
 Pokedex=They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.
-BattlerPlayerY=25
-BattlerEnemyY=21
+BattlerPlayerY=50
+BattlerEnemyY=60
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -3090,8 +3090,8 @@ RegionalNumbers=102,105
 Kind=Egg
 WildItemUncommon=PSYCHICSEED
 Pokedex=It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.
-BattlerPlayerY=30
-BattlerEnemyY=25
+BattlerPlayerY=68
+BattlerEnemyY=73
 BattlerAltitude=0
 Evolutions=EXEGGUTOR,Item,LEAFSTONE
 #-------------------------------
@@ -3120,8 +3120,8 @@ Habitat=Forest
 RegionalNumbers=103,106
 Kind=Coconut
 Pokedex=Originally from the tropics, Exeggutor's heads grow larger from exposure to strong sunlight. It is said that when the heads fall, they group to form an Exeggcute.
-BattlerPlayerY=14
-BattlerEnemyY=7
+BattlerPlayerY=30
+BattlerEnemyY=32
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -3151,8 +3151,8 @@ RegionalNumbers=104,208
 Kind=Lonely
 Pokedex=It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.
 WildItemUncommon=THICKCLUB
-BattlerPlayerY=29
-BattlerEnemyY=25
+BattlerPlayerY=62
+BattlerEnemyY=73
 BattlerAltitude=0
 Evolutions=MAROWAK,Level,28
 #-------------------------------
@@ -3181,8 +3181,8 @@ RegionalNumbers=105,209
 Kind=Bone Keeper
 Pokedex=A Marowak is the evolved form of a Cubone that has grown tough by overcoming the grief of losing its mother. Its tempered and hardened spirit is not easily broken.
 WildItemUncommon=THICKCLUB
-BattlerPlayerY=27
-BattlerEnemyY=22
+BattlerPlayerY=58
+BattlerEnemyY=66
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -3210,8 +3210,8 @@ Habitat=Urban
 RegionalNumbers=106,146
 Kind=Kicking
 Pokedex=Its legs freely stretch and contract. Using these springlike limbs, it bowls over foes with devastating kicks. After battle, it rubs down its tired legs.
-BattlerPlayerY=15
-BattlerEnemyY=16
+BattlerPlayerY=30
+BattlerEnemyY=48
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -3239,8 +3239,8 @@ Habitat=Urban
 RegionalNumbers=107,147
 Kind=Punching
 Pokedex=A Hitmonchan is said to possess the spirit of a boxer who aimed to become the world champion. Having an indomitable spirit means that it will never give up.
-BattlerPlayerY=21
-BattlerEnemyY=14
+BattlerPlayerY=44
+BattlerEnemyY=55
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -3270,8 +3270,8 @@ RegionalNumbers=108,180
 Kind=Licking
 Pokedex=Whenever it sees something unfamiliar, it always licks the object because it memorizes things by texture and taste. It is somewhat put off by sour things.
 WildItemUncommon=LAGGINGTAIL
-BattlerPlayerY=19
-BattlerEnemyY=18
+BattlerPlayerY=42
+BattlerEnemyY=52
 BattlerAltitude=0
 Evolutions=LICKILICKY,HasMove,ROLLOUT
 #-------------------------------
@@ -3301,9 +3301,9 @@ RegionalNumbers=109,115
 Kind=Poison Gas
 Pokedex=Getting up close to a Koffing will give you a chance to observe, through its thin skin, the toxic gases swirling inside. It blows up at the slightest stimulation.
 WildItemUncommon=SMOKEBALL
-BattlerPlayerY=22
-BattlerEnemyY=20
-BattlerAltitude=16
+BattlerPlayerY=25
+BattlerEnemyY=15
+BattlerAltitude=20
 Evolutions=WEEZING,Level,35
 #-------------------------------
 [110]
@@ -3331,9 +3331,9 @@ RegionalNumbers=110,116
 Kind=Poison Gas
 Pokedex=By diluting its toxic gases with a special process, the highest grade of perfume can be extracted. To Weezing, gases emanating from garbage are the ultimate feast.
 WildItemUncommon=SMOKEBALL
-BattlerPlayerY=21
+BattlerPlayerY=31
 BattlerEnemyY=8
-BattlerAltitude=8
+BattlerAltitude=20
 Evolutions=
 #-------------------------------
 [111]
@@ -3362,8 +3362,8 @@ Habitat=RoughTerrain
 RegionalNumbers=111,211
 Kind=Spikes
 Pokedex=Once it starts running, it doesn't stop. Its tiny brain makes it so stupid that it can't remember why it started running in the first place.
-BattlerPlayerY=19
-BattlerEnemyY=17
+BattlerPlayerY=48
+BattlerEnemyY=61
 BattlerAltitude=0
 Evolutions=RHYDON,Level,42
 #-------------------------------
@@ -3392,8 +3392,8 @@ Habitat=RoughTerrain
 RegionalNumbers=112,212
 Kind=Drill
 Pokedex=Its horn, which rotates like a drill, destroys tall buildings with one strike. It stands on its hind legs, and its brain is well developed.
-BattlerPlayerY=17
-BattlerEnemyY=11
+BattlerPlayerY=40
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=RHYPERIOR,TradeItem,PROTECTOR
 #-------------------------------
@@ -3423,8 +3423,8 @@ RegionalNumbers=113,222
 Kind=Egg
 Pokedex=Chansey lay nutritionally excellent eggs every day. The eggs are so delicious, they are eagerly devoured by even those who have lost their appetite.
 WildItemCommon=LUCKYPUNCH
-BattlerPlayerY=25
-BattlerEnemyY=22
+BattlerPlayerY=52
+BattlerEnemyY=62
 BattlerAltitude=0
 Evolutions=BLISSEY,Happiness,
 #-------------------------------
@@ -3453,8 +3453,8 @@ Habitat=Grassland
 RegionalNumbers=114,182
 Kind=Vine
 Pokedex=Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.
-BattlerPlayerY=27
-BattlerEnemyY=24
+BattlerPlayerY=56
+BattlerEnemyY=65
 BattlerAltitude=0
 Evolutions=TANGROWTH,HasMove,ANCIENTPOWER
 #-------------------------------
@@ -3483,8 +3483,8 @@ Habitat=Grassland
 RegionalNumbers=115,210
 Kind=Parent
 Pokedex=If you come across a young Kangaskhan playing by itself, never try to catch it. The baby's parent is sure to be in the area, and it will become violently enraged.
-BattlerPlayerY=12
-BattlerEnemyY=11
+BattlerPlayerY=32
+BattlerEnemyY=43
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -3514,9 +3514,9 @@ RegionalNumbers=116,190
 Kind=Dragon
 Pokedex=By cleverly flicking the fins on its back side to side, it moves in any direction while facing forward. It spits ink to escape if it senses danger.
 WildItemUncommon=DRAGONSCALE
-BattlerPlayerY=32
-BattlerEnemyY=26
-BattlerAltitude=13
+BattlerPlayerY=58
+BattlerEnemyY=40
+BattlerAltitude=8
 Evolutions=SEADRA,Level,32
 #-------------------------------
 [117]
@@ -3544,8 +3544,8 @@ RegionalNumbers=117,191
 Kind=Dragon
 Pokedex=The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.
 WildItemUncommon=DRAGONSCALE
-BattlerPlayerY=26
-BattlerEnemyY=18
+BattlerPlayerY=41
+BattlerEnemyY=24
 BattlerAltitude=11
 Evolutions=KINGDRA,TradeItem,DRAGONSCALE
 #-------------------------------
@@ -3575,8 +3575,8 @@ Habitat=WatersEdge
 RegionalNumbers=118,78
 Kind=Goldfish
 Pokedex=In the springtime, schools of Goldeen can be seen swimming up falls and rivers. It metes out staggering damage with its single horn.
-BattlerPlayerY=26
-BattlerEnemyY=24
+BattlerPlayerY=41
+BattlerEnemyY=46
 BattlerAltitude=11
 Evolutions=SEAKING,Level,33
 #-------------------------------
@@ -3605,8 +3605,8 @@ RegionalNumbers=119,79
 Kind=Goldfish
 WildItemUncommon=MYSTICWATER
 Pokedex=It punches holes in boulders on stream- beds. This is a clever innovation that prevents its eggs from being attacked or washed away by the current.
-BattlerPlayerY=24
-BattlerEnemyY=17
+BattlerPlayerY=50
+BattlerEnemyY=35
 BattlerAltitude=10
 Evolutions=
 #-------------------------------
@@ -3636,9 +3636,9 @@ Kind=Star Shape
 Pokedex=It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.
 WildItemCommon=STARDUST
 WildItemUncommon=STARPIECE
-BattlerPlayerY=27
-BattlerEnemyY=22
-BattlerAltitude=7
+BattlerPlayerY=73
+BattlerEnemyY=73
+BattlerAltitude=0
 Evolutions=STARMIE,Item,WATERSTONE
 #-------------------------------
 [121]
@@ -3668,9 +3668,9 @@ Kind=Mysterious
 Pokedex=People in ancient times imagined that Starmie were transformed from the reflections of stars that twinkled on gentle waves at night.
 WildItemCommon=STARDUST
 WildItemUncommon=STARPIECE
-BattlerPlayerY=21
-BattlerEnemyY=19
-BattlerAltitude=9
+BattlerPlayerY=46
+BattlerEnemyY=56
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [122]
@@ -3699,8 +3699,8 @@ Habitat=Urban
 RegionalNumbers=122,158
 Kind=Barrier
 Pokedex=A Mr. Mime is a master of pantomime. It can convince others that something unseeable actually exists. Once believed, the imaginary object does become real.
-BattlerPlayerY=22
-BattlerEnemyY=16
+BattlerPlayerY=50
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -3730,8 +3730,8 @@ Habitat=Grassland
 RegionalNumbers=123,111
 Kind=Mantis
 Pokedex=Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.
-BattlerPlayerY=17
-BattlerEnemyY=12
+BattlerPlayerY=40
+BattlerEnemyY=54
 BattlerAltitude=0
 Evolutions=SCIZOR,TradeItem,METALCOAT
 #-------------------------------
@@ -3761,8 +3761,8 @@ Habitat=Urban
 RegionalNumbers=124,155
 Kind=Human Shape
 Pokedex=A Jynx sashays rhythmically as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without noticing.
-BattlerPlayerY=19
-BattlerEnemyY=18
+BattlerPlayerY=44
+BattlerEnemyY=60
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -3792,8 +3792,8 @@ RegionalNumbers=125,157
 Kind=Electric
 Pokedex=When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use Electabuzz in place of lightning rods.
 WildItemUncommon=ELECTIRIZER
-BattlerPlayerY=18
-BattlerEnemyY=13
+BattlerPlayerY=42
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=ELECTIVIRE,TradeItem,ELECTIRIZER
 #-------------------------------
@@ -3823,8 +3823,8 @@ RegionalNumbers=126,153
 Kind=Spitfire
 Pokedex=In battle, it blows out intense flames from all over its body to intimidate its foe. These fiery bursts create heat waves that ignite grass and trees in the area.
 WildItemUncommon=MAGMARIZER
-BattlerPlayerY=19
-BattlerEnemyY=13
+BattlerPlayerY=42
+BattlerEnemyY=51
 BattlerAltitude=0
 Evolutions=MAGMORTAR,TradeItem,MAGMARIZER
 #-------------------------------
@@ -3853,8 +3853,8 @@ Habitat=Forest
 RegionalNumbers=127,113
 Kind=Stag Beetle
 Pokedex=Their pincers are strong enough to shatter thick logs. Because they dislike cold, Pinsir burrow and sleep under the ground on chilly nights.
-BattlerPlayerY=17
-BattlerEnemyY=12
+BattlerPlayerY=44
+BattlerEnemyY=56
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -3882,8 +3882,8 @@ Habitat=Grassland
 RegionalNumbers=128,150
 Kind=Wild Bull
 Pokedex=It is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.
-BattlerPlayerY=19
-BattlerEnemyY=14
+BattlerPlayerY=50
+BattlerEnemyY=57
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -3911,9 +3911,9 @@ Habitat=WatersEdge
 RegionalNumbers=129,76
 Kind=Fish
 Pokedex=Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many Magikarp deposited there by the flow.
-BattlerPlayerY=22
-BattlerEnemyY=14
-BattlerAltitude=10
+BattlerPlayerY=50
+BattlerEnemyY=45
+BattlerAltitude=7
 Evolutions=GYARADOS,Level,20
 #-------------------------------
 [130]
@@ -3941,9 +3941,9 @@ Habitat=WatersEdge
 RegionalNumbers=130,77
 Kind=Atrocious
 Pokedex=It is an extremely vicious and violent Pokémon. When humans begin to fight, it will appear and burn everything to the ground with intensely hot flames.
-BattlerPlayerY=12
-BattlerEnemyY=4
-BattlerAltitude=2
+BattlerPlayerY=32
+BattlerEnemyY=24
+BattlerAltitude=9
 Evolutions=
 #-------------------------------
 [131]
@@ -3973,8 +3973,8 @@ RegionalNumbers=131,224
 Kind=Transport
 WildItemUncommon=MYSTICWATER
 Pokedex=People have driven Lapras almost to the point of extinction. In the evenings, it is said to sing plaintively as it seeks what few others of its kind still remain.
-BattlerPlayerY=13
-BattlerEnemyY=13
+BattlerPlayerY=44
+BattlerEnemyY=47
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4004,8 +4004,8 @@ Kind=Transform
 Pokedex=A Ditto rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong.
 WildItemCommon=QUICKPOWDER
 WildItemUncommon=METALPOWDER
-BattlerPlayerY=34
-BattlerEnemyY=30
+BattlerPlayerY=80
+BattlerEnemyY=79
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4034,8 +4034,8 @@ Habitat=Urban
 RegionalNumbers=133,184
 Kind=Evolution
 Pokedex=An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.
-BattlerPlayerY=24
-BattlerEnemyY=22
+BattlerPlayerY=50
+BattlerEnemyY=68
 BattlerAltitude=0
 Evolutions=VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Item,LEAFSTONE,GLACEON,Item,ICESTONE,SYLVEON,HappinessMoveType,FAIRY,ESPEON,HappinessDay,,UMBREON,HappinessNight,
 #-------------------------------
@@ -4063,8 +4063,8 @@ Habitat=Urban
 RegionalNumbers=134,185
 Kind=Bubble Jet
 Pokedex=Vaporeon underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.
-BattlerPlayerY=22
-BattlerEnemyY=18
+BattlerPlayerY=48
+BattlerEnemyY=56
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4092,8 +4092,8 @@ Habitat=Urban
 RegionalNumbers=135,186
 Kind=Lightning
 Pokedex=Its cells generate weak power that is amplified by its fur's static electricity to drop thunderbolts. The bristling fur is made of electrically charged needles.
-BattlerPlayerY=25
-BattlerEnemyY=20
+BattlerPlayerY=60
+BattlerEnemyY=65
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4121,8 +4121,8 @@ Habitat=Urban
 RegionalNumbers=136,187
 Kind=Flame
 Pokedex=Flareon's fluffy fur releases heat into the air so that its body does not get excessively hot. Its body temperature can rise to a maximum of 1,650 degrees F.
-BattlerPlayerY=24
-BattlerEnemyY=19
+BattlerPlayerY=55
+BattlerEnemyY=61
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4150,9 +4150,9 @@ Habitat=Urban
 RegionalNumbers=137,220
 Kind=Virtual
 Pokedex=It is capable of reverting itself entirely back to program data in order to enter cyberspace. A Porygon is copy- protected so it cannot be duplicated.
-BattlerPlayerY=28
-BattlerEnemyY=27
-BattlerAltitude=8
+BattlerPlayerY=56
+BattlerEnemyY=51
+BattlerAltitude=9
 Evolutions=PORYGON2,TradeItem,UPGRADE
 #-------------------------------
 [138]
@@ -4181,8 +4181,8 @@ Habitat=Sea
 RegionalNumbers=138,225
 Kind=Spiral
 Pokedex=One of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by humans. If attacked, it withdraws into its hard shell.
-BattlerPlayerY=31
-BattlerEnemyY=27
+BattlerPlayerY=66
+BattlerEnemyY=72
 BattlerAltitude=0
 Evolutions=OMASTAR,Level,40
 #-------------------------------
@@ -4211,8 +4211,8 @@ Habitat=Sea
 RegionalNumbers=139,226
 Kind=Spiral
 Pokedex=An Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large, making its movements slow and ponderous.
-BattlerPlayerY=23
-BattlerEnemyY=19
+BattlerPlayerY=53
+BattlerEnemyY=61
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4242,8 +4242,8 @@ Habitat=Sea
 RegionalNumbers=140,227
 Kind=Shellfish
 Pokedex=It is a Pokémon that has been regenerated from a fossil. However, in rare cases, living examples have been discovered. Kabuto have not changed for 300 million years.
-BattlerPlayerY=31
-BattlerEnemyY=30
+BattlerPlayerY=76
+BattlerEnemyY=74
 BattlerAltitude=0
 Evolutions=KABUTOPS,Level,40
 #-------------------------------
@@ -4272,8 +4272,8 @@ Habitat=Sea
 RegionalNumbers=141,228
 Kind=Shellfish
 Pokedex=Kabutops once swam underwater to hunt for prey. It was apparently evolving from being a water dweller to living on land as evident from changes in its gills and legs.
-BattlerPlayerY=20
-BattlerEnemyY=10
+BattlerPlayerY=52
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4303,9 +4303,9 @@ Habitat=Mountain
 RegionalNumbers=142,229
 Kind=Fossil
 Pokedex=Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from DNA extracted from amber. It is imagined to have been the king of the skies.
-BattlerPlayerY=14
-BattlerEnemyY=11
-BattlerAltitude=10
+BattlerPlayerY=39
+BattlerEnemyY=19
+BattlerAltitude=27
 Evolutions=
 #-------------------------------
 [143]
@@ -4336,8 +4336,8 @@ Pokedex=Snorlax's typical day consists of nothing more than eating and sleeping.
 WildItemCommon=LEFTOVERS
 WildItemUncommon=LEFTOVERS
 WildItemRare=LEFTOVERS
-BattlerPlayerY=17
-BattlerEnemyY=10
+BattlerPlayerY=38
+BattlerEnemyY=40
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4366,8 +4366,8 @@ Habitat=Rare
 RegionalNumbers=144,240
 Kind=Freeze
 Pokedex=Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.
-BattlerPlayerY=5
-BattlerEnemyY=8
+BattlerPlayerY=16
+BattlerEnemyY=32
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4396,9 +4396,9 @@ Habitat=Rare
 RegionalNumbers=145,241
 Kind=Electric
 Pokedex=Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. It gains power if it is stricken by lightning bolts.
-BattlerPlayerY=14
-BattlerEnemyY=10
-BattlerAltitude=8
+BattlerPlayerY=30
+BattlerEnemyY=20
+BattlerAltitude=12
 Evolutions=
 #-------------------------------
 [146]
@@ -4426,9 +4426,9 @@ Habitat=Rare
 RegionalNumbers=146,242
 Kind=Flame
 Pokedex=Moltres is a legendary bird Pokémon that can control fire. If injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.
-BattlerPlayerY=17
-BattlerEnemyY=8
-BattlerAltitude=0
+BattlerPlayerY=45
+BattlerEnemyY=18
+BattlerAltitude=26
 Evolutions=
 #-------------------------------
 [147]
@@ -4457,8 +4457,8 @@ RegionalNumbers=147,246
 Kind=Dragon
 Pokedex=A Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.
 WildItemUncommon=DRAGONSCALE
-BattlerPlayerY=24
-BattlerEnemyY=21
+BattlerPlayerY=60
+BattlerEnemyY=68
 BattlerAltitude=0
 Evolutions=DRAGONAIR,Level,30
 #-------------------------------
@@ -4487,8 +4487,8 @@ RegionalNumbers=148,247
 Kind=Dragon
 Pokedex=A Dragonair stores an enormous amount of energy inside its body. It is said to alter the weather around it by loosing energy from the crystals on its neck and tail.
 WildItemUncommon=DRAGONSCALE
-BattlerPlayerY=16
-BattlerEnemyY=10
+BattlerPlayerY=38
+BattlerEnemyY=52
 BattlerAltitude=0
 Evolutions=DRAGONITE,Level,55
 #-------------------------------
@@ -4518,8 +4518,8 @@ RegionalNumbers=149,248
 Kind=Dragon
 Pokedex=It can circle the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.
 WildItemUncommon=DRAGONSCALE
-BattlerPlayerY=12
-BattlerEnemyY=5
+BattlerPlayerY=34
+BattlerEnemyY=38
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4547,8 +4547,8 @@ Habitat=Rare
 RegionalNumbers=150,254
 Kind=Genetic
 Pokedex=A Pokémon that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.
-BattlerPlayerY=15
-BattlerEnemyY=11
+BattlerPlayerY=38
+BattlerEnemyY=41
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4578,9 +4578,9 @@ Pokedex=A Mew is said to possess the genes of all Pokémon. It is capable of mak
 WildItemCommon=LUMBERRY
 WildItemUncommon=LUMBERRY
 WildItemRare=LUMBERRY
-BattlerPlayerY=26
-BattlerEnemyY=20
-BattlerAltitude=13
+BattlerPlayerY=34
+BattlerEnemyY=28
+BattlerAltitude=8
 Evolutions=
 #-------------------------------
 [152]
@@ -4608,8 +4608,8 @@ Habitat=Grassland
 RegionalNumbers=0,1
 Kind=Leaf
 Pokedex=It waves its leaf around to keep foes at bay. However, a sweet fragrance also wafts from the leaf, creating a friendly atmosphere that becalms the battlers.
-BattlerPlayerY=25
-BattlerEnemyY=22
+BattlerPlayerY=56
+BattlerEnemyY=58
 BattlerAltitude=0
 Evolutions=BAYLEEF,Level,16
 #-------------------------------
@@ -4637,8 +4637,8 @@ Habitat=Grassland
 RegionalNumbers=0,2
 Kind=Leaf
 Pokedex=A Bayleef's neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy.
-BattlerPlayerY=20
-BattlerEnemyY=14
+BattlerPlayerY=44
+BattlerEnemyY=58
 BattlerAltitude=0
 Evolutions=MEGANIUM,Level,32
 #-------------------------------
@@ -4666,8 +4666,8 @@ Habitat=Grassland
 RegionalNumbers=0,3
 Kind=Herb
 Pokedex=The fragrance of a Meganium's flower soothes and calms emotions. In battle, it gives off more of its becalming scent to blunt the foe's fighting spirit.
-BattlerPlayerY=11
-BattlerEnemyY=6
+BattlerPlayerY=32
+BattlerEnemyY=30
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4696,8 +4696,8 @@ Habitat=Grassland
 RegionalNumbers=0,4
 Kind=Fire Mouse
 Pokedex=It flares flames from its back to protect itself. The fire burns vigorously if the Pokémon is angry. When it is tired, it sputters with incomplete combustion.
-BattlerPlayerY=31
-BattlerEnemyY=23
+BattlerPlayerY=64
+BattlerEnemyY=73
 BattlerAltitude=0
 Evolutions=QUILAVA,Level,14
 #-------------------------------
@@ -4725,8 +4725,8 @@ Habitat=Grassland
 RegionalNumbers=0,5
 Kind=Volcano
 Pokedex=It intimidates foes with intense gusts of flames and superheated air. Its quick nimbleness lets it dodge attacks even while scorching an enemy.
-BattlerPlayerY=25
-BattlerEnemyY=20
+BattlerPlayerY=50
+BattlerEnemyY=64
 BattlerAltitude=0
 Evolutions=TYPHLOSION,Level,36
 #-------------------------------
@@ -4754,8 +4754,8 @@ Habitat=Grassland
 RegionalNumbers=0,6
 Kind=Volcano
 Pokedex=It can hide behind a shimmering heat haze that it creates using its intense flames. Typhlosion create blazing explosive blasts that burn everything to cinders.
-BattlerPlayerY=14
-BattlerEnemyY=6
+BattlerPlayerY=28
+BattlerEnemyY=40
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4784,8 +4784,8 @@ Habitat=WatersEdge
 RegionalNumbers=0,7
 Kind=Big Jaw
 Pokedex=Despite its small body, Totodile's jaws are very powerful. While it may think it is just playfully nipping, its bite has enough strength to cause serious injury.
-BattlerPlayerY=29
-BattlerEnemyY=26
+BattlerPlayerY=60
+BattlerEnemyY=70
 BattlerAltitude=0
 Evolutions=CROCONAW,Level,18
 #-------------------------------
@@ -4813,8 +4813,8 @@ Habitat=WatersEdge
 RegionalNumbers=0,8
 Kind=Big Jaw
 Pokedex=Once its jaws clamp down on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like fishhooks, they become irremovably embedded.
-BattlerPlayerY=22
-BattlerEnemyY=15
+BattlerPlayerY=46
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=FERALIGATR,Level,30
 #-------------------------------
@@ -4842,8 +4842,8 @@ Habitat=WatersEdge
 RegionalNumbers=0,9
 Kind=Big Jaw
 Pokedex=It opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge the foe with incredible speed.
-BattlerPlayerY=13
-BattlerEnemyY=9
+BattlerPlayerY=30
+BattlerEnemyY=42
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4872,8 +4872,8 @@ Habitat=Grassland
 RegionalNumbers=0,19
 Kind=Scout
 Pokedex=They take turns standing guard when it is time to sleep. The sentry awakens the others if it senses danger. If one becomes separated, it turns sleepless with fear.
-BattlerPlayerY=17
-BattlerEnemyY=12
+BattlerPlayerY=34
+BattlerEnemyY=46
 BattlerAltitude=0
 Evolutions=FURRET,Level,15
 #-------------------------------
@@ -4901,8 +4901,8 @@ Habitat=Grassland
 RegionalNumbers=0,20
 Kind=Long Body
 Pokedex=A Furret has a very slim build. When under attack, it can squirm through narrow spaces and get away. In spite of its short limbs, it is very nimble and fleet.
-BattlerPlayerY=19
-BattlerEnemyY=16
+BattlerPlayerY=40
+BattlerEnemyY=52
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4932,8 +4932,8 @@ Habitat=Forest
 RegionalNumbers=0,15
 Kind=Owl
 Pokedex=It has an internal organ that senses the earth's rotation. Using this special organ, a Hoothoot begins hooting at precisely the same time every day.
-BattlerPlayerY=27
-BattlerEnemyY=22
+BattlerPlayerY=58
+BattlerEnemyY=67
 BattlerAltitude=0
 Evolutions=NOCTOWL,Level,20
 #-------------------------------
@@ -4962,8 +4962,8 @@ Habitat=Forest
 RegionalNumbers=0,16
 Kind=Owl
 Pokedex=It unfailingly catches prey in darkness. Noctowl owe their success to superior vision that allows them to see in minimal light, and to their supple and silent wings.
-BattlerPlayerY=15
-BattlerEnemyY=11
+BattlerPlayerY=44
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -4993,8 +4993,8 @@ Habitat=Forest
 RegionalNumbers=0,30
 Kind=Five Star
 Pokedex=Ledyba communicate using a fluid that they secrete from where the legs join the body. They are said to convey feelings to others by altering the fluid's scent.
-BattlerPlayerY=24
-BattlerEnemyY=20
+BattlerPlayerY=50
+BattlerEnemyY=57
 BattlerAltitude=0
 Evolutions=LEDIAN,Level,18
 #-------------------------------
@@ -5023,9 +5023,9 @@ Habitat=Forest
 RegionalNumbers=0,31
 Kind=Five Star
 Pokedex=It is said that in lands with clean air, where the stars fill the sky, there live many Ledian. For good reason, they use the light of the stars as energy.
-BattlerPlayerY=23
-BattlerEnemyY=15
-BattlerAltitude=0
+BattlerPlayerY=29
+BattlerEnemyY=21
+BattlerAltitude=9
 Evolutions=
 #-------------------------------
 [167]
@@ -5054,8 +5054,8 @@ Habitat=Forest
 RegionalNumbers=0,32
 Kind=String Spit
 Pokedex=The web it spins can be considered its second nervous system. It is said that a Spinarak determines its prey by the tiny vibrations it feels through the web.
-BattlerPlayerY=34
-BattlerEnemyY=30
+BattlerPlayerY=80
+BattlerEnemyY=86
 BattlerAltitude=0
 Evolutions=ARIADOS,Level,22
 #-------------------------------
@@ -5084,8 +5084,8 @@ Habitat=Forest
 RegionalNumbers=0,33
 Kind=Long Leg
 Pokedex=Its feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. It constricts its foe with thin and strong silk webbing.
-BattlerPlayerY=26
-BattlerEnemyY=20
+BattlerPlayerY=62
+BattlerEnemyY=68
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -5114,9 +5114,9 @@ Habitat=Cave
 RegionalNumbers=0,39
 Kind=Bat
 Pokedex=Over the course of evolution, its hind legs turned into wings. By alternately resting its front and rear wings, it can fly all day without having to stop.
-BattlerPlayerY=28
-BattlerEnemyY=12
-BattlerAltitude=10
+BattlerPlayerY=39
+BattlerEnemyY=31
+BattlerAltitude=28
 Evolutions=
 #-------------------------------
 [170]
@@ -5146,8 +5146,8 @@ RegionalNumbers=0,176
 Kind=Angler
 Pokedex=When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight's reach.
 WildItemUncommon=DEEPSEASCALE
-BattlerPlayerY=29
-BattlerEnemyY=23
+BattlerPlayerY=58
+BattlerEnemyY=35
 BattlerAltitude=10
 Evolutions=LANTURN,Level,27
 #-------------------------------
@@ -5207,8 +5207,8 @@ Habitat=Forest
 RegionalNumbers=0,21
 Kind=Tiny Mouse
 Pokedex=It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.
-BattlerPlayerY=29
-BattlerEnemyY=26
+BattlerPlayerY=58
+BattlerEnemyY=75
 BattlerAltitude=0
 Evolutions=PIKACHU,Happiness,
 #-------------------------------
@@ -5240,8 +5240,8 @@ Pokedex=On nights with many shooting stars, Cleffa can be seen dancing in a ring
 WildItemCommon=LEPPABERRY
 WildItemUncommon=MOONSTONE
 WildItemRare=COMETSHARD
-BattlerPlayerY=34
-BattlerEnemyY=31
+BattlerPlayerY=68
+BattlerEnemyY=76
 BattlerAltitude=0
 Evolutions=CLEFAIRY,Happiness,
 #-------------------------------
@@ -5271,9 +5271,9 @@ Habitat=Grassland
 RegionalNumbers=0,43
 Kind=Balloon
 Pokedex=Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.
-BattlerPlayerY=32
-BattlerEnemyY=29
-BattlerAltitude=0
+BattlerPlayerY=47
+BattlerEnemyY=53
+BattlerAltitude=13
 Evolutions=JIGGLYPUFF,Happiness,
 #-------------------------------
 [175]
@@ -5301,8 +5301,8 @@ Habitat=Forest
 RegionalNumbers=0,46
 Kind=Spike Ball
 Pokedex=As its energy, it uses the feelings of compassion and pleasure exuded by people and Pokémon. It stores up happy feelings in its shell, then shares them out.
-BattlerPlayerY=32
-BattlerEnemyY=30
+BattlerPlayerY=64
+BattlerEnemyY=78
 BattlerAltitude=0
 Evolutions=TOGETIC,Happiness,
 #-------------------------------
@@ -5332,7 +5332,7 @@ RegionalNumbers=0,47
 Kind=Happiness
 Pokedex=It is said to be a Pokémon that brings good fortune. When it spots someone who is pure of heart, a Togetic appears and shares its happiness with that person.
 BattlerPlayerY=22
-BattlerEnemyY=23
+BattlerEnemyY=31
 BattlerAltitude=13
 Evolutions=TOGEKISS,Item,SHINYSTONE
 #-------------------------------
@@ -5362,8 +5362,8 @@ Habitat=Forest
 RegionalNumbers=0,161
 Kind=Tiny Bird
 Pokedex=It runs up short trees that grow on the savanna to peck at new shoots. A Natu's eyes look as if they are always observing something.
-BattlerPlayerY=33
-BattlerEnemyY=30
+BattlerPlayerY=70
+BattlerEnemyY=77
 BattlerAltitude=0
 Evolutions=XATU,Level,25
 #-------------------------------
@@ -5392,8 +5392,8 @@ Habitat=Forest
 RegionalNumbers=0,162
 Kind=Mystic
 Pokedex=It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that Xatu are emissaries from another world.
-BattlerPlayerY=25
-BattlerEnemyY=16
+BattlerPlayerY=54
+BattlerEnemyY=54
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -5422,8 +5422,8 @@ Habitat=Grassland
 RegionalNumbers=0,53
 Kind=Wool
 Pokedex=Its fluffy wool rubs together and builds a static charge. The more energy is charged, the more brightly the lightbulb at the tip of its tail glows.
-BattlerPlayerY=25
-BattlerEnemyY=23
+BattlerPlayerY=56
+BattlerEnemyY=61
 BattlerAltitude=0
 Evolutions=FLAAFFY,Level,15
 #-------------------------------
@@ -5451,8 +5451,8 @@ Habitat=Grassland
 RegionalNumbers=0,54
 Kind=Wool
 Pokedex=Its fleece quality changes to generate strong static electricity with a small amount of wool. The bare, slick parts of its hide are shielded against electricity.
-BattlerPlayerY=23
-BattlerEnemyY=19
+BattlerPlayerY=48
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=AMPHAROS,Level,30
 #-------------------------------
@@ -5480,8 +5480,8 @@ Habitat=Grassland
 RegionalNumbers=0,55
 Kind=Light
 Pokedex=It gives off so much light that it can be seen even from space. People in the old days used its light to send signals back and forth with others far away.
-BattlerPlayerY=17
-BattlerEnemyY=12
+BattlerPlayerY=40
+BattlerEnemyY=46
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -5510,8 +5510,8 @@ RegionalNumbers=0,86
 Kind=Flower
 WildItemUncommon=ABSORBBULB
 Pokedex=Its flower petals deepen in color through exposure to sunlight. When cloudy weather persists, it does a dance that is thought to be a ritual for summoning the sun.
-BattlerPlayerY=30
-BattlerEnemyY=27
+BattlerPlayerY=64
+BattlerEnemyY=70
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -5541,8 +5541,8 @@ Habitat=WatersEdge
 RegionalNumbers=0,132
 Kind=Aqua Mouse
 Pokedex=Its body is covered with water-repellent fur. Because of the fur, it can swim through water at high speed without being slowed by the water's resistance.
-BattlerPlayerY=32
-BattlerEnemyY=27
+BattlerPlayerY=70
+BattlerEnemyY=72
 BattlerAltitude=0
 Evolutions=AZUMARILL,Level,18
 #-------------------------------
@@ -5571,8 +5571,8 @@ Habitat=WatersEdge
 RegionalNumbers=0,133
 Kind=Aqua Rabbit
 Pokedex=It lives in water virtually all day long. Its body color and pattern act as camouflage that makes it tough for enemies to spot in water.
-BattlerPlayerY=19
-BattlerEnemyY=15
+BattlerPlayerY=40
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -5601,8 +5601,8 @@ Habitat=Forest
 RegionalNumbers=0,107
 Kind=Imitation
 Pokedex=It mimics a tree to avoid being attacked by enemies. But since its forelegs remain green throughout the year, it is easily identified as a fake in the winter.
-BattlerPlayerY=21
-BattlerEnemyY=19
+BattlerPlayerY=44
+BattlerEnemyY=58
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -5631,9 +5631,9 @@ RegionalNumbers=0,75
 Kind=Frog
 Pokedex=The curled hair on its head proves its status as a king. It is said that the longer and curlier the hair, the more respect it earns from its peers.
 WildItemUncommon=KINGSROCK
-BattlerPlayerY=22
-BattlerEnemyY=16
-BattlerAltitude=5
+BattlerPlayerY=48
+BattlerEnemyY=60
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [187]
@@ -5662,8 +5662,8 @@ Habitat=Grassland
 RegionalNumbers=0,67
 Kind=Cottonweed
 Pokedex=This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, a Hoppip links leaves with others to prepare against being blown away.
-BattlerPlayerY=31
-BattlerEnemyY=22
+BattlerPlayerY=40
+BattlerEnemyY=36
 BattlerAltitude=13
 Evolutions=SKIPLOOM,Level,18
 #-------------------------------
@@ -5692,9 +5692,9 @@ Habitat=Grassland
 RegionalNumbers=0,68
 Kind=Cottonweed
 Pokedex=It blossoms when the temperature rises above 64 degrees F. Because its flower's blooming changes with the temperature, it is sometimes used as a thermometer.
-BattlerPlayerY=33
-BattlerEnemyY=28
-BattlerAltitude=15
+BattlerPlayerY=41
+BattlerEnemyY=32
+BattlerAltitude=11
 Evolutions=JUMPLUFF,Level,27
 #-------------------------------
 [189]
@@ -5723,7 +5723,7 @@ RegionalNumbers=0,69
 Kind=Cottonweed
 Pokedex=Jumpluff ride warm southern winds to cross the sea and fly to foreign lands. This Pokémon lands when it encounters cold air while it is floating.
 BattlerPlayerY=24
-BattlerEnemyY=17
+BattlerEnemyY=28
 BattlerAltitude=15
 Evolutions=
 #-------------------------------
@@ -5752,8 +5752,8 @@ Habitat=Forest
 RegionalNumbers=0,123
 Kind=Long Tail
 Pokedex=Its tail ends with a dexterous, handlike appendage. However, because it uses the tail so much, Aipom's real hands have become rather clumsy.
-BattlerPlayerY=23
-BattlerEnemyY=16
+BattlerPlayerY=46
+BattlerEnemyY=55
 BattlerAltitude=0
 Evolutions=AMBIPOM,HasMove,DOUBLEHIT
 #-------------------------------
@@ -5782,9 +5782,9 @@ Habitat=Grassland
 RegionalNumbers=0,103
 Kind=Seed
 Pokedex=Sunkern try to minimize movement to conserve the nutrients they have stored in their bodies for evolution. They will not eat, subsisting only on morning dew.
-BattlerPlayerY=33
-BattlerEnemyY=28
-BattlerAltitude=8
+BattlerPlayerY=68
+BattlerEnemyY=73
+BattlerAltitude=0
 Evolutions=SUNFLORA,Item,SUNSTONE
 #-------------------------------
 [192]
@@ -5811,8 +5811,8 @@ Habitat=Grassland
 RegionalNumbers=0,104
 Kind=Sun
 Pokedex=Sunflora convert solar energy into nutrition. They are highly active in the warm daytime but suddenly stop moving as soon as the sun sets.
-BattlerPlayerY=21
-BattlerEnemyY=20
+BattlerPlayerY=50
+BattlerEnemyY=56
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -5843,9 +5843,9 @@ RegionalNumbers=0,101
 Kind=Clear Wing
 Pokedex=It can see 360 degrees without moving its eyes. It is a great flier capable of making sudden stops and turning midair to quickly chase down targeted prey.
 WildItemUncommon=WIDELENS
-BattlerPlayerY=29
-BattlerEnemyY=23
-BattlerAltitude=15
+BattlerPlayerY=42
+BattlerEnemyY=39
+BattlerAltitude=16
 Evolutions=YANMEGA,HasMove,ANCIENTPOWER
 #-------------------------------
 [194]
@@ -5874,8 +5874,8 @@ Habitat=WatersEdge
 RegionalNumbers=0,56
 Kind=Water Fish
 Pokedex=Wooper usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.
-BattlerPlayerY=33
-BattlerEnemyY=29
+BattlerPlayerY=66
+BattlerEnemyY=71
 BattlerAltitude=0
 Evolutions=QUAGSIRE,Level,20
 #-------------------------------
@@ -5904,8 +5904,8 @@ Habitat=WatersEdge
 RegionalNumbers=0,57
 Kind=Water Fish
 Pokedex=A Quagsire hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn't move, it does not get very hungry.
-BattlerPlayerY=21
-BattlerEnemyY=18
+BattlerPlayerY=44
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -5933,8 +5933,8 @@ Habitat=Urban
 RegionalNumbers=0,188
 Kind=Sun
 Pokedex=An Espeon is extremely loyal to any trainer it considers to be worthy. It is said to have developed precognitive powers to protect its trainer from harm.
-BattlerPlayerY=28
-BattlerEnemyY=17
+BattlerPlayerY=62
+BattlerEnemyY=57
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -5962,8 +5962,8 @@ Habitat=Urban
 RegionalNumbers=0,189
 Kind=Moonlight
 Pokedex=Umbreon evolved from exposure to the moon's energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack.
-BattlerPlayerY=24
-BattlerEnemyY=19
+BattlerPlayerY=58
+BattlerEnemyY=57
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -5993,9 +5993,9 @@ Habitat=Forest
 RegionalNumbers=0,213
 Kind=Darkness
 Pokedex=Murkrow were feared as the alleged bearers of ill fortune. It shows strong interest in anything that sparkles. It will even try to steal rings from women.
-BattlerPlayerY=26
-BattlerEnemyY=24
-BattlerAltitude=21
+BattlerPlayerY=54
+BattlerEnemyY=66
+BattlerAltitude=0
 Evolutions=HONCHKROW,Item,DUSKSTONE
 #-------------------------------
 [199]
@@ -6024,8 +6024,8 @@ RegionalNumbers=0,82
 Kind=Royal
 Pokedex=It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the Shellder on its head comes off.
 WildItemUncommon=KINGSROCK
-BattlerPlayerY=17
-BattlerEnemyY=10
+BattlerPlayerY=44
+BattlerEnemyY=43
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6053,9 +6053,9 @@ Habitat=Cave
 RegionalNumbers=0,219
 Kind=Screech
 Pokedex=A Misdreavus frightens people with a creepy, sobbing cry. It apparently uses its red spheres to absorb the fear of foes as its nutrition.
-BattlerPlayerY=28
+BattlerPlayerY=36
 BattlerEnemyY=22
-BattlerAltitude=17
+BattlerAltitude=7
 Evolutions=MISMAGIUS,Item,DUSKSTONE
 #-------------------------------
 [201]
@@ -6084,7 +6084,7 @@ FormName=Anger
 Pokedex=This Pokémon is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various Unown.
 BattlerPlayerY=31
 BattlerEnemyY=27
-BattlerAltitude=19
+BattlerAltitude=17
 Evolutions=
 #-------------------------------
 [202]
@@ -6111,8 +6111,8 @@ Habitat=Cave
 RegionalNumbers=0,108
 Kind=Patient
 Pokedex=Usually docile, a Wobbuffet strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall.
-BattlerPlayerY=19
-BattlerEnemyY=18
+BattlerPlayerY=54
+BattlerEnemyY=58
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6142,8 +6142,8 @@ Habitat=Grassland
 RegionalNumbers=0,149
 Kind=Long Neck
 Pokedex=A Girafarig is an herbivore--it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating.
-BattlerPlayerY=13
-BattlerEnemyY=11
+BattlerPlayerY=38
+BattlerEnemyY=40
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6172,9 +6172,9 @@ Habitat=Forest
 RegionalNumbers=0,93
 Kind=Bagworm
 Pokedex=A Pineco hangs from a tree branch and waits for prey. While eating, if it is disturbed by someone shaking its tree, it falls on the ground and suddenly explodes.
-BattlerPlayerY=27
-BattlerEnemyY=24
-BattlerAltitude=10
+BattlerPlayerY=50
+BattlerEnemyY=61
+BattlerAltitude=2
 Evolutions=FORRETRESS,Level,31
 #-------------------------------
 [205]
@@ -6202,9 +6202,9 @@ Habitat=Forest
 RegionalNumbers=0,94
 Kind=Bagworm
 Pokedex=It keeps itself inside its steel shell. The shell is opened when it is catching prey, but it is so quick that the shell's inside cannot be seen.
-BattlerPlayerY=24
-BattlerEnemyY=20
-BattlerAltitude=9
+BattlerPlayerY=42
+BattlerEnemyY=32
+BattlerAltitude=6
 Evolutions=
 #-------------------------------
 [206]
@@ -6232,8 +6232,8 @@ Habitat=Cave
 RegionalNumbers=0,52
 Kind=Land Snake
 Pokedex=Its drill-tipped tail is used to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground.
-BattlerPlayerY=34
-BattlerEnemyY=22
+BattlerPlayerY=72
+BattlerEnemyY=73
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6263,9 +6263,9 @@ Habitat=Mountain
 RegionalNumbers=0,193
 Kind=FlyScorpion
 Pokedex=It glides without making a single sound. It grasps the face of its foe using its hind and large front claws, then stabs with its poison barb.
-BattlerPlayerY=21
-BattlerEnemyY=11
-BattlerAltitude=8
+BattlerPlayerY=50
+BattlerEnemyY=59
+BattlerAltitude=0
 Evolutions=GLISCOR,NightHoldItem,RAZORFANG
 #-------------------------------
 [208]
@@ -6294,8 +6294,8 @@ RegionalNumbers=0,63
 Kind=Iron Snake
 Pokedex=Steelix live even further underground than Onix. This Pokémon is known to dig toward the earth's core, reaching a depth of over six-tenths of a mile underground.
 WildItemUncommon=METALCOAT
-BattlerPlayerY=8
-BattlerEnemyY=6
+BattlerPlayerY=34
+BattlerEnemyY=28
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6324,8 +6324,8 @@ Habitat=Urban
 RegionalNumbers=0,125
 Kind=Fairy
 Pokedex=By baring its fangs and making a scary face, it sends smaller Pokémon scurrying in terror. The Snubbull does seem a little sad at making its foes flee.
-BattlerPlayerY=29
-BattlerEnemyY=25
+BattlerPlayerY=60
+BattlerEnemyY=71
 BattlerAltitude=0
 Evolutions=GRANBULL,Level,23
 #-------------------------------
@@ -6353,8 +6353,8 @@ Habitat=Urban
 RegionalNumbers=0,126
 Kind=Fairy
 Pokedex=It has a particularly well-developed lower jaw. The huge fangs are heavy, causing it to tilt its head. Unless it is startled, it will not try to bite.
-BattlerPlayerY=21
-BattlerEnemyY=17
+BattlerPlayerY=46
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6385,9 +6385,9 @@ RegionalNumbers=0,163
 Kind=Balloon
 Pokedex=A Qwilfish uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging.
 WildItemUncommon=POISONBARB
-BattlerPlayerY=25
-BattlerEnemyY=28
-BattlerAltitude=12
+BattlerPlayerY=54
+BattlerEnemyY=56
+BattlerAltitude=7
 Evolutions=
 #-------------------------------
 [212]
@@ -6415,8 +6415,8 @@ Habitat=Grassland
 RegionalNumbers=0,112
 Kind=Pincer
 Pokedex=A Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature.
-BattlerPlayerY=11
-BattlerEnemyY=15
+BattlerPlayerY=32
+BattlerEnemyY=36
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6449,8 +6449,8 @@ Pokedex=A Shuckle hides under rocks, keeping its body concealed inside its shell
 WildItemCommon=BERRYJUICE
 WildItemUncommon=BERRYJUICE
 WildItemRare=BERRYJUICE
-BattlerPlayerY=27
-BattlerEnemyY=22
+BattlerPlayerY=62
+BattlerEnemyY=66
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6480,8 +6480,8 @@ Habitat=Forest
 RegionalNumbers=0,114
 Kind=Single Horn
 Pokedex=They gather in forests seeking the sweet sap of trees. It is completely clad in a steel-hard shell. It is proud of its horn, which it uses to fling foes.
-BattlerPlayerY=20
-BattlerEnemyY=12
+BattlerPlayerY=54
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6512,8 +6512,8 @@ RegionalNumbers=0,218
 Kind=Sharp Claw
 Pokedex=A Sneasel scales trees by punching its hooked claws into the bark. It seeks out unguarded nests and steals eggs for food while the parents are away.
 WildItemUncommon=QUICKCLAW
-BattlerPlayerY=26
-BattlerEnemyY=20
+BattlerPlayerY=59
+BattlerEnemyY=60
 BattlerAltitude=0
 Evolutions=WEAVILE,NightHoldItem,RAZORCLAW
 #-------------------------------
@@ -6542,8 +6542,8 @@ Habitat=Mountain
 RegionalNumbers=0,198
 Kind=Little Bear
 Pokedex=It licks its palms that are sweetened by being soaked in honey. A Teddiursa makes its own honey by blending fruits and pollen collected by Beedrill.
-BattlerPlayerY=31
-BattlerEnemyY=25
+BattlerPlayerY=64
+BattlerEnemyY=67
 BattlerAltitude=0
 Evolutions=URSARING,Level,30
 #-------------------------------
@@ -6571,8 +6571,8 @@ Habitat=Mountain
 RegionalNumbers=0,199
 Kind=Hibernator
 Pokedex=In forests, it is said that there are many streams and towering trees where an Ursaring gathers food. It walks through its forest collecting food every day.
-BattlerPlayerY=13
-BattlerEnemyY=10
+BattlerPlayerY=32
+BattlerEnemyY=40
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6601,8 +6601,8 @@ Habitat=Mountain
 RegionalNumbers=0,216
 Kind=Lava
 Pokedex=It is a species of Pokémon that lives in volcanic areas. If its body cools, its skin hardens and immobilizes it. To avoid that, it sleeps near magma.
-BattlerPlayerY=30
-BattlerEnemyY=24
+BattlerPlayerY=66
+BattlerEnemyY=65
 BattlerAltitude=0
 Evolutions=MAGCARGO,Level,38
 #-------------------------------
@@ -6631,8 +6631,8 @@ Habitat=Mountain
 RegionalNumbers=0,217
 Kind=Lava
 Pokedex=The shell on its back is made of hardened magma. Tens of thousands of years spent living in volcanic craters have turned Magcargo's bodies into magma.
-BattlerPlayerY=24
-BattlerEnemyY=16
+BattlerPlayerY=56
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6662,8 +6662,8 @@ Habitat=Cave
 RegionalNumbers=0,195
 Kind=Pig
 Pokedex=It roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under dried grass. It occasionally roots out hot springs.
-BattlerPlayerY=36
-BattlerEnemyY=33
+BattlerPlayerY=82
+BattlerEnemyY=82
 BattlerAltitude=0
 Evolutions=PILOSWINE,Level,33
 #-------------------------------
@@ -6692,8 +6692,8 @@ Habitat=Cave
 RegionalNumbers=0,196
 Kind=Swine
 Pokedex=A Piloswine is covered by a thick coat of long hair for enduring freezing cold. It uses its tusks to dig up food that has been buried under ice.
-BattlerPlayerY=17
-BattlerEnemyY=17
+BattlerPlayerY=59
+BattlerEnemyY=55
 BattlerAltitude=0
 Evolutions=MAMOSWINE,HasMove,ANCIENTPOWER
 #-------------------------------
@@ -6724,8 +6724,8 @@ RegionalNumbers=0,173
 Kind=Coral
 Pokedex=Corsola live in warm southern seas. If the sea becomes polluted, the beautiful coral stalks become discolored and crumble away in tatters.
 WildItemUncommon=LUMINOUSMOSS
-BattlerPlayerY=27
-BattlerEnemyY=24
+BattlerPlayerY=70
+BattlerEnemyY=64
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6754,8 +6754,8 @@ Habitat=Sea
 RegionalNumbers=0,174
 Kind=Jet
 Pokedex=A Remoraid uses its abdominal muscles to forcefully expel swallowed water, then shoot down flying prey. When evolution approaches, it travels down rivers.
-BattlerPlayerY=20
-BattlerEnemyY=26
+BattlerPlayerY=50
+BattlerEnemyY=43
 BattlerAltitude=11
 Evolutions=OCTILLERY,Level,25
 #-------------------------------
@@ -6783,8 +6783,8 @@ Habitat=Sea
 RegionalNumbers=0,175
 Kind=Jet
 Pokedex=It ensnares its foe with its suction- cupped tentacles before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape.
-BattlerPlayerY=23
-BattlerEnemyY=21
+BattlerPlayerY=70
+BattlerEnemyY=65
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6814,8 +6814,8 @@ Habitat=Mountain
 RegionalNumbers=0,194
 Kind=Delivery
 Pokedex=It carries food bundled up in its tail. There was a famous explorer who managed to scale Mt. Everest thanks to a Delibird sharing its food.
-BattlerPlayerY=24
-BattlerEnemyY=19
+BattlerPlayerY=50
+BattlerEnemyY=58
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6845,9 +6845,9 @@ Habitat=Sea
 RegionalNumbers=0,202
 Kind=Kite
 Pokedex=On sunny days, schools of Mantine can be seen elegantly leaping over the waves. It is not bothered by the Remoraid that hitches rides.
-BattlerPlayerY=24
-BattlerEnemyY=18
-BattlerAltitude=15
+BattlerPlayerY=33
+BattlerEnemyY=11
+BattlerAltitude=9
 Evolutions=
 #-------------------------------
 [227]
@@ -6877,8 +6877,8 @@ RegionalNumbers=0,203
 Kind=Armor Bird
 WildItemUncommon=METALCOAT
 Pokedex=A Pokémon that has a body and wings of steel. People in the past used feathers fallen from Skarmory to make swords and knives.
-BattlerPlayerY=14
-BattlerEnemyY=10
+BattlerPlayerY=38
+BattlerEnemyY=45
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6908,8 +6908,8 @@ Habitat=RoughTerrain
 RegionalNumbers=0,214
 Kind=Dark
 Pokedex=Houndour communicate with each other using a variety of cries to corner their prey. This Pokémon's remarkable teamwork is simply unparalleled.
-BattlerPlayerY=26
-BattlerEnemyY=22
+BattlerPlayerY=58
+BattlerEnemyY=62
 BattlerAltitude=0
 Evolutions=HOUNDOOM,Level,24
 #-------------------------------
@@ -6938,8 +6938,8 @@ Habitat=RoughTerrain
 RegionalNumbers=0,215
 Kind=Dark
 Pokedex=In a Houndoom pack, the one with its horns raked sharply back serves a leadership role. They choose their leader by fighting among themselves.
-BattlerPlayerY=18
-BattlerEnemyY=12
+BattlerPlayerY=46
+BattlerEnemyY=46
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -6999,8 +6999,8 @@ Habitat=RoughTerrain
 RegionalNumbers=0,200
 Kind=Long Nose
 Pokedex=Phanpy's big ears serve as broad fans. When it becomes hot, it flaps the ears busily to cool down. Even the young are very strong.
-BattlerPlayerY=31
-BattlerEnemyY=27
+BattlerPlayerY=66
+BattlerEnemyY=69
 BattlerAltitude=0
 Evolutions=DONPHAN,Level,25
 #-------------------------------
@@ -7028,8 +7028,8 @@ Habitat=RoughTerrain
 RegionalNumbers=0,201
 Kind=Armor
 Pokedex=A Donphan is so strong it can easily haul a dump truck. Its hide has toughened to a rock-hard state. An ordinary sort of attack won't even leave a scratch.
-BattlerPlayerY=24
-BattlerEnemyY=20
+BattlerPlayerY=60
+BattlerEnemyY=62
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7057,9 +7057,9 @@ Habitat=Urban
 RegionalNumbers=0,221
 Kind=Virtual
 Pokedex=It was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own.
-BattlerPlayerY=30
-BattlerEnemyY=28
-BattlerAltitude=11
+BattlerPlayerY=40
+BattlerEnemyY=41
+BattlerAltitude=12
 Evolutions=PORYGONZ,TradeItem,DUBIOUSDISC
 #-------------------------------
 [234]
@@ -7087,8 +7087,8 @@ Habitat=Forest
 RegionalNumbers=0,131
 Kind=Big Horn
 Pokedex=Stantler's magnificent antlers were once traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction.
-BattlerPlayerY=16
-BattlerEnemyY=8
+BattlerPlayerY=36
+BattlerEnemyY=34
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7116,8 +7116,8 @@ Habitat=Urban
 RegionalNumbers=0,159
 Kind=Painter
 Pokedex=A Smeargle marks its territory using a fluid that leaks out from the tip of its tail. About 5,000 different marks left by this Pokémon have been found.
-BattlerPlayerY=23
-BattlerEnemyY=19
+BattlerPlayerY=48
+BattlerEnemyY=56
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7146,8 +7146,8 @@ Habitat=Urban
 RegionalNumbers=0,145
 Kind=Scuffle
 Pokedex=Tyrogue become stressed out if they do not get to train every day. When raising this Pokémon, the trainer must establish a regular training schedule.
-BattlerPlayerY=26
-BattlerEnemyY=22
+BattlerPlayerY=54
+BattlerEnemyY=64
 BattlerAltitude=0
 Evolutions=HITMONLEE,AttackGreater,20,HITMONCHAN,DefenseGreater,20,HITMONTOP,AtkDefEqual,20
 #-------------------------------
@@ -7175,8 +7175,8 @@ Habitat=Urban
 RegionalNumbers=0,148
 Kind=Handstand
 Pokedex=Its technique of kicking while spinning is a remarkable mix of both offense and defense. Hitmontop travel faster spinning than they do walking.
-BattlerPlayerY=23
-BattlerEnemyY=19
+BattlerPlayerY=46
+BattlerEnemyY=51
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7206,8 +7206,8 @@ Habitat=Urban
 RegionalNumbers=0,154
 Kind=Kiss
 Pokedex=It actively runs about, but also falls often. Whenever it falls, it will check its reflection on a lake's surface to make sure its face hasn't become dirty.
-BattlerPlayerY=30
-BattlerEnemyY=26
+BattlerPlayerY=62
+BattlerEnemyY=68
 BattlerAltitude=0
 Evolutions=JYNX,Level,30
 #-------------------------------
@@ -7237,8 +7237,8 @@ RegionalNumbers=0,156
 Kind=Electric
 Pokedex=If it touches metal and discharges the electricity it has stored in its body, an Elekid begins swinging its arms in circles to recharge itself.
 WildItemUncommon=ELECTIRIZER
-BattlerPlayerY=31
-BattlerEnemyY=24
+BattlerPlayerY=64
+BattlerEnemyY=64
 BattlerAltitude=0
 Evolutions=ELECTABUZZ,Level,30
 #-------------------------------
@@ -7268,8 +7268,8 @@ RegionalNumbers=0,152
 Kind=Live Coal
 Pokedex=If a Magby is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.
 WildItemUncommon=MAGMARIZER
-BattlerPlayerY=29
-BattlerEnemyY=24
+BattlerPlayerY=60
+BattlerEnemyY=64
 BattlerAltitude=0
 Evolutions=MAGMAR,Level,30
 #-------------------------------
@@ -7301,8 +7301,8 @@ Pokedex=It gives over five gallons of milk daily. Its sweet milk is enjoyed by c
 WildItemCommon=MOOMOOMILK
 WildItemUncommon=MOOMOOMILK
 WildItemRare=MOOMOOMILK
-BattlerPlayerY=24
-BattlerEnemyY=20
+BattlerPlayerY=50
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7333,8 +7333,8 @@ Pokedex=If it senses sadness with its fluffy fur, a Blissey will rush over to th
 WildItemCommon=LUCKYEGG
 WildItemUncommon=LUCKYEGG
 WildItemRare=LUCKYEGG
-BattlerPlayerY=23
-BattlerEnemyY=15
+BattlerPlayerY=52
+BattlerEnemyY=52
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7362,8 +7362,8 @@ Habitat=Grassland
 RegionalNumbers=0,243
 Kind=Thunder
 Pokedex=Raikou embodies the speed of lightning. Its roars send shock waves shuddering through the air and ground as if lightning bolts were crashing down.
-BattlerPlayerY=16
-BattlerEnemyY=13
+BattlerPlayerY=38
+BattlerEnemyY=36
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7391,8 +7391,8 @@ Habitat=Grassland
 RegionalNumbers=0,244
 Kind=Volcano
 Pokedex=Entei embodies the passion of magma. It is thought to have been born in the eruption of a volcano. It blasts fire that consumes all that it touches.
-BattlerPlayerY=13
-BattlerEnemyY=9
+BattlerPlayerY=44
+BattlerEnemyY=45
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7420,8 +7420,8 @@ Habitat=Grassland
 RegionalNumbers=0,245
 Kind=Aurora
 Pokedex=Suicune embodies the compassion of a pure spring of water. It runs across the land with gliding elegance. It has the power to purify dirty water.
-BattlerPlayerY=16
-BattlerEnemyY=10
+BattlerPlayerY=46
+BattlerEnemyY=41
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7451,8 +7451,8 @@ Habitat=Mountain
 RegionalNumbers=0,249
 Kind=Rock Skin
 Pokedex=A Larvitar is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents' faces.
-BattlerPlayerY=28
-BattlerEnemyY=22
+BattlerPlayerY=58
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=PUPITAR,Level,30
 #-------------------------------
@@ -7480,9 +7480,9 @@ Habitat=Mountain
 RegionalNumbers=0,250
 Kind=Hard Shell
 Pokedex=A Pupitar creates a gas inside its body that it ejects under compression to propel itself like a jet. Its body can withstand a collision with solid steel.
-BattlerPlayerY=27
-BattlerEnemyY=22
-BattlerAltitude=8
+BattlerPlayerY=66
+BattlerEnemyY=58
+BattlerAltitude=0
 Evolutions=TYRANITAR,Level,55
 #-------------------------------
 [248]
@@ -7510,8 +7510,8 @@ Habitat=Mountain
 RegionalNumbers=0,251
 Kind=Armor
 Pokedex=A Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.
-BattlerPlayerY=9
-BattlerEnemyY=9
+BattlerPlayerY=31
+BattlerEnemyY=32
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7540,9 +7540,9 @@ Habitat=Rare
 RegionalNumbers=0,252
 Kind=Diving
 Pokedex=Lugia is so powerful even a light fluttering of its wings can blow apart houses. As a result, it chooses to live out of sight deep under the sea.
-BattlerPlayerY=7
-BattlerEnemyY=7
-BattlerAltitude=6
+BattlerPlayerY=23
+BattlerEnemyY=-8
+BattlerAltitude=28
 Evolutions=
 #-------------------------------
 [250]
@@ -7573,9 +7573,9 @@ Pokedex=Its feathers--which glow in seven colors depending on the angle at which
 WildItemCommon=SACREDASH
 WildItemUncommon=SACREDASH
 WildItemRare=SACREDASH
-BattlerPlayerY=6
+BattlerPlayerY=21
 BattlerEnemyY=4
-BattlerAltitude=8
+BattlerAltitude=26
 Evolutions=
 #-------------------------------
 [251]
@@ -7605,9 +7605,9 @@ Pokedex=This Pokémon came from the future by crossing over time. It is thought 
 WildItemCommon=LUMBERRY
 WildItemUncommon=LUMBERRY
 WildItemRare=LUMBERRY
-BattlerPlayerY=29
-BattlerEnemyY=24
-BattlerAltitude=13
+BattlerPlayerY=36
+BattlerEnemyY=45
+BattlerAltitude=12
 Evolutions=
 #-------------------------------
 [252]
@@ -7634,8 +7634,8 @@ Shape=6
 Habitat=Forest
 Kind=Wood Gecko
 Pokedex=It makes its nest in a giant tree in the forest. It ferociously guards against anything nearing its territory. It is said to be the protector of the forest's trees.
-BattlerPlayerY=25
-BattlerEnemyY=19
+BattlerPlayerY=56
+BattlerEnemyY=62
 BattlerAltitude=0
 Evolutions=GROVYLE,Level,16
 #-------------------------------
@@ -7662,8 +7662,8 @@ Shape=6
 Habitat=Forest
 Kind=Wood Gecko
 Pokedex=Leaves grow out of this Pokémon's body. They help obscure a Grovyle from the eyes of its enemies while it is in a thickly overgrown forest.
-BattlerPlayerY=18
-BattlerEnemyY=15
+BattlerPlayerY=51
+BattlerEnemyY=60
 BattlerAltitude=6
 Evolutions=SCEPTILE,Level,36
 #-------------------------------
@@ -7690,8 +7690,8 @@ Shape=6
 Habitat=Forest
 Kind=Forest
 Pokedex=In the jungle, its power is without equal. This Pokémon carefully grows trees and plants. It regulates its body temperature by basking in sunlight.
-BattlerPlayerY=9
-BattlerEnemyY=11
+BattlerPlayerY=38
+BattlerEnemyY=48
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7719,8 +7719,8 @@ Shape=7
 Habitat=Grassland
 Kind=Chick
 Pokedex=If attacked, it strikes back by spitting balls of fire it forms in its stomach. A Torchic dislikes darkness because it can't see its surroundings.
-BattlerPlayerY=27
-BattlerEnemyY=22
+BattlerPlayerY=56
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=COMBUSKEN,Level,16
 #-------------------------------
@@ -7748,8 +7748,8 @@ Shape=6
 Habitat=Grassland
 Kind=Young Fowl
 Pokedex=It lashes out with 10 kicks per second. Its strong fighting instinct compels it to keep up its offensive until the opponent gives up.
-BattlerPlayerY=15
-BattlerEnemyY=13
+BattlerPlayerY=42
+BattlerEnemyY=51
 BattlerAltitude=0
 Evolutions=BLAZIKEN,Level,36
 #-------------------------------
@@ -7777,8 +7777,8 @@ Shape=6
 Habitat=Grassland
 Kind=Blaze
 Pokedex=It learns martial arts that use punches and kicks. Every several years, its old feathers burn off, and new, supple feathers grow back in their place.
-BattlerPlayerY=12
-BattlerEnemyY=8
+BattlerPlayerY=30
+BattlerEnemyY=42
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7806,8 +7806,8 @@ Shape=8
 Habitat=WatersEdge
 Kind=Mud Fish
 Pokedex=On land, it can powerfully lift large boulders by planting its four feet and heaving. It sleeps by burying itself in soil at the water's edge.
-BattlerPlayerY=27
-BattlerEnemyY=24
+BattlerPlayerY=58
+BattlerEnemyY=67
 BattlerAltitude=0
 Evolutions=MARSHTOMP,Level,16
 #-------------------------------
@@ -7835,8 +7835,8 @@ Shape=6
 Habitat=WatersEdge
 Kind=Mud Fish
 Pokedex=Its toughened hind legs enable it to stand upright. Because it weakens if its skin dries out, it replenishes fluids by playing in mud.
-BattlerPlayerY=19
-BattlerEnemyY=18
+BattlerPlayerY=42
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=SWAMPERT,Level,36
 #-------------------------------
@@ -7864,8 +7864,8 @@ Shape=6
 Habitat=WatersEdge
 Kind=Mud Fish
 Pokedex=If it senses the approach of a storm and a tidal wave, it protects its seaside nest by piling up boulders. It swims as fast as a jet ski.
-BattlerPlayerY=18
-BattlerEnemyY=12
+BattlerPlayerY=50
+BattlerEnemyY=55
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7893,8 +7893,8 @@ Shape=8
 Habitat=Grassland
 Kind=Bite
 Pokedex=It savagely threatens foes with bared fangs. It chases after fleeing targets tenaciously. It turns tail and runs, however, if the foe strikes back.
-BattlerPlayerY=27
-BattlerEnemyY=24
+BattlerPlayerY=58
+BattlerEnemyY=70
 BattlerAltitude=0
 Evolutions=MIGHTYENA,Level,18
 #-------------------------------
@@ -7921,8 +7921,8 @@ Shape=8
 Habitat=Grassland
 Kind=Bite
 Pokedex=In the wild, Mightyena live in a pack. They never defy their leader's orders. They defeat foes with perfectly coordinated teamwork.
-BattlerPlayerY=16
-BattlerEnemyY=15
+BattlerPlayerY=52
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -7952,8 +7952,8 @@ Kind=TinyRaccoon
 Pokedex=Rubbing its nose against the ground, it always wanders about back and forth in search of something. It is distinguished by the zigzag footprints it leaves.
 WildItemUncommon=REVIVE
 WildItemCommon=POTION
-BattlerPlayerY=28
-BattlerEnemyY=23
+BattlerPlayerY=66
+BattlerEnemyY=66
 BattlerAltitude=0
 Evolutions=LINOONE,Level,20
 #-------------------------------
@@ -7982,8 +7982,8 @@ Kind=Rushing
 Pokedex=It is exceedingly fast if it only has to run in a straight line. When it spots pond- dwelling prey underwater, it quickly leaps in and catches it with its sharp claws.
 WildItemCommon=POTION
 WildItemUncommon=MAXREVIVE
-BattlerPlayerY=29
-BattlerEnemyY=14
+BattlerPlayerY=74
+BattlerEnemyY=77
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -8012,8 +8012,8 @@ Kind=Worm
 WildItemUncommon=BRIGHTPOWDER
 WildItemCommon=PECHABERRY
 Pokedex=It sticks to tree branches and eats leaves. The thread it spits from its mouth, which becomes gooey when it touches air, slows the movement of its foes.
-BattlerPlayerY=28
-BattlerEnemyY=22
+BattlerPlayerY=70
+BattlerEnemyY=65
 BattlerAltitude=0
 Evolutions=SILCOON,Silcoon,7,CASCOON,Cascoon,7
 #-------------------------------
@@ -8039,8 +8039,8 @@ Shape=1
 Habitat=Forest
 Kind=Cocoon
 Pokedex=It prepares for evolution using the energy it stored while it was a Wurmple. It keeps watch over the surroundings with its two eyes.
-BattlerPlayerY=28
-BattlerEnemyY=25
+BattlerPlayerY=72
+BattlerEnemyY=73
 BattlerAltitude=0
 Evolutions=BEAUTIFLY,Level,10
 #-------------------------------
@@ -8069,9 +8069,9 @@ Habitat=Forest
 Kind=Butterfly
 Pokedex=Its colorfully patterned wings are its most prominent feature. It flies through flower-covered fields collecting pollen. It attacks ferociously when angered.
 WildItemUncommon=SHEDSHELL
-BattlerPlayerY=21
-BattlerEnemyY=21
-BattlerAltitude=17
+BattlerPlayerY=19
+BattlerEnemyY=23
+BattlerAltitude=20
 Evolutions=
 #-------------------------------
 [268]
@@ -8096,8 +8096,8 @@ Shape=1
 Habitat=Forest
 Kind=Cocoon
 Pokedex=To avoid detection by its enemies, it hides motionlessly beneath large leaves and in the gaps of branches. It also attaches dead leaves to its body for camouflage.
-BattlerPlayerY=29
-BattlerEnemyY=22
+BattlerPlayerY=72
+BattlerEnemyY=79
 BattlerAltitude=0
 Evolutions=DUSTOX,Level,10
 #-------------------------------
@@ -8128,7 +8128,7 @@ Pokedex=It is a nocturnal Pokémon that flies from fields and mountains to the a
 WildItemUncommon=SHEDSHELL
 BattlerPlayerY=23
 BattlerEnemyY=21
-BattlerAltitude=15
+BattlerAltitude=26
 Evolutions=
 #-------------------------------
 [270]
@@ -8157,8 +8157,8 @@ Habitat=WatersEdge
 Kind=Water Weed
 WildItemUncommon=MENTALHERB
 Pokedex=This Pokémon lives in ponds with clean water. It is known to ferry small Pokémon across ponds by carrying them on the broad leaf on its head.
-BattlerPlayerY=32
-BattlerEnemyY=29
+BattlerPlayerY=76
+BattlerEnemyY=75
 BattlerAltitude=0
 Evolutions=LOMBRE,Level,14
 #-------------------------------
@@ -8187,8 +8187,8 @@ Habitat=WatersEdge
 Kind=Jolly
 WildItemUncommon=MENTALHERB
 Pokedex=In the evening, it takes great delight in popping out of rivers and startling people. It feeds on aquatic moss that grows on rocks in the riverbed.
-BattlerPlayerY=25
-BattlerEnemyY=23
+BattlerPlayerY=52
+BattlerEnemyY=66
 BattlerAltitude=0
 Evolutions=LUDICOLO,Item,WATERSTONE
 #-------------------------------
@@ -8217,8 +8217,8 @@ Habitat=WatersEdge
 Kind=Carefree
 WildItemUncommon=MENTALHERB
 Pokedex=When it hears festive music, all the cells in its body become stimulated, and it begins moving in rhythm. It does not quail even when it faces a tough opponent.
-BattlerPlayerY=14
-BattlerEnemyY=11
+BattlerPlayerY=28
+BattlerEnemyY=40
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -8247,8 +8247,8 @@ Habitat=Forest
 Kind=Acorn
 WildItemUncommon=POWERHERB
 Pokedex=It hangs off branches and absorbs nutrients. When it finishes eating, its body becomes so heavy that it drops to the ground with a thump.
-BattlerPlayerY=29
-BattlerEnemyY=26
+BattlerPlayerY=60
+BattlerEnemyY=71
 BattlerAltitude=0
 Evolutions=NUZLEAF,Level,14
 #-------------------------------
@@ -8277,8 +8277,8 @@ Habitat=Forest
 Kind=Wily
 WildItemUncommon=POWERHERB
 Pokedex=A forest-dwelling Pokémon that is skilled at climbing trees. Its long and pointed nose is its weak point. It loses power if the nose is gripped.
-BattlerPlayerY=22
-BattlerEnemyY=20
+BattlerPlayerY=48
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=SHIFTRY,Item,LEAFSTONE
 #-------------------------------
@@ -8307,8 +8307,8 @@ Habitat=Forest
 Kind=Wicked
 WildItemUncommon=POWERHERB
 Pokedex=It is said to arrive on chilly, wintry winds. Feared from long ago as the guardian of forests, this Pokémon lives in a deep forest where people do not venture.
-BattlerPlayerY=15
-BattlerEnemyY=14
+BattlerPlayerY=32
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -8337,9 +8337,9 @@ Shape=9
 Habitat=Grassland
 Kind=TinySwallow
 Pokedex=Although it is small, it is very courageous. It will take on a larger Skarmory on an equal footing. However, its will weakens if it becomes hungry.
-BattlerPlayerY=32
-BattlerEnemyY=27
-BattlerAltitude=20
+BattlerPlayerY=68
+BattlerEnemyY=72
+BattlerAltitude=0
 Evolutions=SWELLOW,Level,22
 #-------------------------------
 [277]
@@ -8366,9 +8366,9 @@ Shape=9
 Habitat=Grassland
 Kind=Swallow
 Pokedex=A Swellow dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.
-BattlerPlayerY=21
-BattlerEnemyY=12
-BattlerAltitude=10
+BattlerPlayerY=48
+BattlerEnemyY=56
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [278]
@@ -8397,9 +8397,9 @@ Habitat=Sea
 Kind=Seagull
 WildItemCommon=PRETTYWING
 Pokedex=It makes its nest on a sheer cliff at the edge of the sea. It has trouble keeping its wings flapping in flight. Instead, it soars on updrafts.
-BattlerPlayerY=29
+BattlerPlayerY=36
 BattlerEnemyY=22
-BattlerAltitude=18
+BattlerAltitude=25
 Evolutions=PELIPPER,Level,25
 #-------------------------------
 [279]
@@ -8427,9 +8427,9 @@ Habitat=Sea
 Kind=Water Bird
 WildItemCommon=PRETTYWING
 Pokedex=It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.
-BattlerPlayerY=17
-BattlerEnemyY=9
-BattlerAltitude=13
+BattlerPlayerY=25
+BattlerEnemyY=30
+BattlerAltitude=24
 Evolutions=
 #-------------------------------
 [280]
@@ -8457,8 +8457,8 @@ Shape=12
 Habitat=Urban
 Kind=Feeling
 Pokedex=A Ralts has the power to sense the emotions of people and Pokémon with the horns on its head. It takes cover if it senses any hostility.
-BattlerPlayerY=27
-BattlerEnemyY=25
+BattlerPlayerY=60
+BattlerEnemyY=69
 BattlerAltitude=0
 Evolutions=KIRLIA,Level,20
 #-------------------------------
@@ -8486,8 +8486,8 @@ Shape=12
 Habitat=Urban
 Kind=Emotion
 Pokedex=A Kirlia has the psychic power to create a rip in the dimensions and see into the future. It is said to dance with pleasure on sunny mornings.
-BattlerPlayerY=21
-BattlerEnemyY=18
+BattlerPlayerY=42
+BattlerEnemyY=48
 BattlerAltitude=0
 Evolutions=GARDEVOIR,Level,30,GALLADE,ItemMale,DAWNSTONE
 #-------------------------------
@@ -8515,9 +8515,9 @@ Shape=12
 Habitat=Urban
 Kind=Embrace
 Pokedex=It apparently does not feel the pull of gravity because it supports itself with psychic power. It will give its life to protect its trainer.
-BattlerPlayerY=10
-BattlerEnemyY=10
-BattlerAltitude=0
+BattlerPlayerY=23
+BattlerEnemyY=18
+BattlerAltitude=6
 Evolutions=
 #-------------------------------
 [283]
@@ -8546,8 +8546,8 @@ Habitat=WatersEdge
 Kind=Pond Skater
 WildItemUncommon=HONEY
 Pokedex=They gather on puddles after evening downpours, gliding across the surface of water as if sliding. It secretes honey with a sweet aroma from its head.
-BattlerPlayerY=28
-BattlerEnemyY=22
+BattlerPlayerY=78
+BattlerEnemyY=74
 BattlerAltitude=1
 Evolutions=MASQUERAIN,Level,22
 #-------------------------------
@@ -8576,9 +8576,9 @@ Habitat=WatersEdge
 Kind=Eyeball
 Pokedex=It intimidates foes with the large eyelike patterns on its antennae. Because it can't fly if its wings get wet, it shelters itself from rain under large trees and eaves.
 WildItemUncommon=SILVERPOWDER
-BattlerPlayerY=21
-BattlerEnemyY=9
-BattlerAltitude=9
+BattlerPlayerY=35
+BattlerEnemyY=26
+BattlerAltitude=27
 Evolutions=
 #-------------------------------
 [285]
@@ -8607,8 +8607,8 @@ Kind=Mushroom
 Pokedex=It loves to eat damp, composted soil in forests. If you enter a forest after a long rain, you can see many Shroomish feasting on composted soil.
 WildItemUncommon=BIGMUSHROOM
 WildItemCommon=TINYMUSHROOM
-BattlerPlayerY=32
-BattlerEnemyY=28
+BattlerPlayerY=66
+BattlerEnemyY=70
 BattlerAltitude=0
 Evolutions=BRELOOM,Level,23
 #-------------------------------
@@ -8637,8 +8637,8 @@ Habitat=Forest
 Kind=Mushroom
 Pokedex=It scatters spores from holes in the cap on its head. It loves warm and humid climates. It feeds on trees and plants in fields and forests.
 WildItemUncommon=KEBIABERRY
-BattlerPlayerY=16
-BattlerEnemyY=13
+BattlerPlayerY=38
+BattlerEnemyY=51
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -8665,8 +8665,8 @@ Shape=8
 Habitat=Forest
 Kind=Slacker
 Pokedex=It sleeps virtually all day and night long. It doesn't change its nest its entire life, but it sometimes travels great distances by swimming in rivers.
-BattlerPlayerY=30
-BattlerEnemyY=29
+BattlerPlayerY=80
+BattlerEnemyY=79
 BattlerAltitude=0
 Evolutions=VIGOROTH,Level,18
 #-------------------------------
@@ -8692,8 +8692,8 @@ Shape=6
 Habitat=Forest
 Kind=Wild Monkey
 Pokedex=It can't keep still because its blood boils with energy. It runs through the fields and mountains all day to calm itself. If it doesn't, it can't sleep at night.
-BattlerPlayerY=21
-BattlerEnemyY=11
+BattlerPlayerY=48
+BattlerEnemyY=56
 BattlerAltitude=0
 Evolutions=SLAKING,Level,36
 #-------------------------------
@@ -8719,8 +8719,8 @@ Shape=12
 Habitat=Forest
 Kind=Lazy
 Pokedex=Hordes of Slaking gather around trees when fruits come into season. They wait around patiently for ripened fruits to fall out of the trees.
-BattlerPlayerY=20
-BattlerEnemyY=13
+BattlerPlayerY=48
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -8750,8 +8750,8 @@ Habitat=Forest
 Kind=Trainee
 WildItemUncommon=SOFTSAND
 Pokedex=It makes its nest at the roots of a mighty tree. Using its whiskerlike antennae, it probes its surroundings in the pitch-black darkness of soil.
-BattlerPlayerY=34
-BattlerEnemyY=31
+BattlerPlayerY=76
+BattlerEnemyY=81
 BattlerAltitude=0
 Evolutions=NINJASK,Ninjask,20,SHEDINJA,Shedinja,20
 #-------------------------------
@@ -8779,9 +8779,9 @@ Shape=13
 Habitat=Forest
 Kind=Ninja
 Pokedex=Because it darts about vigorously at high speed, it is very difficult to see. Hearing its distinctive cries for too long induces a headache.
-BattlerPlayerY=29
-BattlerEnemyY=23
-BattlerAltitude=16
+BattlerPlayerY=48
+BattlerEnemyY=29
+BattlerAltitude=29
 Evolutions=
 #-------------------------------
 [292]
@@ -8807,9 +8807,9 @@ Shape=5
 Habitat=Forest
 Kind=Shed
 Pokedex=A peculiar Pokémon that floats in air even though its wings remain completely still. The inside of its body is hollow and utterly dark.
-BattlerPlayerY=26
+BattlerPlayerY=38
 BattlerEnemyY=22
-BattlerAltitude=13
+BattlerAltitude=23
 Evolutions=
 #-------------------------------
 [293]
@@ -8836,8 +8836,8 @@ Shape=6
 Habitat=Cave
 Kind=Whisper
 Pokedex=Its cries equal a jet plane in volume. It inhales through its ear canals. Because of this system, it can cry continually without having to catch its breath.
-BattlerPlayerY=30
-BattlerEnemyY=25
+BattlerPlayerY=62
+BattlerEnemyY=70
 BattlerAltitude=0
 Evolutions=LOUDRED,Level,20
 #-------------------------------
@@ -8864,8 +8864,8 @@ Shape=6
 Habitat=Cave
 Kind=Big Voice
 Pokedex=It positions the round speakers on its head to assail foes with ultrasonic waves at massive volume. It builds power by stomping the ground.
-BattlerPlayerY=17
-BattlerEnemyY=13
+BattlerPlayerY=36
+BattlerEnemyY=54
 BattlerAltitude=0
 Evolutions=EXPLOUD,Level,40
 #-------------------------------
@@ -8892,8 +8892,8 @@ Shape=6
 Habitat=Cave
 Kind=Loud Noise
 Pokedex=It has sound-generating organs all over its body. It communicates with others by adjusting the tone and volume of the cries it emits.
-BattlerPlayerY=13
-BattlerEnemyY=11
+BattlerPlayerY=34
+BattlerEnemyY=47
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -8922,8 +8922,8 @@ Habitat=Mountain
 Kind=Guts
 WildItemUncommon=BLACKBELT
 Pokedex=It loves to toughen up its body above all else. If you hear quaking rumbles in a cave, it is the sound of Makuhita undertaking strenuous training.
-BattlerPlayerY=22
-BattlerEnemyY=20
+BattlerPlayerY=48
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=HARIYAMA,Level,24
 #-------------------------------
@@ -8951,8 +8951,8 @@ Habitat=Mountain
 Kind=Arm Thrust
 Pokedex=It has the habit of challenging others without hesitation to tests of strength. It's been known to stand on train tracks and stop trains using forearm thrusts.
 WildItemUncommon=KINGSROCK
-BattlerPlayerY=11
-BattlerEnemyY=10
+BattlerPlayerY=36
+BattlerEnemyY=45
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -8981,8 +8981,8 @@ Shape=7
 Habitat=WatersEdge
 Kind=Polka Dot
 Pokedex=Its tail, which is packed with nutrition, is very bouncy like a rubber ball. On sunny days they gather at the edge of water and splash about for fun.
-BattlerPlayerY=26
-BattlerEnemyY=24
+BattlerPlayerY=52
+BattlerEnemyY=66
 BattlerAltitude=0
 Evolutions=MARILL,Happiness,
 Incense=SEAINCENSE
@@ -9012,8 +9012,8 @@ Habitat=Cave
 Kind=Compass
 Pokedex=Its body emits a powerful magnetism. It feeds on prey that is pulled in by the force. Its magnetism is stronger in cold seasons.
 WildItemUncommon=MAGNET
-BattlerPlayerY=24
-BattlerEnemyY=20
+BattlerPlayerY=52
+BattlerEnemyY=61
 BattlerAltitude=0
 Evolutions=PROBOPASS,Location,49,PROBOPASS,Location,50,PROBOPASS,Location,51
 #-------------------------------
@@ -9041,8 +9041,8 @@ Shape=8
 Habitat=Forest
 Kind=Kitten
 Pokedex=A Skitty's adorably cute behavior makes it highly popular. In battle, it makes its tail puff out. It threatens foes with a sharp growl.
-BattlerPlayerY=29
-BattlerEnemyY=24
+BattlerPlayerY=62
+BattlerEnemyY=74
 BattlerAltitude=3
 Evolutions=DELCATTY,Item,MOONSTONE
 #-------------------------------
@@ -9069,8 +9069,8 @@ Shape=8
 Habitat=Forest
 Kind=Prim
 Pokedex=Rather than keeping a permanent lair, it habitually seeks comfortable spots and sleeps there. It is nocturnal and becomes active at dusk.
-BattlerPlayerY=19
-BattlerEnemyY=16
+BattlerPlayerY=42
+BattlerEnemyY=52
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9100,8 +9100,8 @@ Habitat=Cave
 Kind=Darkness
 WildItemUncommon=WIDELENS
 Pokedex=It digs branching holes in caves using its sharp claws in search of food--raw gems. A Sableye lurks in darkness and is seen only rarely.
-BattlerPlayerY=26
-BattlerEnemyY=22
+BattlerPlayerY=56
+BattlerEnemyY=64
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9131,8 +9131,8 @@ Habitat=Cave
 Kind=Deceiver
 Pokedex=Its giant jaws are actually steel horns that transformed. It fools foes into complacency with its adorable gestures, then chomps them with its huge jaws.
 WildItemUncommon=IRONBALL
-BattlerPlayerY=25
-BattlerEnemyY=21
+BattlerPlayerY=52
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9162,8 +9162,8 @@ Habitat=Mountain
 Kind=Iron Armor
 Pokedex=A Pokémon that is clad in steel armor. A new suit of armor is made when it evolves. The old, discarded armor is salvaged as metal for making iron products.
 WildItemUncommon=HARDSTONE
-BattlerPlayerY=32
-BattlerEnemyY=29
+BattlerPlayerY=70
+BattlerEnemyY=79
 BattlerAltitude=0
 Evolutions=LAIRON,Level,32
 #-------------------------------
@@ -9192,8 +9192,8 @@ Habitat=Mountain
 Kind=Iron Armor
 Pokedex=When two Lairon meet in the wild, they fight for territory by bashing into each other with their steel bodies. The sound of their collision carries for miles.
 WildItemUncommon=HARDSTONE
-BattlerPlayerY=24
-BattlerEnemyY=22
+BattlerPlayerY=52
+BattlerEnemyY=68
 BattlerAltitude=0
 Evolutions=AGGRON,Level,42
 #-------------------------------
@@ -9222,8 +9222,8 @@ Habitat=Mountain
 Kind=Iron Armor
 Pokedex=Its iron horns grow longer a little at a time. They are used to determine the Aggron's age. The gouges in its armor are worn with pride as mementos from battles.
 WildItemUncommon=HARDSTONE
-BattlerPlayerY=11
-BattlerEnemyY=10
+BattlerPlayerY=24
+BattlerEnemyY=41
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9252,9 +9252,9 @@ Shape=12
 Habitat=Mountain
 Kind=Meditate
 Pokedex=It continually meditates for hours every day. As a result of rigorous and dedicated yoga training, it has tempered its spiritual power so much it can fly.
-BattlerPlayerY=28
-BattlerEnemyY=24
-BattlerAltitude=0
+BattlerPlayerY=27
+BattlerEnemyY=28
+BattlerAltitude=8
 Evolutions=MEDICHAM,Level,37
 #-------------------------------
 [308]
@@ -9281,8 +9281,8 @@ Shape=12
 Habitat=Mountain
 Kind=Meditate
 Pokedex=Through crushingly harsh yoga training, it gained the power to foretell its foe's actions. It battles with elegant, dance- like movement.
-BattlerPlayerY=15
-BattlerEnemyY=11
+BattlerPlayerY=30
+BattlerEnemyY=38
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9310,8 +9310,8 @@ Shape=8
 Habitat=Grassland
 Kind=Lightning
 Pokedex=It generates electricity using friction from the atmosphere. In seasons with especially arid air, its entire body blazes with violent showers of sparks.
-BattlerPlayerY=30
-BattlerEnemyY=27
+BattlerPlayerY=66
+BattlerEnemyY=74
 BattlerAltitude=0
 Evolutions=MANECTRIC,Level,26
 #-------------------------------
@@ -9338,8 +9338,8 @@ Shape=1
 Habitat=Grassland
 Kind=Discharge
 Pokedex=Because lightning falls in their vicinities, Manectric were thought to have been born from lightning. In battle, they create thunderclouds.
-BattlerPlayerY=14
-BattlerEnemyY=12
+BattlerPlayerY=40
+BattlerEnemyY=44
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9368,8 +9368,8 @@ Habitat=Grassland
 Kind=Cheering
 WildItemUncommon=CELLBATTERY
 Pokedex=It has the trait of cheering on its fellow Pokémon. By shorting out the electricity it releases from its paws, it creates pom-poms for cheering.
-BattlerPlayerY=27
-BattlerEnemyY=24
+BattlerPlayerY=54
+BattlerEnemyY=62
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9398,8 +9398,8 @@ Habitat=Grassland
 Kind=Cheering
 WildItemUncommon=CELLBATTERY
 Pokedex=At a meeting of Pokémon academics, it was announced that simultaneous exposure to electricity from a Plusle and Minun will promote circulation and boost vitality.
-BattlerPlayerY=27
-BattlerEnemyY=24
+BattlerPlayerY=54
+BattlerEnemyY=61
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9428,9 +9428,9 @@ Habitat=Forest
 Kind=Firefly
 WildItemUncommon=BRIGHTPOWDER
 Pokedex=With their taillights lit, Volbeat fly in a swarm, drawing geometric designs in the night sky. They move their nests if their pond water becomes dirty.
-BattlerPlayerY=23
-BattlerEnemyY=21
-BattlerAltitude=10
+BattlerPlayerY=30
+BattlerEnemyY=22
+BattlerAltitude=20
 Evolutions=
 #-------------------------------
 [314]
@@ -9460,7 +9460,7 @@ WildItemUncommon=BRIGHTPOWDER
 Pokedex=A nocturnal Pokémon that becomes active upon nightfall. It leads a Volbeat swarm to draw patterns in the night sky. Over 200 different patterns have been confirmed.
 BattlerPlayerY=26
 BattlerEnemyY=22
-BattlerAltitude=10
+BattlerAltitude=22
 Evolutions=
 #-------------------------------
 [315]
@@ -9489,8 +9489,8 @@ Habitat=Grassland
 Kind=Thorn
 Pokedex=A Roselia that drinks nutritionally rich springwater blooms with lovely flowers. The fragrance of its flowers has the effect of making its foes careless.
 WildItemUncommon=POISONBARB
-BattlerPlayerY=25
-BattlerEnemyY=22
+BattlerPlayerY=52
+BattlerEnemyY=54
 BattlerAltitude=0
 Evolutions=ROSERADE,Item,SHINYSTONE
 #-------------------------------
@@ -9520,8 +9520,8 @@ Kind=Stomach
 Pokedex=This Pokémon's stomach fluid can even digest scrap iron. In one gulp, it can swallow something that is as large as itself.
 WildItemUncommon=SITRUSBERRY
 WildItemCommon=ORANBERRY
-BattlerPlayerY=30
-BattlerEnemyY=28
+BattlerPlayerY=62
+BattlerEnemyY=71
 BattlerAltitude=0
 Evolutions=SWALOT,Level,26
 #-------------------------------
@@ -9550,8 +9550,8 @@ Kind=Poison Bag
 Pokedex=Its powerful stomach acid is capable of digesting almost anything. The one thing in the whole world a Swalot can't digest is its own stomach.
 WildItemUncommon=SITRUSBERRY
 WildItemCommon=ORANBERRY
-BattlerPlayerY=18
-BattlerEnemyY=16
+BattlerPlayerY=42
+BattlerEnemyY=55
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9581,8 +9581,8 @@ Habitat=Sea
 Kind=Savage
 Pokedex=Carvanha attack ships in swarms, making them sink. Although it is said to be a very vicious Pokémon, it timidly flees as soon as it finds itself alone.
 WildItemUncommon=DEEPSEATOOTH
-BattlerPlayerY=23
-BattlerEnemyY=19
+BattlerPlayerY=43
+BattlerEnemyY=43
 BattlerAltitude=10
 Evolutions=SHARPEDO,Level,30
 #-------------------------------
@@ -9611,8 +9611,8 @@ Habitat=Sea
 Kind=Brutal
 Pokedex=The vicious and sly gangster of the sea. Its skin is specially textured to minimize drag in water. Its speed tops out at over 75 miles per hour.
 WildItemUncommon=DEEPSEATOOTH
-BattlerPlayerY=13
-BattlerEnemyY=10
+BattlerPlayerY=30
+BattlerEnemyY=21
 BattlerAltitude=8
 Evolutions=
 #-------------------------------
@@ -9640,9 +9640,9 @@ Shape=3
 Habitat=Sea
 Kind=Ball Whale
 Pokedex=While this Pokémon usually lives in the sea, it can survive on land, although not too long. It loses vitality if its body becomes dried out.
-BattlerPlayerY=26
+BattlerPlayerY=46
 BattlerEnemyY=21
-BattlerAltitude=0
+BattlerAltitude=9
 Evolutions=WAILORD,Level,40
 #-------------------------------
 [321]
@@ -9668,9 +9668,9 @@ Shape=3
 Habitat=Sea
 Kind=Float Whale
 Pokedex=It breathes through nostrils that it raises above the sea. By inhaling to its maximum capacity, a Wailord can dive close to 10,000 feet beneath the waves.
-BattlerPlayerY=11
-BattlerEnemyY=10
-BattlerAltitude=0
+BattlerPlayerY=27
+BattlerEnemyY=5
+BattlerAltitude=9
 Evolutions=
 #-------------------------------
 [322]
@@ -9698,8 +9698,8 @@ Shape=8
 Habitat=Mountain
 Kind=Numb
 Pokedex=A Numel stores boiling magma in the hump on its back. It is a hardy Pokémon that can transport a 220-pound load. It has served humans at work since long ago.
-BattlerPlayerY=21
-BattlerEnemyY=21
+BattlerPlayerY=48
+BattlerEnemyY=62
 BattlerAltitude=0
 Evolutions=CAMERUPT,Level,33
 #-------------------------------
@@ -9727,8 +9727,8 @@ Shape=8
 Habitat=Mountain
 Kind=Eruption
 Pokedex=A Pokémon that lives in the crater of a volcano. Every 10 years, the volcanoes on its back erupt violently. Research is under way on the cause of eruption.
-BattlerPlayerY=17
-BattlerEnemyY=15
+BattlerPlayerY=38
+BattlerEnemyY=51
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9757,8 +9757,8 @@ Habitat=Mountain
 Kind=Coal
 WildItemUncommon=CHARCOAL
 Pokedex=It battles using energy it gets from burning coal. When loosing smoke from its nostrils, it lets off a sound that is similar to a locomotive's horn.
-BattlerPlayerY=16
-BattlerEnemyY=14
+BattlerPlayerY=38
+BattlerEnemyY=47
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9786,9 +9786,9 @@ Shape=4
 Habitat=Mountain
 Kind=Bounce
 Pokedex=A Pokémon that manipulates psychic power at will. It doesn't stop bouncing even when it is asleep. It loves eating mushrooms that grow underground.
-BattlerPlayerY=22
-BattlerEnemyY=20
-BattlerAltitude=12
+BattlerPlayerY=32
+BattlerEnemyY=23
+BattlerAltitude=7
 Evolutions=GRUMPIG,Level,32
 #-------------------------------
 [326]
@@ -9814,8 +9814,8 @@ Shape=6
 Habitat=Mountain
 Kind=Manipulate
 Pokedex=It stores power in the black pearls on its forehead. When it uses psychic power, it performs an odd dance step. Its style of dancing became hugely popular overseas.
-BattlerPlayerY=16
-BattlerEnemyY=15
+BattlerPlayerY=40
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9843,8 +9843,8 @@ Shape=6
 Habitat=Mountain
 Kind=Spot Panda
 Pokedex=It is distinguished by a pattern of spots that is always different. Its unsteady, tottering walk has the effect of fouling its foe's aim.
-BattlerPlayerY=21
-BattlerEnemyY=19
+BattlerPlayerY=42
+BattlerEnemyY=56
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9873,8 +9873,8 @@ Habitat=RoughTerrain
 Kind=Ant Pit
 Pokedex=Its big jaws crunch through boulders. Because its head is so big, it has a hard time getting back upright if it tips over onto its back.
 WildItemUncommon=SOFTSAND
-BattlerPlayerY=25
-BattlerEnemyY=27
+BattlerPlayerY=58
+BattlerEnemyY=65
 BattlerAltitude=0
 Evolutions=VIBRAVA,Level,35
 #-------------------------------
@@ -9901,9 +9901,9 @@ Shape=13
 Habitat=RoughTerrain
 Kind=Vibration
 Pokedex=It looses ultrasonic waves by rubbing its wings together. Since a Vibrava's wings are still in the process of growing, it can only fly short distances.
-BattlerPlayerY=27
-BattlerEnemyY=20
-BattlerAltitude=17
+BattlerPlayerY=64
+BattlerEnemyY=63
+BattlerAltitude=0
 Evolutions=FLYGON,Level,45
 #-------------------------------
 [330]
@@ -9929,9 +9929,9 @@ Shape=9
 Habitat=RoughTerrain
 Kind=Mystic
 Pokedex=The flapping of its wings sounds like singing. To prevent detection by enemies, it hides itself by flapping up a cloud of desert sand.
-BattlerPlayerY=15
-BattlerEnemyY=10
-BattlerAltitude=9
+BattlerPlayerY=36
+BattlerEnemyY=22
+BattlerAltitude=27
 Evolutions=
 #-------------------------------
 [331]
@@ -9959,8 +9959,8 @@ Habitat=RoughTerrain
 Kind=Cactus
 Pokedex=Cacnea live in deserts with virtually no rainfall. It battles by swinging its thick, spiked arms. Once a year, a yellow flower blooms.
 WildItemUncommon=STICKYBARB
-BattlerPlayerY=29
-BattlerEnemyY=27
+BattlerPlayerY=60
+BattlerEnemyY=71
 BattlerAltitude=0
 Evolutions=CACTURNE,Level,32
 #-------------------------------
@@ -9989,8 +9989,8 @@ Habitat=RoughTerrain
 Kind=Scarecrow
 Pokedex=After spending thousands of years in harsh deserts, its blood transformed into the same substances as sand. It is nocturnal, so it hunts at night.
 WildItemUncommon=STICKYBARB
-BattlerPlayerY=13
-BattlerEnemyY=9
+BattlerPlayerY=28
+BattlerEnemyY=35
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -10020,8 +10020,8 @@ Habitat=Forest
 Kind=Cotton Bird
 Pokedex=A Pokémon that has wings like cottony clouds. After enduring winter, in which little food is available, Swablu flocks move closer to towns in the spring.
 BattlerPlayerY=29
-BattlerEnemyY=26
-BattlerAltitude=17
+BattlerEnemyY=18
+BattlerAltitude=25
 Evolutions=ALTARIA,Level,35
 #-------------------------------
 [334]
@@ -10050,7 +10050,7 @@ Kind=Humming
 Pokedex=It hums in a beautiful soprano voice. It flies among white clouds in the blue sky. It launches intensely hot fireballs from its mouth.
 BattlerPlayerY=12
 BattlerEnemyY=16
-BattlerAltitude=15
+BattlerAltitude=22
 Evolutions=
 #-------------------------------
 [335]
@@ -10078,8 +10078,8 @@ Habitat=Grassland
 Kind=Cat Ferret
 Pokedex=When it battles, it stands on its hind legs and attacks with its sharply clawed forelegs. Its fur bristles if it encounters any Seviper.
 WildItemUncommon=QUICKCLAW
-BattlerPlayerY=20
-BattlerEnemyY=13
+BattlerPlayerY=42
+BattlerEnemyY=48
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -10108,8 +10108,8 @@ Habitat=Grassland
 Kind=Fang Snake
 WildItemUncommon=SHEDSHELL
 Pokedex=Seviper and Zangoose are eternal rivals. It counters a Zangoose's dazzling agility with its swordlike tail, which also oozes a horrible poison.
-BattlerPlayerY=19
-BattlerEnemyY=12
+BattlerPlayerY=42
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -10138,9 +10138,9 @@ Kind=Meteorite
 Pokedex=It becomes very active on the night of a full moon. This Pokémon was first discovered 40 years ago at the site of a meteor strike.
 WildItemUncommon=MOONSTONE
 WildItemCommon=STARDUST
-BattlerPlayerY=25
-BattlerEnemyY=21
-BattlerAltitude=14
+BattlerPlayerY=40
+BattlerEnemyY=24
+BattlerAltitude=7
 Evolutions=
 #-------------------------------
 [338]
@@ -10170,7 +10170,7 @@ WildItemUncommon=SUNSTONE
 WildItemCommon=STARDUST
 BattlerPlayerY=16
 BattlerEnemyY=11
-BattlerAltitude=13
+BattlerAltitude=7
 Evolutions=
 #-------------------------------
 [339]
@@ -10200,7 +10200,7 @@ Kind=Whiskers
 Pokedex=Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the Barboach's body.
 BattlerPlayerY=34
 BattlerEnemyY=30
-BattlerAltitude=12
+BattlerAltitude=10
 Evolutions=WHISCASH,Level,30
 #-------------------------------
 [340]
@@ -10256,8 +10256,8 @@ Shape=14
 Habitat=WatersEdge
 Kind=Ruffian
 Pokedex=Once it grips prey with its large pincers, it will never let go, no matter what. It is a hardy Pokémon that can thrive in any environment.
-BattlerPlayerY=26
-BattlerEnemyY=22
+BattlerPlayerY=60
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=CRAWDAUNT,Level,30
 #-------------------------------
@@ -10285,8 +10285,8 @@ Shape=14
 Habitat=WatersEdge
 Kind=Rogue
 Pokedex=A brutish Pokémon that loves to battle. A veteran Crawdaunt that has prevailed in hundreds of battles has giant pincers marked with countless scars.
-BattlerPlayerY=20
-BattlerEnemyY=14
+BattlerPlayerY=40
+BattlerEnemyY=45
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -10314,9 +10314,9 @@ Habitat=RoughTerrain
 Kind=Clay Doll
 WildItemUncommon=LIGHTCLAY
 Pokedex=A Baltoy moves by spinning on its single foot. It has been depicted in murals adorning the walls of a once-bustling city in an ancient age.
-BattlerPlayerY=29
-BattlerEnemyY=27
-BattlerAltitude=11
+BattlerPlayerY=41
+BattlerEnemyY=43
+BattlerAltitude=8
 Evolutions=CLAYDOL,Level,36
 #-------------------------------
 [344]
@@ -10343,8 +10343,8 @@ Habitat=RoughTerrain
 Kind=Clay Doll
 WildItemUncommon=LIGHTCLAY
 Pokedex=A Claydol sleeps while hovering in midair. Its arms are separate from its body. They are kept floating by the Pokémon's manipulation of psychic power.
-BattlerPlayerY=16
-BattlerEnemyY=14
+BattlerPlayerY=32
+BattlerEnemyY=26
 BattlerAltitude=11
 Evolutions=
 #-------------------------------
@@ -10374,8 +10374,8 @@ Habitat=Sea
 Kind=Sea Lily
 Pokedex=It disguises itself as seaweed by making its tentacles sway. Unsuspecting prey that come too close are swallowed whole. It became extinct 100 million years ago.
 WildItemUncommon=BIGROOT
-BattlerPlayerY=21
-BattlerEnemyY=17
+BattlerPlayerY=50
+BattlerEnemyY=54
 BattlerAltitude=0
 Evolutions=CRADILY,Level,40
 #-------------------------------
@@ -10404,8 +10404,8 @@ Habitat=Sea
 Kind=Barnacle
 Pokedex=It drags its heavy body along the seafloor. It makes its nest in the shallows of warm seas. Cradily can be seen on beaches when the tide goes out.
 WildItemUncommon=BIGROOT
-BattlerPlayerY=7
-BattlerEnemyY=5
+BattlerPlayerY=26
+BattlerEnemyY=31
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -10434,9 +10434,9 @@ Shape=14
 Habitat=WatersEdge
 Kind=Old Shrimp
 Pokedex=It was resurrected from a fossil using the power of science. It swims by undulating the eight wings at its sides. They were feet that adapted to life in the sea.
-BattlerPlayerY=30
-BattlerEnemyY=20
-BattlerAltitude=0
+BattlerPlayerY=88
+BattlerEnemyY=71
+BattlerAltitude=9
 Evolutions=ARMALDO,Level,40
 #-------------------------------
 [348]
@@ -10463,8 +10463,8 @@ Shape=6
 Habitat=WatersEdge
 Kind=Plate
 Pokedex=Armaldo usually lives on land. However, when it hunts for prey, it dives beneath the ocean. It swims around using its two large wings.
-BattlerPlayerY=14
-BattlerEnemyY=12
+BattlerPlayerY=32
+BattlerEnemyY=46
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -10492,9 +10492,9 @@ Shape=3
 Habitat=WatersEdge
 Kind=Fish
 Pokedex=Feebas live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few trainers raise it.
-BattlerPlayerY=26
-BattlerEnemyY=21
-BattlerAltitude=12
+BattlerPlayerY=36
+BattlerEnemyY=28
+BattlerAltitude=7
 Evolutions=MILOTIC,Beauty,170,MILOTIC,TradeItem,PRISMSCALE
 #-------------------------------
 [350]
@@ -10520,9 +10520,9 @@ Shape=2
 Habitat=WatersEdge
 Kind=Tender
 Pokedex=It is said to live at the bottom of large lakes. Considered to be the most beautiful of all Pokémon, it has been depicted in paintings and statues.
-BattlerPlayerY=10
-BattlerEnemyY=11
-BattlerAltitude=3
+BattlerPlayerY=28
+BattlerEnemyY=31
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [351]
@@ -10551,9 +10551,9 @@ Pokedex=It alters its form depending on the weather. Changes in the climate such
 WildItemCommon=MYSTICWATER
 WildItemUncommon=MYSTICWATER
 WildItemRare=MYSTICWATER
-BattlerPlayerY=30
-BattlerEnemyY=29
-BattlerAltitude=18
+BattlerPlayerY=45
+BattlerEnemyY=40
+BattlerAltitude=11
 Evolutions=
 #-------------------------------
 [352]
@@ -10580,8 +10580,8 @@ Shape=6
 Habitat=Forest
 Kind=Color Swap
 Pokedex=A Pokémon that has the ability to alter its body colors to match its surroundings. A Kecleon reverts to its original colors if it is startled.
-BattlerPlayerY=18
-BattlerEnemyY=19
+BattlerPlayerY=38
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -10610,9 +10610,9 @@ Habitat=Urban
 Kind=Puppet
 Pokedex=This Pokémon roams about deep in the night seeking such negative emotions as grudges and envy. It retreats to its nest when the sun begins to rise.
 WildItemUncommon=SPELLTAG
-BattlerPlayerY=29
-BattlerEnemyY=25
-BattlerAltitude=17
+BattlerPlayerY=45
+BattlerEnemyY=30
+BattlerAltitude=6
 Evolutions=BANETTE,Level,37
 #-------------------------------
 [354]
@@ -10639,8 +10639,8 @@ Habitat=Urban
 Kind=Marionette
 Pokedex=An abandoned plush doll became this Pokémon. They are said to live in garbage dumps and wander about in search of the children that threw them away.
 WildItemUncommon=SPELLTAG
-BattlerPlayerY=22
-BattlerEnemyY=18
+BattlerPlayerY=46
+BattlerEnemyY=55
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -10669,9 +10669,9 @@ Habitat=Forest
 Kind=Requiem
 Pokedex=A glare from its single scarlet eye makes even burly grown-ups freeze in utter fear. It is a nocturnal Pokémon that roams about under the cloak of darkness.
 WildItemUncommon=SPELLTAG
-BattlerPlayerY=26
-BattlerEnemyY=26
-BattlerAltitude=11
+BattlerPlayerY=33
+BattlerEnemyY=35
+BattlerAltitude=9
 Evolutions=DUSCLOPS,Level,37
 #-------------------------------
 [356]
@@ -10698,8 +10698,8 @@ Habitat=Forest
 Kind=Beckon
 Pokedex=It is thought that its body is hollow with only a spectral ball of fire burning inside. However, no one has been able to confirm this theory as fact.
 WildItemUncommon=SPELLTAG
-BattlerPlayerY=14
-BattlerEnemyY=9
+BattlerPlayerY=40
+BattlerEnemyY=41
 BattlerAltitude=0
 Evolutions=DUSKNOIR,TradeItem,REAPERCLOTH
 #-------------------------------
@@ -10728,8 +10728,8 @@ Shape=8
 Habitat=Forest
 Kind=Fruit
 Pokedex=It flies by flapping its broad leaves. The bunch of fruit that grows around its neck is deliciously sweet. In the spring, it scatters pollen from its neck.
-BattlerPlayerY=8
-BattlerEnemyY=4
+BattlerPlayerY=22
+BattlerEnemyY=29
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -10759,7 +10759,7 @@ Pokedex=They fly about very actively when the hot season arrives. They communica
 WildItemUncommon=CLEANSETAG
 BattlerPlayerY=20
 BattlerEnemyY=16
-BattlerAltitude=10
+BattlerAltitude=11
 Evolutions=
 #-------------------------------
 [359]
@@ -10786,8 +10786,8 @@ Shape=8
 Habitat=Mountain
 Kind=Disaster
 Pokedex=It sharply senses even subtle changes in the sky and the land to predict natural disasters. It is a long-lived Pokémon that has a life-span of 100 years.
-BattlerPlayerY=17
-BattlerEnemyY=15
+BattlerPlayerY=46
+BattlerEnemyY=55
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -10814,8 +10814,8 @@ Shape=6
 Habitat=Cave
 Kind=Bright
 Pokedex=A Wynaut loves to eat sweet fruits. It cleverly picks fruits using its earlike arms. They gather in fruit gardens, drawn by the fragrance.
-BattlerPlayerY=27
-BattlerEnemyY=25
+BattlerPlayerY=56
+BattlerEnemyY=65
 BattlerAltitude=0
 Evolutions=WOBBUFFET,Level,15
 Incense=LAXINCENSE
@@ -10845,8 +10845,8 @@ Habitat=Cave
 Kind=Snow Hat
 Pokedex=They tend to move about in groups of around five Snorunt. In snowy regions, it is said that when they are seen late at night, snowfall will arrive by morning.
 WildItemUncommon=SNOWBALL
-BattlerPlayerY=29
-BattlerEnemyY=23
+BattlerPlayerY=60
+BattlerEnemyY=66
 BattlerAltitude=0
 Evolutions=GLALIE,Level,42,FROSLASS,ItemFemale,DAWNSTONE
 #-------------------------------
@@ -10903,8 +10903,8 @@ Shape=3
 Habitat=Sea
 Kind=Clap
 Pokedex=It is completely covered with plushy fur. As a result, it never feels the cold even when it is rolling about on ice floes or diving in the sea.
-BattlerPlayerY=32
-BattlerEnemyY=26
+BattlerPlayerY=70
+BattlerEnemyY=76
 BattlerAltitude=0
 Evolutions=SEALEO,Level,32
 #-------------------------------
@@ -10932,8 +10932,8 @@ Shape=3
 Habitat=Sea
 Kind=Ball Roll
 Pokedex=Sealeo live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day.
-BattlerPlayerY=25
-BattlerEnemyY=21
+BattlerPlayerY=54
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=WALREIN,Level,44
 #-------------------------------
@@ -10961,8 +10961,8 @@ Shape=8
 Habitat=Sea
 Kind=Ice Break
 Pokedex=To protect its herd, the leader battles anything that invades its territory, even at the cost of its life. Its tusks may snap off in battle.
-BattlerPlayerY=14
-BattlerEnemyY=13
+BattlerPlayerY=44
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -10992,8 +10992,8 @@ Kind=Bivalve
 Pokedex=A Clamperl slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy.
 WildItemUncommon=BIGPEARL
 WildItemCommon=PEARL
-BattlerPlayerY=28
-BattlerEnemyY=24
+BattlerPlayerY=56
+BattlerEnemyY=66
 BattlerAltitude=0
 Evolutions=HUNTAIL,TradeItem,DEEPSEATOOTH,GOREBYSS,TradeItem,DEEPSEASCALE
 #-------------------------------
@@ -11021,9 +11021,9 @@ Habitat=Sea
 Kind=Deep Sea
 Pokedex=To withstand the crushing pressure of water deep under the sea, its spine is very thick and sturdy. Its tail, which is shaped like a small fish, has eyes that light up.
 WildItemUncommon=DEEPSEATOOTH
-BattlerPlayerY=14
-BattlerEnemyY=16
-BattlerAltitude=8
+BattlerPlayerY=31
+BattlerEnemyY=17
+BattlerAltitude=14
 Evolutions=
 #-------------------------------
 [368]
@@ -11052,7 +11052,7 @@ Pokedex=A Gorebyss siphons the body fluids of prey through its thin, tubular mou
 WildItemUncommon=DEEPSEASCALE
 BattlerPlayerY=20
 BattlerEnemyY=14
-BattlerAltitude=10
+BattlerAltitude=13
 Evolutions=
 #-------------------------------
 [369]
@@ -11141,8 +11141,8 @@ Habitat=RoughTerrain
 Kind=Rock Head
 Pokedex=Although it is small, this Pokémon is very powerful because its body is a bundle of muscles. It launches head-butts with its ironlike skull.
 WildItemUncommon=DRAGONFANG
-BattlerPlayerY=23
-BattlerEnemyY=21
+BattlerPlayerY=50
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=SHELGON,Level,30
 #-------------------------------
@@ -11170,8 +11170,8 @@ Habitat=RoughTerrain
 Kind=Endurance
 Pokedex=It hardly eats while it awaits evolution. It becomes hardier by enduring hunger. Its shell peels off the instant it begins to evolve.
 WildItemUncommon=DRAGONFANG
-BattlerPlayerY=23
-BattlerEnemyY=19
+BattlerPlayerY=56
+BattlerEnemyY=66
 BattlerAltitude=0
 Evolutions=SALAMENCE,Level,50
 #-------------------------------
@@ -11200,8 +11200,8 @@ Habitat=RoughTerrain
 Kind=Dragon
 Pokedex=After many long years, its cellular structure underwent a sudden mutation to grow wings. When angered, it loses all thought and rampages out of control.
 WildItemUncommon=DRAGONFANG
-BattlerPlayerY=10
-BattlerEnemyY=9
+BattlerPlayerY=42
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -11232,7 +11232,7 @@ Pokedex=When Beldum gather in a swarm, they move in perfect unison as if they we
 WildItemUncommon=METALCOAT
 BattlerPlayerY=31
 BattlerEnemyY=26
-BattlerAltitude=12
+BattlerAltitude=5
 Evolutions=METANG,Level,20
 #-------------------------------
 [375]
@@ -11260,9 +11260,9 @@ Habitat=RoughTerrain
 Kind=Iron Claw
 Pokedex=The claws tipping its arms pack the destructive power to tear through thick iron sheets as if they were silk. It flies at over 60 miles per hour.
 WildItemUncommon=METALCOAT
-BattlerPlayerY=28
-BattlerEnemyY=18
-BattlerAltitude=3
+BattlerPlayerY=34
+BattlerEnemyY=38
+BattlerAltitude=9
 Evolutions=METAGROSS,Level,45
 #-------------------------------
 [376]
@@ -11290,8 +11290,8 @@ Habitat=RoughTerrain
 Kind=Iron Leg
 Pokedex=Metagross has four brains that are joined by a complex neural network. As a result of integration, this Pokémon is smarter than a supercomputer.
 WildItemUncommon=METALCOAT
-BattlerPlayerY=22
-BattlerEnemyY=19
+BattlerPlayerY=60
+BattlerEnemyY=62
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -11318,8 +11318,8 @@ Shape=12
 Habitat=Cave
 Kind=Rock Peak
 Pokedex=A Pokémon that is made entirely of rocks and boulders. If parts of its body chip off in battle, Regirock repairs itself by adding new rocks.
-BattlerPlayerY=14
-BattlerEnemyY=11
+BattlerPlayerY=34
+BattlerEnemyY=43
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -11346,8 +11346,8 @@ Shape=12
 Habitat=Cave
 Kind=Iceberg
 Pokedex=Its entire body is made of Antarctic ice. After extensive studies, researchers believe the ice was formed during an ice age.
-BattlerPlayerY=15
-BattlerEnemyY=11
+BattlerPlayerY=39
+BattlerEnemyY=47
 BattlerAltitude=6
 Evolutions=
 #-------------------------------
@@ -11374,8 +11374,8 @@ Shape=12
 Habitat=Cave
 Kind=Iron
 Pokedex=Its body is harder than any other kind of metal. The body metal is composed of a mysterious substance. Not only is it hard, it shrinks and stretches flexibly.
-BattlerPlayerY=14
-BattlerEnemyY=14
+BattlerPlayerY=34
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -11402,9 +11402,9 @@ Shape=9
 Habitat=WatersEdge
 Kind=Eon
 Pokedex=They make a small herd of only several members. They rarely make contact with people or other Pokémon. They disappear if they sense enemies.
-BattlerPlayerY=21
-BattlerEnemyY=11
-BattlerAltitude=11
+BattlerPlayerY=35
+BattlerEnemyY=33
+BattlerAltitude=28
 Evolutions=
 #-------------------------------
 [381]
@@ -11457,9 +11457,9 @@ Shape=3
 Habitat=Sea
 Kind=Sea Basin
 Pokedex=Kyogre has appeared in mythology as the creator of the sea. After long years of feuding with Groudon, it took to sleep at the bottom of the sea.
-BattlerPlayerY=20
-BattlerEnemyY=6
-BattlerAltitude=3
+BattlerPlayerY=37
+BattlerEnemyY=17
+BattlerAltitude=16
 Evolutions=
 #-------------------------------
 [383]
@@ -11484,8 +11484,8 @@ Shape=6
 Habitat=RoughTerrain
 Kind=Continent
 Pokedex=Groudon has appeared in mythology as the creator of the land. It sleeps in magma underground and is said to make volcanoes erupt on awakening.
-BattlerPlayerY=12
-BattlerEnemyY=8
+BattlerPlayerY=34
+BattlerEnemyY=37
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -11512,9 +11512,9 @@ Shape=2
 Habitat=Rare
 Kind=Sky High
 Pokedex=A Pokémon that flies endlessly in the ozone layer. It is said it would descend to the ground if Kyogre and Groudon were to fight.
-BattlerPlayerY=2
-BattlerEnemyY=4
-BattlerAltitude=5
+BattlerPlayerY=30
+BattlerEnemyY=24
+BattlerAltitude=29
 Evolutions=
 #-------------------------------
 [385]
@@ -11543,9 +11543,9 @@ Pokedex=Jirachi is said to make wishes come true. While it sleeps, a tough cryst
 WildItemCommon=STARPIECE
 WildItemUncommon=STARPIECE
 WildItemRare=STARPIECE
-BattlerPlayerY=28
-BattlerEnemyY=24
-BattlerAltitude=14
+BattlerPlayerY=39
+BattlerEnemyY=37
+BattlerAltitude=10
 Evolutions=
 #-------------------------------
 [386]
@@ -11571,8 +11571,8 @@ Habitat=Rare
 Kind=DNA
 FormName=Normal Forme
 Pokedex=A Pokémon that mutated from an extraterrestrial virus exposed to a laser beam. Its body is configured for superior agility and speed.
-BattlerPlayerY=10
-BattlerEnemyY=7
+BattlerPlayerY=26
+BattlerEnemyY=34
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -11599,8 +11599,8 @@ Color=Green
 Shape=8
 Kind=Tiny Leaf
 Pokedex=Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.
-BattlerPlayerY=27
-BattlerEnemyY=23
+BattlerPlayerY=56
+BattlerEnemyY=66
 BattlerAltitude=0
 Evolutions=GROTLE,Level,18
 #-------------------------------
@@ -11626,8 +11626,8 @@ Color=Green
 Shape=8
 Kind=Grove
 Pokedex=It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.
-BattlerPlayerY=19
-BattlerEnemyY=15
+BattlerPlayerY=50
+BattlerEnemyY=67
 BattlerAltitude=0
 Evolutions=TORTERRA,Level,32
 #-------------------------------
@@ -11654,8 +11654,8 @@ Color=Green
 Shape=8
 Kind=Continent
 Pokedex=Small Pokémon occasionally gather on its unmoving back to begin building their nests.
-BattlerPlayerY=9
-BattlerEnemyY=5
+BattlerPlayerY=28
+BattlerEnemyY=35
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -11682,8 +11682,8 @@ Color=Brown
 Shape=6
 Kind=Chimp
 Pokedex=It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.
-BattlerPlayerY=25
-BattlerEnemyY=22
+BattlerPlayerY=58
+BattlerEnemyY=60
 BattlerAltitude=0
 Evolutions=MONFERNO,Level,14
 #-------------------------------
@@ -11710,8 +11710,8 @@ Color=Brown
 Shape=6
 Kind=Playful
 Pokedex=To intimidate attackers, it stretches the fire on its tail to make itself appear bigger.
-BattlerPlayerY=21
-BattlerEnemyY=17
+BattlerPlayerY=48
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=INFERNAPE,Level,36
 #-------------------------------
@@ -11738,8 +11738,8 @@ Color=Brown
 Shape=6
 Kind=Flame
 Pokedex=It uses a special kind of martial arts involving all its limbs. Its fire never goes out.
-BattlerPlayerY=14
-BattlerEnemyY=16
+BattlerPlayerY=48
+BattlerEnemyY=52
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -11766,8 +11766,8 @@ Color=Blue
 Shape=12
 Kind=Penguin
 Pokedex=Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.
-BattlerPlayerY=31
-BattlerEnemyY=27
+BattlerPlayerY=66
+BattlerEnemyY=77
 BattlerAltitude=0
 Evolutions=PRINPLUP,Level,16
 #-------------------------------
@@ -11793,8 +11793,8 @@ Color=Blue
 Shape=6
 Kind=Penguin
 Pokedex=It lives alone, away from others. Apparently, every one of them believes it is the most important.
-BattlerPlayerY=21
-BattlerEnemyY=15
+BattlerPlayerY=44
+BattlerEnemyY=54
 BattlerAltitude=0
 Evolutions=EMPOLEON,Level,36
 #-------------------------------
@@ -11821,8 +11821,8 @@ Color=Blue
 Shape=6
 Kind=Emperor
 Pokedex=The three horns that extend from its beak attest to its power. The leader has the biggest horns.
-BattlerPlayerY=12
-BattlerEnemyY=6
+BattlerPlayerY=26
+BattlerEnemyY=38
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -11850,8 +11850,8 @@ Color=Brown
 Shape=9
 Kind=Starling
 Pokedex=They flock in great numbers. Though small, they flap their wings with great power.
-BattlerPlayerY=28
-BattlerEnemyY=24
+BattlerPlayerY=58
+BattlerEnemyY=71
 BattlerAltitude=0
 Evolutions=STARAVIA,Level,14
 #-------------------------------
@@ -11878,8 +11878,8 @@ Color=Brown
 Shape=9
 Kind=Starling
 Pokedex=It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.
-BattlerPlayerY=22
-BattlerEnemyY=18
+BattlerPlayerY=50
+BattlerEnemyY=62
 BattlerAltitude=0
 Evolutions=STARAPTOR,Level,34
 #-------------------------------
@@ -11906,8 +11906,8 @@ Color=Brown
 Shape=9
 Kind=Predator
 Pokedex=It has a savage nature. It will courageously challenge foes that are much larger.
-BattlerPlayerY=18
-BattlerEnemyY=12
+BattlerPlayerY=40
+BattlerEnemyY=58
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -11934,8 +11934,8 @@ Color=Brown
 Shape=8
 Kind=Plump Mouse
 Pokedex=With nerves of steel, nothing can perturb it. It is more agile and active than it appears.
-BattlerPlayerY=29
-BattlerEnemyY=24
+BattlerPlayerY=66
+BattlerEnemyY=69
 BattlerAltitude=0
 Evolutions=BIBAREL,Level,15
 #-------------------------------
@@ -11962,8 +11962,8 @@ Color=Brown
 Shape=6
 Kind=Beaver
 Pokedex=It makes its nest by damming streams with bark and mud. It is known as an industrious worker.
-BattlerPlayerY=19
-BattlerEnemyY=16
+BattlerPlayerY=42
+BattlerEnemyY=52
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -11990,8 +11990,8 @@ Shape=12
 Kind=Cricket
 Pokedex=It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.
 WildItemUncommon=METRONOME
-BattlerPlayerY=24
-BattlerEnemyY=21
+BattlerPlayerY=50
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=KRICKETUNE,Level,10
 #-------------------------------
@@ -12018,8 +12018,8 @@ Shape=13
 Kind=Cricket
 Pokedex=It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.
 WildItemUncommon=METRONOME
-BattlerPlayerY=19
-BattlerEnemyY=14
+BattlerPlayerY=42
+BattlerEnemyY=50
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -12046,8 +12046,8 @@ Color=Blue
 Shape=8
 Kind=Flash
 Pokedex=All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.
-BattlerPlayerY=29
-BattlerEnemyY=26
+BattlerPlayerY=64
+BattlerEnemyY=70
 BattlerAltitude=0
 Evolutions=LUXIO,Level,15
 #-------------------------------
@@ -12073,8 +12073,8 @@ Color=Blue
 Shape=8
 Kind=Spark
 Pokedex=Its claws loose electricity with enough amperage to cause fainting. They live in small groups.
-BattlerPlayerY=22
-BattlerEnemyY=20
+BattlerPlayerY=54
+BattlerEnemyY=61
 BattlerAltitude=0
 Evolutions=LUXRAY,Level,30
 #-------------------------------
@@ -12100,8 +12100,8 @@ Color=Blue
 Shape=8
 Kind=Gleam Eyes
 Pokedex=It has eyes that can see through anything. It spots and captures prey hiding behind objects.
-BattlerPlayerY=15
-BattlerEnemyY=13
+BattlerPlayerY=40
+BattlerEnemyY=45
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -12130,8 +12130,8 @@ Shape=12
 Kind=Bud
 Pokedex=Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.
 WildItemUncommon=POISONBARB
-BattlerPlayerY=28
-BattlerEnemyY=22
+BattlerPlayerY=58
+BattlerEnemyY=61
 BattlerAltitude=0
 Evolutions=ROSELIA,HappinessDay,
 Incense=ROSEINCENSE
@@ -12160,8 +12160,8 @@ Shape=12
 Kind=Bouquet
 Pokedex=It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms.
 WildItemUncommon=POISONBARB
-BattlerPlayerY=19
-BattlerEnemyY=15
+BattlerPlayerY=40
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -12188,8 +12188,8 @@ Color=Blue
 Shape=6
 Kind=Head Butt
 Pokedex=It lived in jungles around 100 million years ago. Its skull is as hard as iron.
-BattlerPlayerY=19
-BattlerEnemyY=19
+BattlerPlayerY=46
+BattlerEnemyY=54
 BattlerAltitude=0
 Evolutions=RAMPARDOS,Level,30
 #-------------------------------
@@ -12215,8 +12215,8 @@ Color=Blue
 Shape=6
 Kind=Head Butt
 Pokedex=Its powerful head butt has enough power to shatter even the most durable things upon impact.
-BattlerPlayerY=8
-BattlerEnemyY=4
+BattlerPlayerY=26
+BattlerEnemyY=36
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -12244,8 +12244,8 @@ Color=Gray
 Shape=8
 Kind=Shield
 Pokedex=A Pokémon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.
-BattlerPlayerY=28
-BattlerEnemyY=25
+BattlerPlayerY=60
+BattlerEnemyY=74
 BattlerAltitude=0
 Evolutions=BASTIODON,Level,30
 #-------------------------------
@@ -12272,8 +12272,8 @@ Color=Gray
 Shape=8
 Kind=Shield
 Pokedex=Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.
-BattlerPlayerY=17
-BattlerEnemyY=16
+BattlerPlayerY=42
+BattlerEnemyY=50
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -12300,7 +12300,7 @@ Shape=5
 Kind=Bagworm
 Pokedex=To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.
 BattlerPlayerY=26
-BattlerEnemyY=23
+BattlerEnemyY=27
 BattlerAltitude=15
 Evolutions=WORMADAM,LevelFemale,20,MOTHIM,LevelMale,20
 #-------------------------------
@@ -12358,9 +12358,9 @@ Shape=13
 Kind=Moth
 Pokedex=It loves the honey of flowers and steals honey collected by Combee.
 WildItemUncommon=SILVERPOWDER
-BattlerPlayerY=23
-BattlerEnemyY=22
-BattlerAltitude=14
+BattlerPlayerY=32
+BattlerEnemyY=28
+BattlerAltitude=26
 Evolutions=
 #-------------------------------
 [415]
@@ -12387,9 +12387,9 @@ Shape=11
 Kind=Tiny Bee
 Pokedex=A Pokémon formed by three others. It busily carries sweet floral honey to Vespiquen.
 WildItemUncommon=HONEY
-BattlerPlayerY=31
-BattlerEnemyY=27
-BattlerAltitude=13
+BattlerPlayerY=35
+BattlerEnemyY=35
+BattlerAltitude=28
 Evolutions=VESPIQUEN,LevelFemale,21
 #-------------------------------
 [416]
@@ -12416,9 +12416,9 @@ Shape=13
 Kind=Beehive
 Pokedex=Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.
 WildItemUncommon=POISONBARB
-BattlerPlayerY=18
-BattlerEnemyY=15
-BattlerAltitude=14
+BattlerPlayerY=22
+BattlerEnemyY=26
+BattlerAltitude=25
 Evolutions=
 #-------------------------------
 [417]
@@ -12444,8 +12444,8 @@ Color=White
 Shape=8
 Kind=EleSquirrel
 Pokedex=It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.
-BattlerPlayerY=28
-BattlerEnemyY=19
+BattlerPlayerY=60
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -12472,8 +12472,8 @@ Color=Brown
 Shape=8
 Kind=Sea Weasel
 Pokedex=It has a flotation sac that is like an inflatable collar. It floats on water with its head out.
-BattlerPlayerY=24
-BattlerEnemyY=19
+BattlerPlayerY=50
+BattlerEnemyY=57
 BattlerAltitude=0
 Evolutions=FLOATZEL,Level,26
 #-------------------------------
@@ -12499,8 +12499,8 @@ Color=Brown
 Shape=8
 Kind=Sea Weasel
 Pokedex=It floats using its well-developed flotation sac. It assists in the rescues of drowning people.
-BattlerPlayerY=14
-BattlerEnemyY=7
+BattlerPlayerY=36
+BattlerEnemyY=41
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -12527,8 +12527,8 @@ Shape=11
 Kind=Cherry
 Pokedex=The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.
 WildItemUncommon=MIRACLESEED
-BattlerPlayerY=32
-BattlerEnemyY=29
+BattlerPlayerY=66
+BattlerEnemyY=73
 BattlerAltitude=0
 Evolutions=CHERRIM,Level,25
 #-------------------------------
@@ -12555,8 +12555,8 @@ Kind=Blossom
 FormName=Overcast Form
 Pokedex=It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.
 WildItemUncommon=MIRACLESEED
-BattlerPlayerY=24
-BattlerEnemyY=21
+BattlerPlayerY=48
+BattlerEnemyY=66
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -12584,8 +12584,8 @@ Shape=2
 Kind=Sea Slug
 FormName=West Sea
 Pokedex=Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.
-BattlerPlayerY=29
-BattlerEnemyY=25
+BattlerPlayerY=62
+BattlerEnemyY=71
 BattlerAltitude=0
 Evolutions=GASTRODON,Level,30
 #-------------------------------
@@ -12613,8 +12613,8 @@ Shape=2
 Kind=Sea Slug
 FormName=West Sea
 Pokedex=It has a pliable body without any bones. If any part of its body is torn off, it grows right back.
-BattlerPlayerY=20
-BattlerEnemyY=17
+BattlerPlayerY=50
+BattlerEnemyY=60
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -12641,8 +12641,8 @@ Shape=6
 RegionalNumbers=0,124
 Kind=Long Tail
 Pokedex=To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.
-BattlerPlayerY=13
-BattlerEnemyY=11
+BattlerPlayerY=28
+BattlerEnemyY=40
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -12670,9 +12670,9 @@ Color=Purple
 Shape=4
 Kind=Balloon
 Pokedex=A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.
-BattlerPlayerY=20
+BattlerPlayerY=36
 BattlerEnemyY=17
-BattlerAltitude=9
+BattlerAltitude=16
 Evolutions=DRIFBLIM,Level,28
 #-------------------------------
 [426]
@@ -12698,9 +12698,9 @@ Color=Purple
 Shape=4
 Kind=Blimp
 Pokedex=It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.
-BattlerPlayerY=18
-BattlerEnemyY=14
-BattlerAltitude=14
+BattlerPlayerY=22
+BattlerEnemyY=18
+BattlerAltitude=27
 Evolutions=
 #-------------------------------
 [427]
@@ -12726,8 +12726,8 @@ Color=Brown
 Shape=6
 Kind=Rabbit
 Pokedex=It slams foes by sharply uncoiling its rolled ears. It stings enough to make a grown-up cry in pain.
-BattlerPlayerY=23
-BattlerEnemyY=11
+BattlerPlayerY=48
+BattlerEnemyY=49
 BattlerAltitude=0
 Evolutions=LOPUNNY,Happiness,
 #-------------------------------
@@ -12753,8 +12753,8 @@ Color=Brown
 Shape=6
 Kind=Rabbit
 Pokedex=An extremely cautious Pokémon. It cloaks its body with its fluffy ear fur when it senses danger.
-BattlerPlayerY=17
-BattlerEnemyY=14
+BattlerPlayerY=36
+BattlerEnemyY=41
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -12779,9 +12779,9 @@ Color=Purple
 Shape=1
 Kind=Magical
 Pokedex=Its cries sound like incantations. Those hearing it are tormented by headaches and hallucinations.
-BattlerPlayerY=15
+BattlerPlayerY=21
 BattlerEnemyY=12
-BattlerAltitude=8
+BattlerAltitude=16
 Evolutions=
 #-------------------------------
 [430]
@@ -12807,8 +12807,8 @@ Color=Black
 Shape=9
 Kind=Big Boss
 Pokedex=Becoming active at night, it is known to swarm with numerous Murkrow in tow.
-BattlerPlayerY=19
-BattlerEnemyY=16
+BattlerPlayerY=48
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -12835,8 +12835,8 @@ Color=Gray
 Shape=8
 Kind=Catty
 Pokedex=It claws if displeased and purrs when affectionate. Its fickleness is very popular among some.
-BattlerPlayerY=22
-BattlerEnemyY=15
+BattlerPlayerY=44
+BattlerEnemyY=50
 BattlerAltitude=0
 Evolutions=PURUGLY,Level,38
 #-------------------------------
@@ -12862,8 +12862,8 @@ Color=Gray
 Shape=8
 Kind=Tiger Cat
 Pokedex=It is a brazen brute that barges its way into another Pokémon's nest and claims it as its own.
-BattlerPlayerY=19
-BattlerEnemyY=15
+BattlerPlayerY=48
+BattlerEnemyY=51
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -12890,9 +12890,9 @@ Shape=12
 Kind=Bell
 Pokedex=It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.
 WildItemUncommon=CLEANSETAG
-BattlerPlayerY=33
-BattlerEnemyY=22
-BattlerAltitude=12
+BattlerPlayerY=43
+BattlerEnemyY=28
+BattlerAltitude=11
 Evolutions=CHIMECHO,HappinessNight,
 Incense=PUREINCENSE
 #-------------------------------
@@ -12921,8 +12921,8 @@ Shape=8
 Kind=Skunk
 Pokedex=It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.
 WildItemUncommon=PECHABERRY
-BattlerPlayerY=27
-BattlerEnemyY=23
+BattlerPlayerY=58
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=SKUNTANK,Level,34
 #-------------------------------
@@ -12950,8 +12950,8 @@ Shape=8
 Kind=Skunk
 Pokedex=It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.
 WildItemUncommon=PECHABERRY
-BattlerPlayerY=16
-BattlerEnemyY=17
+BattlerPlayerY=38
+BattlerEnemyY=58
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -13036,8 +13036,8 @@ Color=Brown
 Shape=7
 Kind=Bonsai
 Pokedex=It looks as if it is always crying. It is actually adjusting its body's fluid levels by eliminating excess.
-BattlerPlayerY=23
-BattlerEnemyY=21
+BattlerPlayerY=52
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=SUDOWOODO,HasMove,MIMIC
 Incense=ROCKINCENSE
@@ -13066,8 +13066,8 @@ Color=Pink
 Shape=12
 Kind=Mime
 Pokedex=It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.
-BattlerPlayerY=18
-BattlerEnemyY=17
+BattlerPlayerY=36
+BattlerEnemyY=42
 BattlerAltitude=0
 Evolutions=MRMIME,HasMove,MIMIC
 Incense=ODDINCENSE
@@ -13096,8 +13096,8 @@ Shape=12
 Kind=Playhouse
 Pokedex=It loves round white things. It carries an egg-shaped rock in imitation of Chansey.
 WildItemCommon=OVALSTONE
-BattlerPlayerY=27
-BattlerEnemyY=24
+BattlerPlayerY=58
+BattlerEnemyY=67
 BattlerAltitude=0
 Evolutions=CHANSEY,DayHoldItem,OVALSTONE
 Incense=LUCKINCENSE
@@ -13127,8 +13127,8 @@ Shape=9
 Kind=Music Note
 Pokedex=It can learn and speak human words. If they gather, they all learn the same saying.
 WildItemUncommon=METRONOME
-BattlerPlayerY=27
-BattlerEnemyY=24
+BattlerPlayerY=58
+BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -13156,9 +13156,9 @@ Color=Purple
 Shape=5
 Kind=Forbidden
 Pokedex=A Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.
-BattlerPlayerY=22
-BattlerEnemyY=18
-BattlerAltitude=14
+BattlerPlayerY=50
+BattlerEnemyY=54
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [443]
@@ -13185,8 +13185,8 @@ Color=Blue
 Shape=6
 Kind=Land Shark
 Pokedex=It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.
-BattlerPlayerY=24
-BattlerEnemyY=21
+BattlerPlayerY=52
+BattlerEnemyY=58
 BattlerAltitude=0
 Evolutions=GABITE,Level,24
 #-------------------------------
@@ -13213,8 +13213,8 @@ Color=Blue
 Shape=6
 Kind=Cave
 Pokedex=There is a long-held belief that medicine made from its scales will heal even incurable illnesses.
-BattlerPlayerY=18
-BattlerEnemyY=12
+BattlerPlayerY=40
+BattlerEnemyY=53
 BattlerAltitude=0
 Evolutions=GARCHOMP,Level,48
 #-------------------------------
@@ -13241,8 +13241,8 @@ Color=Blue
 Shape=6
 Kind=Mach
 Pokedex=When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.
-BattlerPlayerY=11
-BattlerEnemyY=6
+BattlerPlayerY=34
+BattlerEnemyY=37
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -13272,8 +13272,8 @@ Pokedex=It wolfs down its weight in food once a day, swallowing food whole with 
 WildItemCommon=LEFTOVERS
 WildItemUncommon=LEFTOVERS
 WildItemRare=LEFTOVERS
-BattlerPlayerY=25
-BattlerEnemyY=21
+BattlerPlayerY=54
+BattlerEnemyY=61
 BattlerAltitude=0
 Evolutions=SNORLAX,Happiness,
 Incense=FULLINCENSE
@@ -13301,8 +13301,8 @@ Color=Blue
 Shape=6
 Kind=Emanation
 Pokedex=The aura that emanates from its body intensifies to alert others if it is afraid or sad.
-BattlerPlayerY=27
-BattlerEnemyY=22
+BattlerPlayerY=56
+BattlerEnemyY=65
 BattlerAltitude=0
 Evolutions=LUCARIO,HappinessDay,
 #-------------------------------
@@ -13329,8 +13329,8 @@ Color=Blue
 Shape=6
 Kind=Aura
 Pokedex=It has the ability to sense the auras of all things. It understands human speech.
-BattlerPlayerY=15
-BattlerEnemyY=12
+BattlerPlayerY=34
+BattlerEnemyY=45
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -13357,8 +13357,8 @@ Color=Brown
 Shape=8
 Kind=Hippo
 Pokedex=It lives in arid places. Instead of perspiration, it expels grainy sand from its body.
-BattlerPlayerY=26
-BattlerEnemyY=24
+BattlerPlayerY=56
+BattlerEnemyY=68
 BattlerAltitude=0
 Evolutions=HIPPOWDON,Level,34
 #-------------------------------
@@ -13384,8 +13384,8 @@ Color=Brown
 Shape=8
 Kind=Heavyweight
 Pokedex=It blasts internally stored sand from ports on its body to create a towering twister for attack.
-BattlerPlayerY=14
-BattlerEnemyY=13
+BattlerPlayerY=49
+BattlerEnemyY=56
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -13414,8 +13414,8 @@ Shape=14
 Kind=Scorpion
 Pokedex=It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.
 WildItemUncommon=POISONBARB
-BattlerPlayerY=26
-BattlerEnemyY=21
+BattlerPlayerY=58
+BattlerEnemyY=59
 BattlerAltitude=0
 Evolutions=DRAPION,Level,40
 #-------------------------------
@@ -13444,7 +13444,7 @@ Kind=Ogre Scorpion
 Pokedex=It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.
 WildItemUncommon=POISONBARB
 BattlerPlayerY=15
-BattlerEnemyY=13
+BattlerEnemyY=48
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
