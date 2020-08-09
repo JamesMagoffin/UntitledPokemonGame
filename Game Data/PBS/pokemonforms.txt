@@ -264,7 +264,7 @@ BattlerAltitude=0
 [GASTRODON-1]
 FormName=East Sea
 BattlerPlayerY=21
-BattlerEnemyY=17
+BattlerEnemyY=57
 BattlerAltitude=0
 #-------------------------------
 [ROTOM-1]
@@ -627,8 +627,8 @@ Type2=DRAGON
 BaseStats=78,130,111,100,130,85
 Abilities=TOUGHCLAWS
 Weight=110.5
-BattlerPlayerY=20
-BattlerEnemyY=31
+BattlerPlayerY=18
+BattlerEnemyY=28
 BattlerAltitude=0
 #-------------------------------
 [CHARIZARD-2]
@@ -637,8 +637,8 @@ MegaStone=CHARIZARDITEY
 BaseStats=78,104,78,100,159,115
 Abilities=DROUGHT
 Weight=100.5
-BattlerPlayerY=6
-BattlerEnemyY=6
+BattlerPlayerY=18
+BattlerEnemyY=28
 BattlerAltitude=0
 #-------------------------------
 [BLASTOISE-1]
@@ -658,7 +658,7 @@ BaseStats=55,50,65,150,175,105
 Abilities=TRACE
 Height=1.2
 BattlerPlayerY=16
-BattlerEnemyY=3
+BattlerEnemyY=12
 BattlerAltitude=15
 #-------------------------------
 [GENGAR-1]
@@ -801,8 +801,8 @@ FormName=Mega Blaziken
 MegaStone=BLAZIKENITE
 BaseStats=80,160,80,100,130,80
 Abilities=SPEEDBOOST
-BattlerPlayerY=2
-BattlerEnemyY=5
+BattlerPlayerY=6
+BattlerEnemyY=19
 BattlerAltitude=0
 #-------------------------------
 [GARDEVOIR-1]
@@ -822,8 +822,8 @@ BaseStats=50,105,125,50,55,95
 Abilities=HUGEPOWER
 Height=1.0
 Weight=23.5
-BattlerPlayerY=5
-BattlerEnemyY=9
+BattlerPlayerY=36
+BattlerEnemyY=35
 BattlerAltitude=0
 #-------------------------------
 [AGGRON-1]
@@ -929,7 +929,7 @@ Abilities=NOGUARD
 Height=2.2
 Weight=50.5
 BattlerPlayerY=14
-BattlerEnemyY=13
+BattlerEnemyY=25
 BattlerAltitude=29
 #-------------------------------
 [SLOWBRO-1]
@@ -939,8 +939,8 @@ BaseStats=95,75,180,30,130,80
 Abilities=SHELLARMOR
 Height=2.0
 Weight=120.0
-BattlerPlayerY=7
-BattlerEnemyY=13
+BattlerPlayerY=35
+BattlerEnemyY=20
 BattlerAltitude=0
 #-------------------------------
 [STEELIX-1]
@@ -1016,8 +1016,8 @@ Type2=FAIRY
 BaseStats=75,110,110,80,110,105
 Abilities=PIXILATE
 Height=1.5
-BattlerPlayerY=25
-BattlerEnemyY=5
+BattlerPlayerY=33
+BattlerEnemyY=18
 BattlerAltitude=15
 #-------------------------------
 [GLALIE-1]
@@ -1049,8 +1049,8 @@ BaseStats=80,145,150,110,105,110
 Abilities=TOUGHCLAWS
 Height=2.5
 Weight=942.9
-BattlerPlayerY=28
-BattlerEnemyY=13
+BattlerPlayerY=43
+BattlerEnemyY=25
 BattlerAltitude=9
 #-------------------------------
 [LATIAS-1]
@@ -1061,7 +1061,7 @@ Height=1.8
 Weight=52.0
 BattlerPlayerY=35
 BattlerEnemyY=33
-BattlerAltitude=28
+BattlerAltitude=10
 #-------------------------------
 [LATIOS-1]
 FormName=Mega Latios
@@ -1071,7 +1071,7 @@ Height=2.3
 Weight=70.0
 BattlerPlayerY=12
 BattlerEnemyY=9
-BattlerAltitude=10
+BattlerAltitude=5
 #-------------------------------
 [RAYQUAZA-1]
 FormName=Mega Rayquaza
@@ -1629,8 +1629,8 @@ Moves=1,TACKLE,1,TAILWHIP,4,QUICKATTACK,7,FOCUSENERGY,10,BITE,13,PURSUIT,16,HYPE
 EggMoves=COUNTER,FINALGAMBIT,FURYSWIPES,MEFIRST,REVENGE,REVERSAL,SNATCH,STOCKPILE,SWALLOW,SWITCHEROO,UPROAR
 Pokedex=With its incisors, it gnaws through doors and infiltrates people's homes. Then it steals whatever food it finds.
 WildItemUncommon=PECHABERRY
-BattlerPlayerY=26
-BattlerEnemyY=26
+BattlerPlayerY=56
+BattlerEnemyY=56
 Evolutions=RATICATE,LevelNight,20
 BattlerAltitude=0
 #-------------------------------
@@ -1739,8 +1739,8 @@ StepsToHatch=5120
 Color=White
 WildItemUncommon=SNOWBALL
 Pokedex=It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.
-BattlerPlayerY=5
-BattlerEnemyY=10
+BattlerPlayerY=27
+BattlerEnemyY=30
 BattlerAltitude=0
 #-------------------------------
 [DIGLETT-1]
@@ -1825,7 +1825,7 @@ Color=Gray
 Habitat=Cave
 Pokedex=Its body is a magnetic stone. Iron sand attaches to the portions of its body that are particularly magnetic.
 WildItemUncommon=CELLBATTERY
-BattlerPlayerY=40
+BattlerPlayerY=64
 BattlerEnemyY=30
 BattlerAltitude=12
 #-------------------------------
@@ -1859,8 +1859,8 @@ Height=1.7
 Weight=316.0
 Habitat=Cave
 Pokedex=Because it can't fire boulders at a rapid pace, it's been known to seize nearby Geodude and fire them from its back.
-BattlerPlayerY=16
-BattlerEnemyY=12
+BattlerPlayerY=39
+BattlerEnemyY=36
 BattlerAltitude=0
 #-------------------------------
 [GRIMER-1]
@@ -1893,8 +1893,8 @@ Height=1.0
 Weight=52.0
 Color=Green
 Pokedex=The garbage it eats causes continuous chemical changes in its body, which produce its exceedingly vivid coloration.
-BattlerPlayerY=18
-BattlerEnemyY=13
+BattlerPlayerY=48
+BattlerEnemyY=39
 BattlerAltitude=0
 #-------------------------------
 [EXEGGUTOR-1]
@@ -1958,8 +1958,8 @@ EggMoves=COUNTER,COVET,CURSE,DOUBLEEDGE,FEINT,FLAIL,NIGHTSLASH,QUICKATTACK,QUICK
 Weight=42.0
 Pokedex=The stalks of leeks are thicker and longer in the Galar region. Farfetch'd that adapted to these stalks took on a unique form.
 WildItemCommon=STICK
-BattlerPlayerY=24
-BattlerEnemyY=28
+BattlerPlayerY=58
+BattlerEnemyY=59
 Evolutions=SIRFETCHD,Level,32
 BattlerAltitude=0
 #-------------------------------
@@ -2006,15 +2006,15 @@ Pokedex=This Cramorant has accidentally gotten a Pikachu lodge in its gullet. Cr
 FormName=Noice Face
 BaseStats=75,80,70,130,65,90
 Pokedex=The ice covering this Pokémon face has shattered, revealing a slightly worries expression that many people are enamored with.
-BattlerEnemyY=11
-BattlerPlayerY=7
+BattlerEnemyY=25
+BattlerPlayerY=21
 BattlerAltitude=0
 #-------------------------------
 [MORPEKO-1]
 FormName=Hangry Form
 Pokedex=Intense hunger drives it to extremes of violence, and the electricity in its cheek sacs has converted into a Dark-type energy.
-BattlerEnemyY=27
-BattlerPlayerY=27
+BattlerEnemyY=55
+BattlerPlayerY=57
 BattlerAltitude=0
 #-------------------------------
 [ZACIAN-1]
@@ -2024,8 +2024,8 @@ Type2=STEEL
 BaseStats=92,170,115,148,80,115
 Weight=335.0
 Pokedex=Now armed with a weapon it used in ancient times, this Pokémon needs only a single strike to fell even Gigantamax Pokémon.
-BattlerEnemyY=5
-BattlerPlayerY=33
+BattlerEnemyY=23
+BattlerPlayerY=26
 BattlerAltitude=0
 #-------------------------------
 [ZAMAZENTA-1]
@@ -2110,8 +2110,8 @@ Weight=16.0
 Color=Green
 Kind=Poison Gas Pokémon
 Pokedex=Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason.
-BattlerEnemyY=4
-BattlerPlayerY=19
+BattlerEnemyY=23
+BattlerPlayerY=22
 BattlerAltitude=23
 #-----------------------------------------------------------------------------
 [MRMIME-1]
@@ -2231,7 +2231,7 @@ BattlerEnemyY=65
 BattlerPlayerY=68
 BattlerAltitude=0
 #-------------------------------
-[SLOWPOKE-2]
+[SLOWPOKE-1]
 FormName=Galarian Slowpoke
 Type1=PSYCHIC
 Abilities=GLUTTONY,OWNTEMPO
@@ -2240,11 +2240,11 @@ Moves=1,TACKLE,1,CURSE,3,GROWL,6,ACID,9,YAWN,12,CONFUSION,15,DISABLE,18,WATERPUL
 WildItemUncommon=
 Evolutions=SLOWBRO,Level,45
 Pokedex=Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor.
-BattlerEnemyY=
-BattlerPlayerY=
-BattlerAltitude=
+BattlerEnemyY=80
+BattlerPlayerY=78
+BattlerAltitude=0
 #-------------------------------
-[SLOWBRO-2]
+[SLOWBRO-1]
 FormName=Galarian Slowbro
 Type1=POISON
 Type2=PSYCHIC
@@ -2256,8 +2256,8 @@ HiddenAbility=REGENERATOR
 Moves=1,SHELLSIDEARM,1,WITHDRAW,1,TACKLE,1,CURSE,1,GROWL,1,ACID,9,YAWN,12,CONFUSION,15,DISABLE,18,WATERPULSE,21,HEADBUTT,24,ZENHEADBUTT,27,AMNESIA,30,SURF,33,SLACKOFF,36,PSYCHIC,39,PSYCHUP,42,RAINDANCE,45,HEALPULSE
 WildItemUncommon=
 Pokedex=If this Pokémon squeezes the tongue of the Shellder biting it, the Shellder will launch a toxic liquid from the tip of its shell.
-BattlerEnemyY=15
-BattlerPlayerY=17
+BattlerEnemyY=20
+BattlerPlayerY=35
 BattlerAltitude=0
 #-------------------------------
 [URSHIFU-1]
@@ -2341,8 +2341,8 @@ Abilities=DESOLATELAND
 Height=5.0
 Weight=999.7
 BaseStats=100,180,160,90,150,90
-BattlerEnemyY=8
-BattlerPlayerY=12
+BattlerEnemyY=37
+BattlerPlayerY=34
 BattlerAltitude=0
 #-------------------------------
 [ESPURR-1]
@@ -2367,7 +2367,7 @@ BaseStats=70,55,65,85,95,105
 EffortPoints=0,0,0,0,0,2
 Pokedex=These intelligent Pokémon touch horns with each other to share information between them.
 BattlerEnemyY=52
-BattlerPlayerY=48
+BattlerPlayerY=50
 BattlerAltitude=0
 #-------------------------------
 [DRIFLOON-1]

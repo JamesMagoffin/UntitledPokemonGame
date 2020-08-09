@@ -174,8 +174,8 @@ Habitat=Mountain
 RegionalNumbers=6,236
 Kind=Flame
 Pokedex=A Charizard flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.
-BattlerPlayerY=26
-BattlerEnemyY=32
+BattlerPlayerY=18
+BattlerEnemyY=28
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -531,8 +531,8 @@ Habitat=Forest
 RegionalNumbers=18,12
 Kind=Bird
 Pokedex=This Pokémon has gorgeous, glossy feathers. Many trainers are so captivated by the beautiful feathers on its head that they choose Pidgeot as their Pokémon.
-BattlerPlayerY=40
-BattlerEnemyY=50
+BattlerPlayerY=41
+BattlerEnemyY=46
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -561,8 +561,8 @@ Habitat=Grassland
 RegionalNumbers=19,17
 Kind=Mouse
 Pokedex=A Rattata is cautious in the extreme. Even while it is asleep, it constantly moves its ears and listens for danger. It will make its nest anywhere.
-BattlerPlayerY=71
-BattlerEnemyY=77
+BattlerPlayerY=72
+BattlerEnemyY=73
 BattlerAltitude=0
 Evolutions=RATICATE,Level,20
 #-------------------------------
@@ -2238,7 +2238,7 @@ Kind=Rock
 Pokedex=It climbs mountain paths using only the power of its arms. Because they look just like boulders lining paths, hikers may step on them without noticing.
 WildItemUncommon=EVERSTONE
 BattlerPlayerY=40
-BattlerEnemyY=30
+BattlerEnemyY=52
 BattlerAltitude=12
 Evolutions=GRAVELER,Level,25
 #-------------------------------
@@ -7540,8 +7540,8 @@ Habitat=Rare
 RegionalNumbers=0,252
 Kind=Diving
 Pokedex=Lugia is so powerful even a light fluttering of its wings can blow apart houses. As a result, it chooses to live out of sight deep under the sea.
-BattlerPlayerY=23
-BattlerEnemyY=-8
+BattlerPlayerY=30
+BattlerEnemyY=21
 BattlerAltitude=28
 Evolutions=
 #-------------------------------
@@ -7573,8 +7573,8 @@ Pokedex=Its feathers--which glow in seven colors depending on the angle at which
 WildItemCommon=SACREDASH
 WildItemUncommon=SACREDASH
 WildItemRare=SACREDASH
-BattlerPlayerY=21
-BattlerEnemyY=4
+BattlerPlayerY=26
+BattlerEnemyY=21
 BattlerAltitude=26
 Evolutions=
 #-------------------------------
@@ -8515,9 +8515,9 @@ Shape=12
 Habitat=Urban
 Kind=Embrace
 Pokedex=It apparently does not feel the pull of gravity because it supports itself with psychic power. It will give its life to protect its trainer.
-BattlerPlayerY=23
-BattlerEnemyY=18
-BattlerAltitude=6
+BattlerPlayerY=37
+BattlerEnemyY=47
+BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [283]
@@ -9192,7 +9192,7 @@ Habitat=Mountain
 Kind=Iron Armor
 Pokedex=When two Lairon meet in the wild, they fight for territory by bashing into each other with their steel bodies. The sound of their collision carries for miles.
 WildItemUncommon=HARDSTONE
-BattlerPlayerY=52
+BattlerPlayerY=59
 BattlerEnemyY=68
 BattlerAltitude=0
 Evolutions=AGGRON,Level,42
@@ -9222,7 +9222,7 @@ Habitat=Mountain
 Kind=Iron Armor
 Pokedex=Its iron horns grow longer a little at a time. They are used to determine the Aggron's age. The gouges in its armor are worn with pride as mementos from battles.
 WildItemUncommon=HARDSTONE
-BattlerPlayerY=24
+BattlerPlayerY=30
 BattlerEnemyY=41
 BattlerAltitude=0
 Evolutions=
@@ -9252,9 +9252,9 @@ Shape=12
 Habitat=Mountain
 Kind=Meditate
 Pokedex=It continually meditates for hours every day. As a result of rigorous and dedicated yoga training, it has tempered its spiritual power so much it can fly.
-BattlerPlayerY=27
-BattlerEnemyY=28
-BattlerAltitude=8
+BattlerPlayerY=39
+BattlerEnemyY=40
+BattlerAltitude=6
 Evolutions=MEDICHAM,Level,37
 #-------------------------------
 [308]
@@ -9282,7 +9282,7 @@ Habitat=Mountain
 Kind=Meditate
 Pokedex=Through crushingly harsh yoga training, it gained the power to foretell its foe's actions. It battles with elegant, dance- like movement.
 BattlerPlayerY=30
-BattlerEnemyY=38
+BattlerEnemyY=39
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
@@ -9428,8 +9428,8 @@ Habitat=Forest
 Kind=Firefly
 WildItemUncommon=BRIGHTPOWDER
 Pokedex=With their taillights lit, Volbeat fly in a swarm, drawing geometric designs in the night sky. They move their nests if their pond water becomes dirty.
-BattlerPlayerY=30
-BattlerEnemyY=22
+BattlerPlayerY=42
+BattlerEnemyY=35
 BattlerAltitude=20
 Evolutions=
 #-------------------------------
@@ -9458,8 +9458,8 @@ Habitat=Forest
 Kind=Firefly
 WildItemUncommon=BRIGHTPOWDER
 Pokedex=A nocturnal Pokémon that becomes active upon nightfall. It leads a Volbeat swarm to draw patterns in the night sky. Over 200 different patterns have been confirmed.
-BattlerPlayerY=26
-BattlerEnemyY=22
+BattlerPlayerY=36
+BattlerEnemyY=41
 BattlerAltitude=22
 Evolutions=
 #-------------------------------
@@ -11404,7 +11404,7 @@ Kind=Eon
 Pokedex=They make a small herd of only several members. They rarely make contact with people or other Pokémon. They disappear if they sense enemies.
 BattlerPlayerY=35
 BattlerEnemyY=33
-BattlerAltitude=28
+BattlerAltitude=19
 Evolutions=
 #-------------------------------
 [381]
@@ -11459,7 +11459,7 @@ Kind=Sea Basin
 Pokedex=Kyogre has appeared in mythology as the creator of the sea. After long years of feuding with Groudon, it took to sleep at the bottom of the sea.
 BattlerPlayerY=37
 BattlerEnemyY=17
-BattlerAltitude=16
+BattlerAltitude=3
 Evolutions=
 #-------------------------------
 [383]
@@ -12670,8 +12670,8 @@ Color=Purple
 Shape=4
 Kind=Balloon
 Pokedex=A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.
-BattlerPlayerY=36
-BattlerEnemyY=17
+BattlerPlayerY=55
+BattlerEnemyY=41
 BattlerAltitude=16
 Evolutions=DRIFBLIM,Level,28
 #-------------------------------
@@ -12698,9 +12698,9 @@ Color=Purple
 Shape=4
 Kind=Blimp
 Pokedex=It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.
-BattlerPlayerY=22
-BattlerEnemyY=18
-BattlerAltitude=27
+BattlerPlayerY=43
+BattlerEnemyY=48
+BattlerAltitude=18
 Evolutions=
 #-------------------------------
 [427]
@@ -25501,7 +25501,7 @@ Shape=6
 Habitat=Forest
 Kind=Emotion
 Pokedex=It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.
-BattlerPlayerY=48
+BattlerPlayerY=46
 BattlerEnemyY=52
 BattlerAltitude=0
 Evolutions=
