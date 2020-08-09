@@ -1,10 +1,4 @@
 ﻿#-------------------------------
-[PICHU-1]
-FormName=Spiky-Eared
-BattlerPlayerY=0
-BattlerEnemyY=11
-BattlerAltitude=0
-#-------------------------------
 [UNOWN-1]
 FormName=Bear
 BattlerPlayerY=31
@@ -1321,16 +1315,16 @@ BattlerAltitude=10
 [ZYGARDE-1]
 FormName=10% Forme
 BaseStats=54,100,71,115,61,85
-BattlerPlayerY=10
-BattlerEnemyY=19
+BattlerPlayerY=32
+BattlerEnemyY=31
 BattlerAltitude=0
 #-------------------------------
 [ZYGARDE-2]
 FormName=Complete Forme
 BaseStats=216,100,121,85,91,95
 Abilities=POWERCONSTRUCT
-BattlerPlayerY=7
-BattlerEnemyY=7
+BattlerPlayerY=32
+BattlerEnemyY=28
 BattlerAltitude=0
 #-------------------------------
 [HOOPA-1]
@@ -2244,7 +2238,7 @@ BattlerEnemyY=80
 BattlerPlayerY=78
 BattlerAltitude=0
 #-------------------------------
-[SLOWBRO-1]
+[SLOWBRO-2]
 FormName=Galarian Slowbro
 Type1=POISON
 Type2=PSYCHIC
