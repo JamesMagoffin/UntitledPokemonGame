@@ -1974,8 +1974,8 @@ Abilities=PUNKROCK,MINUS
 HiddenAbility=TECHNICIAN
 Moves=0,SPARK,1,SPARK,1,EERIEIMPULSE,1,BELCH,1,TEARFULLOOK,1,NUZZLE,1,GROWL,1,FLAIL,1,ACID,1,THUNDERSHOCK,1,ACIDSPRAY,1,LEER,1,NOBLEROAR,4,CHARGE,8,SHOCKWAVE,12,SCARYFACE,16,TAUNT,20,VENOMDRENCH,24,SCREECH,28,SWAGGER,32,TOXIC,36,DISCHARGE,40,POISONJAB,44,OVERDRIVE,48,BOOMBURST,52,MAGNETICFLUX
 Pokedex=Capable of generating 15,000 volts of electricity, this Pokémon looks down on all that would challenge it.
-BattlerEnemyY=11
-BattlerPlayerY=33
+BattlerEnemyY=24
+BattlerPlayerY=19
 BattlerAltitude=0
 #-------------------------------
 [SINISTEA-1]
@@ -1995,8 +1995,8 @@ BattlerAltitude=0
 [CRAMORANT-1]
 FormName=Gulping Form
 Pokedex=Cramorant's gluttony led it to try to swallow an Arrokuda whole, which in turn led to Cramorant getting an Arrokuda stuck in its throat.
-BattlerEnemyY=16
-BattlerPlayerY=12
+BattlerEnemyY=34
+BattlerPlayerY=26
 BattlerAltitude=0
 #-------------------------------
 [CRAMORANT-2]
@@ -2266,7 +2266,7 @@ Type1=FIGHTING
 Type2=WATER
 Pokedex=All it takes is a glare from this Pokémon to take the lives of those with evil in their hearts — or so they say.
 Moves=0,SURGINGSTRIKES,1,SURGINGSTRIKES,1,AQUAJET,1,ROCKSMASH,1,LEER,1,ENDURE,1,FOCUSENERGY,12,AERIALACE,16,SCARYFACE,20,HEADBUTT,24,BRICKBREAK,28,DETECT,32,BULKUP,36,IRONHEAD,40,DYNAMICPUNCH,44,COUNTER,48,CLOSECOMBAT,52,FOCUSPUNCH
-BattlerEnemyY=13
+BattlerEnemyY=34
 BattlerPlayerY=15
 BattlerAltitude=0
 #-------------------------------
