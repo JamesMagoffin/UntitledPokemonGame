@@ -2261,7 +2261,7 @@ Type2=WATER
 Pokedex=All it takes is a glare from this Pokémon to take the lives of those with evil in their hearts — or so they say.
 Moves=0,SURGINGSTRIKES,1,SURGINGSTRIKES,1,AQUAJET,1,ROCKSMASH,1,LEER,1,ENDURE,1,FOCUSENERGY,12,AERIALACE,16,SCARYFACE,20,HEADBUTT,24,BRICKBREAK,28,DETECT,32,BULKUP,36,IRONHEAD,40,DYNAMICPUNCH,44,COUNTER,48,CLOSECOMBAT,52,FOCUSPUNCH
 BattlerEnemyY=34
-BattlerPlayerY=15
+BattlerPlayerY=40
 BattlerAltitude=0
 #-------------------------------
 [PUMPKABOO-1]
