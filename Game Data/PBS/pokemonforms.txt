@@ -2160,6 +2160,7 @@ Evolution=LINOONE-1,Level,28
 BattlerEnemyY=66
 BattlerPlayerY=68
 BattlerAltitude=0
+Evolutions=LINOONE,Level,20
 #-----------------------------------------------------------------------------
 [LINOONE-1]
 FormName=Galarian Linoone
@@ -2173,6 +2174,7 @@ BattlerEnemyY=59
 Evolutions=OBSTAGOON,LevelNight,35
 BattlerPlayerY=82
 BattlerAltitude=0
+Evolutions=OBSTAGOON,Level,35
 #-------------------------------
 [DARUMAKA-1]
 FormName=Galarian Darumaka
@@ -2403,5 +2405,10 @@ Abilities=POISONTOUCH
 Weight=204.5
 BattlerPlayerY=36
 BattlerEnemyY=27
+BattlerAltitude=0
+#-------------------------------
+[OBSTAGOON-1]
+BattlerEnemyY=27
+BattlerPlayerY=23
 BattlerAltitude=0
 #-------------------------------
