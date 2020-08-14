@@ -1120,55 +1120,115 @@ BattlerEnemyY=35
 BattlerAltitude=10
 #-------------------------------
 [VIVILLON-1]
-FormName=Tile Pattern
+FormName=Archipelago Pattern
 BattlerEnemyY=14
 BattlerPlayerY=15
 BattlerAltitude=11
 #-------------------------------
 [VIVILLON-2]
-FormName=Fade Pattern
+FormName=Continental Pattern
 BattlerEnemyY=14
 BattlerPlayerY=15
 BattlerAltitude=11
 #-------------------------------
 [VIVILLON-3]
-FormName=Warm Pattern
+FormName=Elegant Pattern
 BattlerEnemyY=14
 BattlerPlayerY=15
 BattlerAltitude=11
 #-------------------------------
 [VIVILLON-4]
-FormName=Frost Pattern
+FormName=Fancy Pattern
 BattlerEnemyY=14
 BattlerPlayerY=15
 BattlerAltitude=11
 #-------------------------------
 [VIVILLON-5]
-FormName=Blood Pattern
+FormName=Garden Pattern
 BattlerEnemyY=14
 BattlerPlayerY=15
 BattlerAltitude=11
 #-------------------------------
 [VIVILLON-6]
-FormName=Garufa Pattern
+FormName=High Plains Pattern
 BattlerEnemyY=14
 BattlerPlayerY=15
 BattlerAltitude=11
 #-------------------------------
 [VIVILLON-7]
-FormName=Chess Pattern
+FormName=Icy Snow Pattern
 BattlerEnemyY=14
 BattlerPlayerY=15
 BattlerAltitude=11
 #-------------------------------
 [VIVILLON-8]
-FormName=Striped Pattern
+FormName=Jungle Pattern
 BattlerEnemyY=14
 BattlerPlayerY=15
 BattlerAltitude=11
 #-------------------------------
 [VIVILLON-9]
-FormName=Shag Pattern
+FormName=Marine Pattern
+BattlerEnemyY=14
+BattlerPlayerY=15
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-10]
+FormName=Modern Pattern
+BattlerEnemyY=14
+BattlerPlayerY=15
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-11]
+FormName=Monsoon Pattern
+BattlerEnemyY=14
+BattlerPlayerY=15
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-12]
+FormName=Ocean Pattern
+BattlerEnemyY=14
+BattlerPlayerY=15
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-13]
+FormName=Poké Ball Pattern
+BattlerEnemyY=14
+BattlerPlayerY=15
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-14]
+FormName=Polar Pattern
+BattlerEnemyY=14
+BattlerPlayerY=15
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-15]
+FormName=River Pattern
+BattlerEnemyY=14
+BattlerPlayerY=15
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-16]
+FormName=Sandstorm Pattern
+BattlerEnemyY=14
+BattlerPlayerY=15
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-17]
+FormName=Savanna Pattern
+BattlerEnemyY=14
+BattlerPlayerY=15
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-18]
+FormName=Sun Pattern
+BattlerEnemyY=14
+BattlerPlayerY=15
+BattlerAltitude=11
+#-------------------------------
+[VIVILLON-19]
+FormName=Tundra Pattern
 BattlerEnemyY=14
 BattlerPlayerY=15
 BattlerAltitude=11
