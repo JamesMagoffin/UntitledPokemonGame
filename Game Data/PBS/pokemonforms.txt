@@ -1234,49 +1234,49 @@ BattlerPlayerY=15
 BattlerAltitude=11
 #-------------------------------
 [FLABEBE-1]
-FormName=Blue Flower
+FormName=Yellow Flower
 BattlerEnemyY=24
 BattlerPlayerY=19
 BattlerAltitude=0
 #-------------------------------
 [FLABEBE-2]
-FormName=Black Flower
+FormName=Blue Flower
 BattlerEnemyY=24
 BattlerPlayerY=19
 BattlerAltitude=0
 #-------------------------------
 [FLABEBE-3]
-FormName=Green Flower
+FormName=Orange Flower
 BattlerEnemyY=24
 BattlerPlayerY=19
 BattlerAltitude=0
 #-------------------------------
 [FLABEBE-4]
-FormName=Violet Flower
+FormName=White Flower
 BattlerEnemyY=24
 BattlerPlayerY=19
 BattlerAltitude=0
 #-------------------------------
 [FLOETTE-1]
-FormName=Blue Flower
+FormName=Yellow Flower
 BattlerEnemyY=12
 BattlerPlayerY=24
 BattlerAltitude=7
 #-------------------------------
 [FLOETTE-2]
-FormName=Black Flower
+FormName=Blue Flower
 BattlerEnemyY=12
 BattlerPlayerY=24
 BattlerAltitude=7
 #-------------------------------
 [FLOETTE-3]
-FormName=Green Flower
+FormName=Orange Flower
 BattlerEnemyY=12
 BattlerPlayerY=24
 BattlerAltitude=7
 #-------------------------------
 [FLOETTE-4]
-FormName=Violet Flower
+FormName=White Flower
 BattlerEnemyY=12
 BattlerPlayerY=24
 BattlerAltitude=7
@@ -1288,25 +1288,25 @@ BattlerEnemyY=18
 BattlerAltitude=7
 #-------------------------------
 [FLORGES-1]
-FormName=Blue Flower
+FormName=Yellow Flower
 BattlerEnemyY=19
 BattlerPlayerY=13
 BattlerAltitude=0
 #-------------------------------
 [FLORGES-2]
-FormName=Black Flower
+FormName=Blue Flower
 BattlerEnemyY=19
 BattlerPlayerY=13
 BattlerAltitude=0
 #-------------------------------
 [FLORGES-3]
-FormName=Green Flower
+FormName=Orange Flower
 BattlerEnemyY=19
 BattlerPlayerY=13
 BattlerAltitude=0
 #-------------------------------
 [FLORGES-4]
-FormName=Violet Flower
+FormName=White Flower
 BattlerEnemyY=19
 BattlerPlayerY=13
 BattlerAltitude=0
@@ -2315,6 +2315,10 @@ Pokedex=If this Pokémon squeezes the tongue of the Shellder biting it, the Shel
 BattlerEnemyY=20
 BattlerPlayerY=38
 BattlerAltitude=0
+#-------------------------------
+[KUBFU-1]
+FormName=Rapid Strike Style
+Evolutions=URSHIFU,Level,24
 #-------------------------------
 [URSHIFU-1]
 FormName=Rapid Strike Style

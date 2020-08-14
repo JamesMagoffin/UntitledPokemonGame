@@ -256,5 +256,5 @@
 302,STEAMENGINE,Steam Engine,"Boosts the Pokémon's Speed stat drastically if hit by a Fire- or Water-type move."
 303,STEELYSPIRIT,Steely Spirit,"Powers up ally Pokémon's Steel-type moves."
 304,WANDERINGSPIRIT,Wandering Spirit,"The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact."
-305,UNSEENFIST,Unseen Fist,"The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact."
+305,UNSEENFIST,Unseen Fist,"The Pokémon can deal damage with moves that make physical contact, even if the target is protected."
 306,QUICKDRAW,Quick Draw,"The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact."

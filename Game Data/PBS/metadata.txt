@@ -3,7 +3,7 @@
 PlayerA=POKEMONTRAINER_Charlie,player01,player01_bike,boy_surf,player01_run,boy_surf,boy_fish_offset,xxx
 PlayerB=POKEMONTRAINER_Robin,player02,player02_bike,boy_surf,player02_run,boy_surf,boy_fish_offset,xxx
 PlayerC=POKEMONTRAINER_Dylan,player03,player03_bike,boy_surf,player03_run,boy_surf,boy_fish_offset,xxx
-PlayerD=POKEMONTRAINER_Riley,player04,player04_bike,boy_surf,player04_run,boy_surf,boy_fish_offset,xxx
+PlayerD=POKEMONTRAINER_Riley,player04,player04_bike,player04_surf,player04_run,player04_surf,player04_fish_offset,xxx
 TrainerVictoryME=VictoryTrainer.ogg
 PlayerE=POKEMONTRAINER_Emery,player05,player05_bike,boy_surf,player05_run,boy_surf,boy_fish_offset,xxx
 WildVictoryME=VictoryWild.ogg
