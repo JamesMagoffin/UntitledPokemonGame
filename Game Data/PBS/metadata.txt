@@ -293,7 +293,7 @@ ShowArea=true
 # Forest - Waterfall View
 MapSize=2,11
 SnapEdges=true
-BattleBack=Mountain
+BattleBack=
 Bicycle=true
 MapPosition=0,15,10
 Outdoor=true

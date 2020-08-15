@@ -708,3 +708,4 @@
 760,MEGARING,Mega Ring,Mega Rings,8,0,"This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve in battle.",0,0,6,
 761,LAPRASITE,Laprasite,Laprasites,1,1000,"One of the mysterious Mega Stones. Have Lapras hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
 762,GARBODORITE,Garbodorite,Garbodorites,1,1000,"One of the mysterious Mega Stones. Have Garbodor hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
+763,AQUABIKE,Aqua Bike,Aqua Bikes,8,0,"bike",2,0,6,

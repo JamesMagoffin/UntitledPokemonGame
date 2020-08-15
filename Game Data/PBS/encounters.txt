@@ -46,6 +46,12 @@ GRUBBIN,5
 GRUBBIN,5
 STUFFUL,5
 STUFFUL,5
+Water
+MAGIKARP,5
+POLIWAG,5
+POLIWAG,5
+POLIWAG,5
+SQUIRTLE,5
 #-------------------------------
 041 # Forest - Lakeside
 25,10,10
@@ -62,6 +68,12 @@ GOSSIFLEUR,5
 SCYTHER,5
 GOSSIFLEUR,5
 SCYTHER,5
+Water
+MAGIKARP,5
+POLIWAG,5
+POLIWAG,5
+POLIWAG,5
+TOTODILE,5
 #-------------------------------
 044 # Forest - Cabins
 25,10,10
@@ -78,6 +90,12 @@ PICHU,5
 KRICKETOT,5
 PICHU,5
 KRICKETOT,5
+Water
+MAGIKARP,5
+LUVDISC,5
+LUVDISC,5
+LUVDISC,5
+MUDKIP,5
 #-------------------------------
 045 # Forest - Mini Falls
 25,10,10
@@ -94,6 +112,12 @@ AIPOM,5
 AIPOM,5
 AIPOM,5
 AIPOM,5
+Water
+MAGIKARP,5
+LUVDISC,5
+LUVDISC,5
+LUVDISC,5
+SOBBLE,5
 #-------------------------------
 046 # Forest - Depths
 25,10,10
@@ -110,6 +134,12 @@ BLIPBUG,5
 BLIPBUG,5
 BLIPBUG,5
 BLIPBUG,5
+Water
+MAGIKARP,5
+LUVDISC,5
+LUVDISC,5
+LUVDISC,5
+POPPLIO,5
 #-------------------------------
 047 # Forest - Waterfall View
 25,10,10
@@ -126,6 +156,12 @@ GOSSIFLEUR,5
 GOSSIFLEUR,5
 GOSSIFLEUR,5
 GOSSIFLEUR,5
+Water
+MAGIKARP,5
+WAILMER,5
+LUVDISC,5
+LUVDISC,5
+PIPLUP,5
 #-------------------------------
 049 # Forest - Waterfall Fork
 25,10,10
@@ -142,6 +178,12 @@ PANCHAM,5
 PANCHAM,5
 SCYTHER,5
 SCYTHER,5
+Water
+MAGIKARP,5
+WAILMER,5
+LUVDISC,5
+LUVDISC,5
+OSHAWOTT,5
 #-------------------------------
 050 # Forest - Mountainside
 25,10,10
@@ -158,4 +200,3 @@ PANCHAM,5
 PANCHAM,5
 SCYTHER,5
 SCYTHER,5
-
