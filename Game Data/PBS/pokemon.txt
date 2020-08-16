@@ -10806,7 +10806,7 @@ WildItemUncommon=SPELLTAG
 BattlerPlayerY=51
 BattlerEnemyY=41
 BattlerAltitude=0
-Evolutions=DUSKNOIR,TradeItem,REAPERCLOTH
+Evolutions=DUSKNOIR,Level,55
 #-------------------------------
 [357]
 Name=Tropius
