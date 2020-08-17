@@ -799,14 +799,14 @@ BattlerPlayerY=19
 BattlerEnemyY=19
 BattlerAltitude=0
 #-------------------------------
-[GARDEVOIR-1]
+[GARDEVOIR-2]
 FormName=Mega Gardevoir
 MegaStone=GARDEVOIRITE
 BaseStats=68,85,65,100,165,135
 Abilities=PIXILATE
 Weight=106.7
-BattlerPlayerY=26
-BattlerEnemyY=36
+BattlerPlayerY=37
+BattlerEnemyY=41
 BattlerAltitude=0
 #-------------------------------
 [MAWILE-1]
@@ -1090,14 +1090,14 @@ BattlerPlayerY=40
 BattlerEnemyY=32
 BattlerAltitude=0
 #-------------------------------
-[GALLADE-1]
+[GALLADE-2]
 FormName=Mega Gallade
 MegaStone=GALLADITE
 BaseStats=68,165,95,110,65,115
 Abilities=INNERFOCUS
 Weight=56.4
-BattlerPlayerY=32
-BattlerEnemyY=39
+BattlerPlayerY=38
+BattlerEnemyY=41
 BattlerAltitude=0
 #-------------------------------
 [AUDINO-1]
@@ -2319,6 +2319,9 @@ BattlerAltitude=0
 [KUBFU-1]
 FormName=Rapid Strike Style
 Evolutions=URSHIFU,Level,24
+BattlerEnemyY=56
+BattlerPlayerY=56
+BattlerAltitude=0
 #-------------------------------
 [URSHIFU-1]
 FormName=Rapid Strike Style
@@ -2476,3 +2479,75 @@ BattlerEnemyY=27
 BattlerPlayerY=23
 BattlerAltitude=0
 #-------------------------------
+[RALTS-1]
+Name=Nevibarian Ralts
+Type1=GHOST
+Type2=FAIRY
+BaseStats=28,25,25,40,45,35
+Abilities=SYNCHRONIZE,TRACE
+HiddenAbility=TELEPATHY
+Moves=1,GROWL,1,DISARMINGVOICE,3,DOUBLETEAM,6,CONFUSION,9,HYPNOSIS,12,DRAININGKISS,15,TELEPORT,18,PSYBEAM,21,LIFEDEW,24,CHARM,27,CALMMIND,30,PSYCHIC,33,HEALPULSE,36,DREAMEATER,39,FUTURESIGHT
+EggMoves=CONFUSERAY,DESTINYBOND,DISABLE,GRUDGE,KNOCKOFF,MEANLOOK,MEMENTO,SHADOWSNEAK
+Compatibility=Amorphous
+Height=0.4
+Weight=6.6
+Pokedex=It is said that the increased amount of love and happiness on the island changed its form, making it friendlier to humans.
+Evolutions=KIRLIA,Level,20
+BattlerEnemyY=69
+BattlerPlayerY=66
+BattlerAltitude=0
+#-------------------------------
+[KIRLIA-1]
+Name=Nevibarian Kirlia
+Type1=GHOST
+Type2=FAIRY
+Abilities=SYNCHRONIZE,TRACE
+HiddenAbility=TELEPATHY
+Moves=1,GROWL,1,DISARMINGVOICE,3,DOUBLETEAM,6,CONFUSION,9,HYPNOSIS,12,DRAININGKISS,15,TELEPORT,18,PSYBEAM,21,LIFEDEW,24,CHARM,27,CALMMIND,30,PSYCHIC,33,HEALPULSE,36,DREAMEATER,39,FUTURESIGHT
+EggMoves=CONFUSERAY,DESTINYBOND,DISABLE,GRUDGE,KNOCKOFF,MEANLOOK,MEMENTO,SHADOWSNEAK
+Compatibility=Amorphous
+Height=0.4
+Weight=6.6
+Pokedex=It is said that the increased amount of love and happiness on the island changed its form, making it friendlier to humans.
+Evolutions=KIRLIA,Level,20
+BattlerEnemyY=48
+BattlerPlayerY=54
+BattlerAltitude=0
+#-------------------------------
+[GARDEVOIR-1]
+Name=Nevibarian Gardevoir
+Type1=GHOST
+Type2=FAIRY
+Abilities=SYNCHRONIZE,TRACE
+HiddenAbility=TELEPATHY
+Moves=1,GROWL,1,DISARMINGVOICE,3,DOUBLETEAM,6,CONFUSION,9,HYPNOSIS,12,DRAININGKISS,15,TELEPORT,18,PSYBEAM,21,LIFEDEW,24,CHARM,27,CALMMIND,30,PSYCHIC,33,HEALPULSE,36,DREAMEATER,39,FUTURESIGHT
+EggMoves=CONFUSERAY,DESTINYBOND,DISABLE,GRUDGE,KNOCKOFF,MEANLOOK,MEMENTO,SHADOWSNEAK
+Compatibility=Amorphous
+Height=0.4
+Weight=6.6
+Pokedex=It is said that the increased amount of love and happiness on the island changed its form, making it friendlier to humans.
+Evolutions=KIRLIA,Level,20
+BattlerEnemyY=29
+BattlerPlayerY=33
+BattlerAltitude=0
+#-------------------------------
+[GALLADE-1]
+Name=Nevibarian Gallade
+Type1=GHOST
+Type2=FIGHTING
+Abilities=SYNCHRONIZE,TRACE
+HiddenAbility=TELEPATHY
+Moves=1,GROWL,1,DISARMINGVOICE,3,DOUBLETEAM,6,CONFUSION,9,HYPNOSIS,12,DRAININGKISS,15,TELEPORT,18,PSYBEAM,21,LIFEDEW,24,CHARM,27,CALMMIND,30,PSYCHIC,33,HEALPULSE,36,DREAMEATER,39,FUTURESIGHT
+EggMoves=CONFUSERAY,DESTINYBOND,DISABLE,GRUDGE,KNOCKOFF,MEANLOOK,MEMENTO,SHADOWSNEAK
+Compatibility=Amorphous
+Height=0.4
+Weight=6.6
+Pokedex=It is said that the increased amount of love and happiness on the island changed its form, making it friendlier to humans.
+Evolutions=KIRLIA,Level,20
+BattlerEnemyY=30
+BattlerPlayerY=36
+BattlerAltitude=0
+#-------------------------------
+BattlerEnemyY=30
+BattlerPlayerY=36
+BattlerAltitude=0
