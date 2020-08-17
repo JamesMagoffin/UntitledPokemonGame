@@ -329,53 +329,94 @@ Dungeon=true
 MapPosition=0,16,10
 #-------------------------------
 [052]
+# Deep Forest
 MapPosition=0,17,10
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [053]
+# Cave - 1F
 MapPosition=0,17,10
 HealingSpot=52,17,14
 #-------------------------------
 [054]
+# Cave - 1F
 MapPosition=0,17,10
 #-------------------------------
 [055]
+# Cave - B1
 MapPosition=0,17,10
 HealingSpot=52,30,10
 #-------------------------------
 [056]
+# Cave - B1
 BattleBack=EliteA
 MapPosition=0,17,10
 #-------------------------------
 [057]
+# Cave - B1
 MapPosition=0,17,10
 #-------------------------------
 [058]
+# Cave - B1
 MapPosition=0,17,10
 #-------------------------------
 [059]
-BattleBack=EliteD
+# Deep Forest - Clearing
+SnapEdges=true
+BattleBack=
+Bicycle=true
 MapPosition=0,17,10
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [060]
+# Deep Forest - The Pit
+SnapEdges=true
+BattleBack=
+Bicycle=true
 MapPosition=0,17,10
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [061]
-BattleBack=EliteB
+# Deep Forest - Purgatory
+SnapEdges=true
+BattleBack=
+Bicycle=true
 MapPosition=0,17,10
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [062]
+# Deep Forest - Swamp
+SnapEdges=true
+BattleBack=
+Bicycle=true
 MapPosition=0,17,10
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [063]
+# Deep Forest - Cave Entrance
+SnapEdges=true
+BattleBack=
+Bicycle=true
 MapPosition=0,17,10
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [064]
-BattleBack=EliteC
+# Deep Forest - Cemetery
+SnapEdges=true
+BattleBack=
+Bicycle=true
 MapPosition=0,17,10
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [065]
+# Caves
 MapPosition=0,17,10
 #-------------------------------
 [066]
