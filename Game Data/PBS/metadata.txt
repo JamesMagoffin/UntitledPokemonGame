@@ -336,30 +336,47 @@ ShowArea=true
 #-------------------------------
 [053]
 # Cave - 1F
+SnapEdges=true
+Bicycle=false
 MapPosition=0,17,10
 HealingSpot=52,17,14
+ShowArea=true
 #-------------------------------
 [054]
 # Cave - 1F
+SnapEdges=true
+Bicycle=false
 MapPosition=0,17,10
+ShowArea=true
 #-------------------------------
 [055]
 # Cave - B1
+SnapEdges=true
+Bicycle=false
 MapPosition=0,17,10
 HealingSpot=52,30,10
+ShowArea=true
 #-------------------------------
 [056]
 # Cave - B1
-BattleBack=EliteA
+SnapEdges=true
+Bicycle=false
 MapPosition=0,17,10
+ShowArea=true
 #-------------------------------
 [057]
 # Cave - B1
+SnapEdges=true
+Bicycle=false
 MapPosition=0,17,10
+ShowArea=true
 #-------------------------------
 [058]
 # Cave - B1
+SnapEdges=true
+Bicycle=false
 MapPosition=0,17,10
+ShowArea=true
 #-------------------------------
 [059]
 # Deep Forest - Clearing
