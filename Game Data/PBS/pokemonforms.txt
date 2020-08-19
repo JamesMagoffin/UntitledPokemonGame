@@ -805,8 +805,8 @@ MegaStone=GARDEVOIRITE
 BaseStats=68,85,65,100,165,135
 Abilities=PIXILATE
 Weight=106.7
-BattlerPlayerY=37
-BattlerEnemyY=41
+BattlerPlayerY=33
+BattlerEnemyY=29
 BattlerAltitude=0
 #-------------------------------
 [MAWILE-1]
@@ -1096,8 +1096,8 @@ MegaStone=GALLADITE
 BaseStats=68,165,95,110,65,115
 Abilities=INNERFOCUS
 Weight=56.4
-BattlerPlayerY=38
-BattlerEnemyY=41
+BattlerPlayerY=36
+BattlerEnemyY=30
 BattlerAltitude=0
 #-------------------------------
 [AUDINO-1]
@@ -2079,7 +2079,7 @@ BaseStats=92,170,115,148,80,115
 Weight=335.0
 Pokedex=Now armed with a weapon it used in ancient times, this Pokémon needs only a single strike to fell even Gigantamax Pokémon.
 BattlerEnemyY=23
-BattlerPlayerY=26
+BattlerPlayerY=32
 BattlerAltitude=0
 #-------------------------------
 [ZAMAZENTA-1]
@@ -2090,7 +2090,7 @@ BaseStats=92,130,145,128,80,145
 Weight=785.0
 Pokedex=Its ability to deflect any attack led to it being known as the Fighting Master's Shield. It was feared and respected by all
 BattlerEnemyY=34
-BattlerPlayerY=24
+BattlerPlayerY=30
 BattlerAltitude=0
 #-------------------------------
 [MEOWTH-2]
@@ -2527,8 +2527,8 @@ Height=0.4
 Weight=6.6
 Pokedex=It is said that the increased amount of love and happiness on the island changed its form, making it friendlier to humans.
 Evolutions=KIRLIA,Level,20
-BattlerEnemyY=29
-BattlerPlayerY=33
+BattlerEnemyY=41
+BattlerPlayerY=37
 BattlerAltitude=0
 #-------------------------------
 [GALLADE-1]
@@ -2544,10 +2544,10 @@ Height=0.4
 Weight=6.6
 Pokedex=It is said that the increased amount of love and happiness on the island changed its form, making it friendlier to humans.
 Evolutions=KIRLIA,Level,20
-BattlerEnemyY=30
-BattlerPlayerY=36
+BattlerEnemyY=41
+BattlerPlayerY=38
 BattlerAltitude=0
 #-------------------------------
-BattlerEnemyY=30
-BattlerPlayerY=36
+BattlerEnemyY=41
+BattlerPlayerY=38
 BattlerAltitude=0
