@@ -2450,6 +2450,23 @@ BattlerPlayerY=73
 BattlerAltitude=20
 BattlerEnemyY=144
 #-------------------------------
+[DRIFBLIM-1]
+Type1=FIRE
+Type2=FAIRY
+BaseStats=109,81,99,32,66,84
+Abilities=FLAREBOOST,FLASHFIRE
+HiddenAbility=PIXILATE
+Moves=1,FIRESPIN,1,MINIMIZE,4,EMBER,8,PROTECT,12,FAIRYWIND,16,BABYDOLLEYES,20,ROUND,24,HEX,28,SELFDESTRUCT,32,SLAM,36,CURSE
+EggMoves=
+Height=0.7
+Weight=20.5
+Color=Red
+Kind=Balloon Pokémon
+Pokedex=conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.
+BattlerPlayerY=73
+BattlerAltitude=20
+BattlerEnemyY=144
+#-------------------------------
 [LAPRAS-1]
 FormName=Mega Lapras
 MegaStone=LAPRASITE
