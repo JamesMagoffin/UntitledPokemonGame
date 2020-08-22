@@ -350,7 +350,7 @@ MapPosition=0,17,10
 ShowArea=true
 #-------------------------------
 [055]
-# Cave - B1
+# Cave - B1F
 SnapEdges=true
 Bicycle=false
 MapPosition=0,17,10
@@ -358,21 +358,21 @@ HealingSpot=52,30,10
 ShowArea=true
 #-------------------------------
 [056]
-# Cave - B1
+# Cave - B1F
 SnapEdges=true
 Bicycle=false
 MapPosition=0,17,10
 ShowArea=true
 #-------------------------------
 [057]
-# Cave - B1
+# Cave - B1F
 SnapEdges=true
 Bicycle=false
 MapPosition=0,17,10
 ShowArea=true
 #-------------------------------
 [058]
-# Cave - B1
+# Cave - B1F
 SnapEdges=true
 Bicycle=false
 MapPosition=0,17,10
