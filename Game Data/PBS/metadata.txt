@@ -437,39 +437,63 @@ ShowArea=true
 MapPosition=0,17,10
 #-------------------------------
 [066]
+# Mountains
 MapPosition=0,12,12
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [067]
+# Mountains - Stairway
+BattleBack=Snow
+Weather=Snow,100
 MapPosition=0,12,12
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [068]
-BattleBack=Forest
+# Mountains - Frozen Lakes
+BattleBack=Snow
+Weather=Snow,100
 MapPosition=0,12,12
-SafariMap=true
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [069]
-DiveMap=70
+# Mountains - Ravine
+BattleBack=Snow
+Weather=Snow,100
 MapPosition=0,13,13
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [070]
+# Mountains - Village
+BattleBack=Snow
+Weather=Snow,100
 MapPosition=0,13,13
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [071]
+# Mountains - Waterfall
+BattleBack=Snow
+Weather=Snow,100
 MapPosition=0,13,13
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [072]
-Weather=Storm,50
+# Mountains - Crossroads
+BattleBack=Snow
+Weather=Snow,100
 MapPosition=0,18,17
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [073]
+# Mountains - Peak
+BattleBack=Snow
+Weather=Snow,100
 MapPosition=0,22,16
 Outdoor=true
 ShowArea=true

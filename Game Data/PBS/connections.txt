@@ -24,7 +24,7 @@
 19,South,71,22,North,0
 # Route 5 (9) - Route 4 (22)
 9,South,31,22,North,0
-# Starting Town (10) - Route 4 (22)
+# Fayriver Town (Old) (10) - Route 4 (22)
 10,South,173,22,North,0
 # Route 3 (21) - Route 4 (22)
 21,East,0,22,West,0
@@ -38,7 +38,7 @@
 9,West,0,19,East,0
 # Route 2 (26) - Route 1 (19)
 26,South,0,19,North,16
-# Starting Town (10) - Route 1 (19)
+# Fayriver Town (Old) (10) - Route 1 (19)
 10,East,0,19,West,0
 # Route 3 (21) - Route 1 (19)
 21,North,6,19,South,0
@@ -46,7 +46,21 @@
 26,South,24,9,North,0
 # Route 3 (21) - Route 5 (9)
 21,North,46,9,South,0
-# Starting Town (10) - Route 2 (26)
+# Fayriver Town (Old) (10) - Route 2 (26)
 10,North,118,26,South,0
-# Route 3 (21) - Starting Town (10)
+# Route 3 (21) - Fayriver Town (Old) (10)
 21,North,0,10,South,96
+# Mountains - Crossroads (72) - Mountains - Waterfall (71)
+72,West,4,71,East,0
+# Mountains - Peak (73) - Mountains - Waterfall (71)
+73,West,30,71,East,0
+# Mountains - Village (70) - Mountains - Waterfall (71)
+70,East,18,71,West,0
+# Mountains - Peak (73) - Mountains - Crossroads (72)
+73,South,0,72,North,0
+# Mountains - Frozen Lakes (68) - Mountains - Stairway (67)
+68,East,0,67,West,0
+# Mountains - Ravine (69) - Mountains - Stairway (67)
+69,West,4,67,East,0
+# Mountains - Village (70) - Mountains - Ravine (69)
+70,West,0,69,East,0
