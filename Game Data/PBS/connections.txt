@@ -50,14 +50,8 @@
 10,North,118,26,South,0
 # Route 3 (21) - Fayriver Town (Old) (10)
 21,North,0,10,South,96
-# Mountains - Crossroads (72) - Mountains - Waterfall (71)
-72,West,4,71,East,0
-# Mountains - Peak (73) - Mountains - Waterfall (71)
-73,West,30,71,East,0
 # Mountains - Village (70) - Mountains - Waterfall (71)
 70,East,18,71,West,0
-# Mountains - Peak (73) - Mountains - Crossroads (72)
-73,South,0,72,North,0
 # Mountains - Frozen Lakes (68) - Mountains - Stairway (67)
 68,East,0,67,West,0
 # Mountains - Ravine (69) - Mountains - Stairway (67)

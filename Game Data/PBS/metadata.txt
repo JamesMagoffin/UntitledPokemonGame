@@ -484,6 +484,7 @@ ShowArea=true
 #-------------------------------
 [072]
 # Mountains - Crossroads
+SnapEdges=true
 BattleBack=Snow
 Weather=Snow,100
 MapPosition=0,18,17
@@ -492,6 +493,7 @@ ShowArea=true
 #-------------------------------
 [073]
 # Mountains - Peak
+SnapEdges=true
 BattleBack=Snow
 Weather=Snow,100
 MapPosition=0,22,16
