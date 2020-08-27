@@ -2011,7 +2011,6 @@ Moves=1,PECK,1,SANDATTACK,5,LEER,10,FURYCUTTER,15,ROCKSMASH,20,BRUTALSWING,25,DE
 EggMoves=COUNTER,COVET,CURSE,DOUBLEEDGE,FEINT,FLAIL,NIGHTSLASH,QUICKATTACK,QUICKGUARD,SIMPLEBEAM,SKYATTACK
 Weight=42.0
 Pokedex=The stalks of leeks are thicker and longer in the Galar region. Farfetch'd that adapted to these stalks took on a unique form.
-WildItemCommon=STICK
 BattlerPlayerY=61
 BattlerEnemyY=59
 Evolutions=SIRFETCHD,Level,32
