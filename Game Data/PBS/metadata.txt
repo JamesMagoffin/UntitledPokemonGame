@@ -424,7 +424,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [064]
-# Deep Forest - Cemetery
+# Deep Forest - Graveyard
 SnapEdges=true
 BattleBack=
 Bicycle=true
@@ -501,12 +501,14 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [074]
+# Secret Bases
 Bicycle=true
 MapPosition=0,12,10
 #-------------------------------
 [075]
+# MAP075
 MapPosition=1,13,16
-Outdoor=true
+Outdoor=false
 #-------------------------------
 [079]
 # Dorbeach Town
