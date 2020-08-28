@@ -2024,7 +2024,7 @@ WildItemUncommon=FOCUSBAND
 BattlerPlayerY=42
 BattlerEnemyY=41
 BattlerAltitude=0
-Evolutions=MACHAMP,DayHoldItem,FOCUSBAND,MACHAMP,Trade
+Evolutions=MACHAMP,DayHoldItem,BLACKBELT,MACHAMP,Trade
 #-------------------------------
 [68]
 Name=Machamp
