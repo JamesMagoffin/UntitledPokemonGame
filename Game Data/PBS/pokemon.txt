@@ -1841,7 +1841,7 @@ WildItemUncommon=KINGSROCK
 BattlerPlayerY=56
 BattlerEnemyY=63
 BattlerAltitude=0
-Evolutions=POLIWRATH,Item,WATERSTONE,POLITOED,TradeItem,KINGSROCK
+Evolutions=POLIWRATH,Item,WATERSTONE,POLITOED,TradeItem,KINGSROCK,POLITOED,DayHoldItem,KINGSROCK
 #-------------------------------
 [62]
 Name=Poliwrath
@@ -1933,7 +1933,7 @@ WildItemUncommon=TWISTEDSPOON
 BattlerPlayerY=46
 BattlerEnemyY=55
 BattlerAltitude=0
-Evolutions=ALAKAZAM,Trade,
+Evolutions=ALAKAZAM,NightHoldItem,TWISTEDSPOON,ALAKAZAM,Trade,
 #-------------------------------
 [65]
 Name=Alakazam
@@ -2024,7 +2024,7 @@ WildItemUncommon=FOCUSBAND
 BattlerPlayerY=42
 BattlerEnemyY=41
 BattlerAltitude=0
-Evolutions=MACHAMP,Trade,
+Evolutions=MACHAMP,DayHoldItem,FOCUSBAND,MACHAMP,Trade
 #-------------------------------
 [68]
 Name=Machamp
@@ -2271,7 +2271,7 @@ WildItemUncommon=EVERSTONE
 BattlerPlayerY=66
 BattlerEnemyY=63
 BattlerAltitude=0
-Evolutions=GOLEM,Trade,
+Evolutions=GOLEM,NightHoldItem,HARDSTONE,GOLEM,Trade
 #-------------------------------
 [76]
 Name=Golem
@@ -2393,7 +2393,7 @@ WildItemUncommon=LAGGINGTAIL
 BattlerPlayerY=68
 BattlerEnemyY=64
 BattlerAltitude=0
-Evolutions=SLOWBRO,Level,37,SLOWKING,TradeItem,KINGSROCK
+Evolutions=SLOWBRO,Level,37,SLOWKING,TradeItem,KINGSROCK,SLOWKING,DayHoldItem,KINGSROCK
 #-------------------------------
 [80]
 Name=Slowbro
@@ -2824,7 +2824,7 @@ Pokedex=If a Haunter beckons you while it is floating in darkness, don't approac
 BattlerPlayerY=32
 BattlerEnemyY=32
 BattlerAltitude=22
-Evolutions=GENGAR,Trade,
+Evolutions=GENGAR,NightHoldItem,BLACKGLASSES,GENGAR,Trade
 #-------------------------------
 [94]
 Name=Gengar
@@ -2884,7 +2884,7 @@ Pokedex=There is a magnet in its brain that prevents an Onix from losing directi
 BattlerPlayerY=32
 BattlerEnemyY=34
 BattlerAltitude=0
-Evolutions=STEELIX,TradeItem,METALCOAT
+Evolutions=STEELIX,TradeItem,METALCOAT,STEELIX,DayHoldItem,METALCOAT
 #-------------------------------
 [96]
 Name=Drowzee
@@ -3394,7 +3394,7 @@ Pokedex=Its horn, which rotates like a drill, destroys tall buildings with one s
 BattlerPlayerY=48
 BattlerEnemyY=49
 BattlerAltitude=0
-Evolutions=RHYPERIOR,TradeItem,PROTECTOR
+Evolutions=RHYPERIOR,TradeItem,PROTECTOR,RHYPERIOR,NightHoldItem,PROTECTOR
 #-------------------------------
 [113]
 Name=Chansey
@@ -3546,7 +3546,7 @@ WildItemUncommon=DRAGONSCALE
 BattlerPlayerY=41
 BattlerEnemyY=24
 BattlerAltitude=11
-Evolutions=KINGDRA,TradeItem,DRAGONSCALE
+Evolutions=KINGDRA,TradeItem,DRAGONSCALE,KINGDRA,DayHoldItem,DRAGONSCALE
 #-------------------------------
 [118]
 Name=Goldeen
@@ -3732,7 +3732,7 @@ Pokedex=Its blindingly fast speed adds to the sharpness of its twin forearm scyt
 BattlerPlayerY=55
 BattlerEnemyY=54
 BattlerAltitude=0
-Evolutions=SCIZOR,TradeItem,METALCOAT
+Evolutions=SCIZOR,TradeItem,METALCOAT,SCIZOR,DayHoldItem,METALCOAT
 #-------------------------------
 [124]
 Name=Jynx
@@ -3794,7 +3794,7 @@ WildItemUncommon=ELECTIRIZER
 BattlerPlayerY=50
 BattlerEnemyY=53
 BattlerAltitude=0
-Evolutions=ELECTIVIRE,TradeItem,ELECTIRIZER
+Evolutions=ELECTIVIRE,TradeItem,ELECTIRIZER,ELECTIVIRE,NightHoldItem,ELECTIRIZER
 #-------------------------------
 [126]
 Name=Magmar
@@ -3825,7 +3825,7 @@ WildItemUncommon=MAGMARIZER
 BattlerPlayerY=53
 BattlerEnemyY=51
 BattlerAltitude=0
-Evolutions=MAGMORTAR,TradeItem,MAGMARIZER
+Evolutions=MAGMORTAR,TradeItem,MAGMARIZER,MAGMORTAR,DayHoldItem,MAGMARIZER
 #-------------------------------
 [127]
 Name=Pinsir
@@ -4152,7 +4152,7 @@ Pokedex=It is capable of reverting itself entirely back to program data in order
 BattlerPlayerY=56
 BattlerEnemyY=51
 BattlerAltitude=9
-Evolutions=PORYGON2,TradeItem,UPGRADE
+Evolutions=PORYGON2,TradeItem,UPGRADE,PORYGON2,DayHoldItem,UPGRADE
 #-------------------------------
 [138]
 Name=Omanyte
@@ -7059,7 +7059,7 @@ Pokedex=It was created by humans using the power of science. It has been given a
 BattlerPlayerY=40
 BattlerEnemyY=41
 BattlerAltitude=12
-Evolutions=PORYGONZ,TradeItem,DUBIOUSDISC
+Evolutions=PORYGONZ,TradeItem,DUBIOUSDISC,PORYGONZ,DayHoldItem,DUBIOUSDISC
 #-------------------------------
 [234]
 Name=Stantler
@@ -9062,7 +9062,7 @@ WildItemUncommon=MAGNET
 BattlerPlayerY=64
 BattlerEnemyY=61
 BattlerAltitude=0
-Evolutions=PROBOPASS,Location,49,PROBOPASS,Location,50,PROBOPASS,Location,51
+Evolutions=PROBOPASS,DayHoldItem,MAGNET
 #-------------------------------
 [300]
 Name=Skitty
@@ -11109,7 +11109,7 @@ WildItemUncommon=BIGPEARL
 BattlerPlayerY=70
 BattlerEnemyY=66
 BattlerAltitude=0
-Evolutions=HUNTAIL,TradeItem,DEEPSEATOOTH,GOREBYSS,TradeItem,DEEPSEASCALE
+Evolutions=HUNTAIL,TradeItem,DEEPSEATOOTH,GOREBYSS,TradeItem,DEEPSEASCALE,HUNTAIL,DayHoldItem,DEEPSEATOOTH,GOREBYSS,NightHoldItem,DEEPSEASCALE
 #-------------------------------
 [367]
 Name=Huntail
@@ -15743,7 +15743,7 @@ WildItemUncommon=HARDSTONE
 BattlerPlayerY=70
 BattlerEnemyY=68
 BattlerAltitude=0
-Evolutions=GIGALITH,Trade,
+Evolutions=GIGALITH,DayHoldItem,HARDSTONE,GIGALITH,Trade
 #-------------------------------
 [526]
 Name=Gigalith
@@ -15978,7 +15978,7 @@ Pokedex=They strengthen their bodies by carrying steel beams. They show off thei
 BattlerPlayerY=55
 BattlerEnemyY=59
 BattlerAltitude=0
-Evolutions=CONKELDURR,Trade,
+Evolutions=CONKELDURR,NightHoldItem,BLACKBELT,CONKELDURR,Trade
 #-------------------------------
 [534]
 Name=Conkeldurr
@@ -20320,7 +20320,7 @@ Pokedex=In the past, rather than using perfume, royal ladies carried a Spritzee 
 BattlerPlayerY=62
 BattlerEnemyY=57
 BattlerAltitude=26
-Evolutions=AROMATISSE,TradeItem,SACHET
+Evolutions=AROMATISSE,TradeItem,SACHET,AROMATISSE,DayHoldItem,SACHET
 #-------------------------------
 [683]
 Name=Aromatisse
@@ -20377,7 +20377,7 @@ Pokedex=To entangle its opponents in battle, it extrudes white threads as sweet 
 BattlerPlayerY=67
 BattlerEnemyY=70
 BattlerAltitude=0
-Evolutions=SLURPUFF,TradeItem,WHIPPEDDREAM
+Evolutions=SLURPUFF,TradeItem,WHIPPEDDREAM,SLURPUFF,NightHoldItem,WHIPPEDDREAM
 #-------------------------------
 [685]
 Name=Slurpuff
@@ -21079,7 +21079,7 @@ Pokedex=According to old tales, these Pokémon are stumps possessed by the spiri
 BattlerPlayerY=56
 BattlerEnemyY=50
 BattlerAltitude=10
-Evolutions=TREVENANT,Trade,
+Evolutions=TREVENANT,Location,64,TREVENANT,Trade,
 #-------------------------------
 [709]
 Name=Trevenant
@@ -21139,7 +21139,7 @@ FormName=Small Size
 BattlerPlayerY=50
 BattlerEnemyY=47
 BattlerAltitude=10
-Evolutions=GOURGEIST,Trade,
+Evolutions=GOURGEIST,Location,64,GOURGEIST,Trade,
 #-------------------------------
 [711]
 Name=Gourgeist
