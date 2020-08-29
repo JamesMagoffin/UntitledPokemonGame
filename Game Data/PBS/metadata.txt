@@ -12,7 +12,7 @@ TrainerBattleBGM=BattleTrainer.ogg
 SurfBGM=Surfing.mid
 BicycleBGM=Bicycle.mid
 Home=83,5,10,8
-WildBattleBGM=WildNormalBW.ogg
+WildBattleBGM=wildpokemon.ogg
 #-------------------------------
 [001]
 # Intro
