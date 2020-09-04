@@ -642,7 +642,7 @@ BaseStats=79,103,120,78,135,115
 Abilities=MEGALAUNCHER
 Weight=101.1
 BattlerPlayerY=27
-BattlerEnemyY=32
+BattlerEnemyY=36
 BattlerAltitude=0
 #-------------------------------
 [ALAKAZAM-1]
@@ -805,8 +805,8 @@ MegaStone=GARDEVOIRITE
 BaseStats=68,85,65,100,165,135
 Abilities=PIXILATE
 Weight=106.7
-BattlerPlayerY=33
-BattlerEnemyY=29
+BattlerPlayerY=37
+BattlerEnemyY=41
 BattlerAltitude=0
 #-------------------------------
 [MAWILE-1]
@@ -1096,8 +1096,8 @@ MegaStone=GALLADITE
 BaseStats=68,165,95,110,65,115
 Abilities=INNERFOCUS
 Weight=56.4
-BattlerPlayerY=36
-BattlerEnemyY=30
+BattlerPlayerY=38
+BattlerEnemyY=41
 BattlerAltitude=0
 #-------------------------------
 [AUDINO-1]
@@ -2543,8 +2543,8 @@ Height=0.4
 Weight=6.6
 Pokedex=It is said that the increased amount of love and happiness on the island changed its form, making it friendlier to humans.
 Evolutions=KIRLIA,Level,20
-BattlerEnemyY=41
-BattlerPlayerY=37
+BattlerEnemyY=29
+BattlerPlayerY=33
 BattlerAltitude=0
 #-------------------------------
 [GALLADE-1]
@@ -2560,10 +2560,10 @@ Height=0.4
 Weight=6.6
 Pokedex=It is said that the increased amount of love and happiness on the island changed its form, making it friendlier to humans.
 Evolutions=KIRLIA,Level,20
-BattlerEnemyY=41
-BattlerPlayerY=38
+BattlerEnemyY=30
+BattlerPlayerY=36
 BattlerAltitude=0
 #-------------------------------
-BattlerEnemyY=41
-BattlerPlayerY=38
+BattlerEnemyY=30
+BattlerPlayerY=36
 BattlerAltitude=0
