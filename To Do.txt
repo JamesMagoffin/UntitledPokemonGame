@@ -1,4 +1,0 @@
-TO DO
-Fix Great Ball Collision.
-weird double follower glitch
-
