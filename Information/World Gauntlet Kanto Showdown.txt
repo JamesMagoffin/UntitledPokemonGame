@@ -1,0 +1,444 @@
+=== [gen7anythinggoes] Kanto - World Gauntlet/Brock ===
+
+Tyranitar @ Assault Vest  
+Ability: Sand Stream  
+Level: 50  
+EVs: 224 HP / 32 Atk / 252 SpD  
+Careful Nature  
+- Rock Slide  
+- Crunch  
+- Stealth Rock  
+- Earthquake  
+
+Omastar @ White Herb  
+Ability: Weak Armor  
+Level: 50  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power  
+
+Golem-Alola @ Choice Scarf  
+Ability: Magnet Pull  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wild Charge  
+- Earthquake  
+- Fire Punch  
+- Stone Edge  
+
+
+=== [gen7anythinggoes] Kanto - World Gauntlet/Misty ===
+
+Golduck @ Rocky Helmet  
+Ability: Swift Swim  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Rain Dance  
+- Ice Beam  
+- Surf  
+- Signal Beam  
+
+Starmie @ Life Orb  
+Ability: Analytic  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Psyshock  
+- Thunderbolt  
+
+Quagsire @ Leftovers  
+Ability: Unaware  
+Level: 50  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+- Scald  
+- Earthquake  
+- Recover  
+- Toxic  
+
+
+=== [gen7anythinggoes] Kanto - World Gauntlet/Lt. Surge ===
+
+Electrode @ Light Clay  
+Ability: Aftermath  
+Level: 50  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Reflect  
+- Light Screen  
+- Taunt  
+- Volt Switch  
+
+Raichu @ Life Orb  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Thunderbolt  
+- Grass Knot  
+- Focus Blast  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+Level: 50  
+EVs: 4 HP / 4 Def / 248 SpA / 252 Spe  
+Timid Nature  
+IVs: 1 Atk  
+- Thunderbolt  
+- Hidden Power [Fire]  
+- Flash Cannon  
+- Volt Switch  
+
+
+=== [gen7anythinggoes] Kanto - World Gauntlet/Erika ===
+
+Exeggutor @ Life Orb  
+Ability: Chlorophyll  
+Level: 50  
+EVs: 248 HP / 8 Def / 252 SpA  
+Quiet Nature  
+IVs: 0 Atk  
+- Trick Room  
+- Leaf Storm  
+- Psychic  
+- Sleep Powder  
+
+Vileplume @ Black Sludge  
+Ability: Effect Spore  
+Level: 50  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Sludge Bomb  
+- Strength Sap  
+- Sleep Powder  
+
+Jumpluff  
+Ability: Infiltrator  
+Level: 50  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Strength Sap  
+- Sleep Powder  
+- Acrobatics  
+
+
+=== [gen7anythinggoes] Kanto - World Gauntlet/Janine ===
+
+Ariados @ Focus Sash  
+Ability: Swarm  
+Level: 50  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Sticky Web  
+- Toxic Spikes  
+- Megahorn  
+- Sucker Punch  
+
+Tentacruel @ Black Sludge  
+Ability: Clear Body  
+Level: 50  
+EVs: 252 HP / 112 Def / 144 Spe  
+Timid Nature  
+- Scald  
+- Haze  
+- Sludge Bomb  
+- Knock Off  
+
+Weezing @ Rocky Helmet  
+Ability: Levitate  
+Level: 50  
+EVs: 252 HP / 152 Def / 88 SpD / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Will-O-Wisp  
+- Pain Split  
+- Taunt  
+
+
+=== [gen7anythinggoes] Kanto - World Gauntlet/Sabrina ===
+
+Alakazam @ Life Orb  
+Ability: Magic Guard  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Shadow Ball  
+- Thunder Wave  
+
+Mr. Mime @ Leftovers  
+Ability: Soundproof  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Dazzling Gleam  
+- Focus Blast  
+- Psyshock  
+
+Slowbro-Galar @ Black Sludge  
+Ability: Regenerator  
+Level: 50  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Sludge Bomb  
+- Slack Off  
+
+
+=== [gen7anythinggoes] Kanto - World Gauntlet/Blaine ===
+
+Arcanine @ Life Orb  
+Ability: Flash Fire  
+Level: 50  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Wild Charge  
+- Extreme Speed  
+- Morning Sun  
+
+Rapidash @ Air Balloon  
+Ability: Flash Fire  
+Level: 50  
+- Flare Blitz  
+- Wild Charge  
+- Will-O-Wisp  
+- Morning Sun  
+
+Magmortar @ Choice Specs  
+Ability: Vital Spirit  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Focus Blast  
+- Thunderbolt  
+- Hidden Power [Grass]  
+
+
+=== [gen7anythinggoes] Kanto - World Gauntlet/Giovanni ===
+
+Rhyperior @ Leftovers  
+Ability: Solid Rock  
+Level: 50  
+EVs: 248 HP / 16 Atk / 244 SpD  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Rock Blast  
+- Toxic  
+
+Dugtrio-Alola @ Life Orb  
+Ability: Tangling Hair  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Sucker Punch  
+- Pursuit  
+
+Nidoking @ Black Sludge  
+Ability: Sheer Force  
+Level: 50  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Earth Power  
+- Ice Beam  
+- Taunt  
+
+
+=== [gen8nationaldex] Kanto - World Gauntlet/Lorelei ===
+
+Lapras @ Choice Specs  
+Ability: Water Absorb  
+Level: 50  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Modest Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Freeze-Dry  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Fire]  
+
+Cloyster @ Focus Sash  
+Ability: Skill Link  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Shell Smash  
+- Icicle Spear  
+- Spikes  
+- Rock Blast  
+
+Jynx @ Choice Scarf  
+Ability: Dry Skin  
+Level: 50  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Focus Blast  
+- Lovely Kiss  
+
+
+=== [gen8nationaldex] Kanto - World Gauntlet/Bruno ===
+
+Machamp @ Flame Orb  
+Ability: Guts  
+Level: 50  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Knock Off  
+- Facade  
+- Bullet Punch  
+
+Poliwrath @ Leftovers  
+Ability: Water Absorb  
+Level: 50  
+EVs: 252 HP / 160 SpA / 96 Spe  
+IVs: 0 Atk  
+- Scald  
+- Focus Blast  
+- Toxic  
+- Protect  
+
+Hitmonlee @ White Herb  
+Ability: Unburden  
+Level: 50  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Curse  
+- Close Combat  
+- Knock Off  
+- Earthquake  
+
+
+=== [gen8nationaldex] Kanto - World Gauntlet/Agatha ===
+
+Gengar @ Life Orb  
+Ability: Cursed Body  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Sludge Wave  
+- Taunt  
+- Focus Blast  
+
+Marowak-Alola @ Thick Club  
+Ability: Rock Head  
+Level: 50  
+EVs: 212 HP / 252 Atk / 44 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Shadow Bone  
+- Swords Dance  
+- Low Kick  
+
+Mismagius @ Choice Specs  
+Ability: Levitate  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Shadow Ball  
+- Power Gem  
+- Protect  
+
+
+=== [gen8nationaldex] Kanto - World Gauntlet/Lance ===
+
+Dragonite @ Power Herb  
+Ability: Multiscale  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Fly  
+- Earthquake  
+- Extreme Speed  
+
+Exeggutor-Alola @ Choice Specs  
+Ability: Frisk  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Leaf Storm  
+- Flamethrower  
+- Giga Drain  
+
+Kingdra @ Choice Specs  
+Ability: Swift Swim  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Draco Meteor  
+- Ice Beam  
+
+
+=== [gen8nationaldex] Kanto - World Gauntlet/Blue ===
+
+Blastoise @ Blastoisinite  
+Ability: Torrent  
+Level: 50  
+EVs: 216 HP / 136 SpA / 44 SpD / 112 Spe  
+Modest Nature  
+- Fake Out  
+- Hydro Cannon  
+- Ice Beam  
+- Dragon Pulse  
+
+Pidgeot @ Sky Plate  
+Ability: Big Pecks  
+Level: 50  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Heat Wave  
+- U-turn  
+- Roost  
+
+Aerodactyl @ Choice Band  
+Ability: Unnerve  
+Level: 50  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Aerial Ace  
+- Earthquake  
+- Pursuit  
+
+
