@@ -11,7 +11,7 @@ PlayerF=POKEMONTRAINER_Avery,player06,player06_bike,player06_surf,player06_run,b
 TrainerBattleBGM=BattleTrainer.ogg
 SurfBGM=Surfing.mid
 BicycleBGM=Bicycle.mid
-Home=83,5,10,8
+Home=44,22,12,2
 WildBattleBGM=wildpokemon.ogg
 #-------------------------------
 [001]
