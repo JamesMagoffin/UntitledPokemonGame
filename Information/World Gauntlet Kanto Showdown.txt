@@ -167,7 +167,7 @@ EVs: 252 HP / 152 Def / 88 SpD / 16 Spe
 Bold Nature  
 IVs: 0 Atk  
 - Sludge Bomb  
-- Will-O-Wisp  
+- Will-O-Wisp
 - Pain Split  
 - Taunt  
 
