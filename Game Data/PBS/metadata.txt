@@ -381,7 +381,7 @@ ShowArea=true
 [059]
 # Deep Forest - Clearing
 SnapEdges=true
-BattleBack=
+BattleBack=Forest
 Bicycle=true
 MapPosition=0,17,10
 Outdoor=true
@@ -390,7 +390,7 @@ ShowArea=true
 [060]
 # Deep Forest - The Pit
 SnapEdges=true
-BattleBack=
+BattleBack=Forest
 Bicycle=true
 MapPosition=0,17,10
 Outdoor=true
@@ -399,7 +399,7 @@ ShowArea=true
 [061]
 # Deep Forest - Purgatory
 SnapEdges=true
-BattleBack=
+BattleBack=Forest
 Bicycle=true
 MapPosition=0,17,10
 Outdoor=true
@@ -408,7 +408,7 @@ ShowArea=true
 [062]
 # Deep Forest - Swamp
 SnapEdges=true
-BattleBack=
+BattleBack=Forest
 Bicycle=true
 MapPosition=0,17,10
 Outdoor=true
@@ -417,7 +417,7 @@ ShowArea=true
 [063]
 # Deep Forest - Cave Entrance
 SnapEdges=true
-BattleBack=
+BattleBack=Forest
 Bicycle=true
 MapPosition=0,17,10
 Outdoor=true
@@ -426,7 +426,7 @@ ShowArea=true
 [064]
 # Deep Forest - Graveyard
 SnapEdges=true
-BattleBack=
+BattleBack=Forest
 Bicycle=true
 MapPosition=0,17,10
 Outdoor=true
@@ -501,12 +501,12 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [074]
-# Secret Bases
+# Homes
 Bicycle=true
 MapPosition=0,12,10
 #-------------------------------
 [075]
-# MAP075
+# Cabin Home
 MapPosition=1,13,16
 Outdoor=false
 #-------------------------------
@@ -571,3 +571,15 @@ BattleBack=Forest
 [106]
 # Hidden Grotto
 Outdoor=true
+#-------------------------------
+[114]
+# Battle Dojo (GymLeader)
+BattleBack=IndoorA
+#-------------------------------
+[115]
+# Battle Dojo (E4)
+BattleBack=EliteD
+#-------------------------------
+[117]
+# Battle Dojo (Champion)
+BattleBack=Champion
