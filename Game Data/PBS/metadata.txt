@@ -444,6 +444,7 @@ ShowArea=true
 #-------------------------------
 [067]
 # Mountains - Stairway
+SnapEdges=true
 BattleBack=Snow
 Weather=Snow,100
 MapPosition=0,12,12
@@ -452,6 +453,7 @@ ShowArea=true
 #-------------------------------
 [068]
 # Mountains - Frozen Lakes
+SnapEdges=true
 BattleBack=Snow
 Weather=Snow,100
 MapPosition=0,12,12
@@ -460,6 +462,7 @@ ShowArea=true
 #-------------------------------
 [069]
 # Mountains - Ravine
+SnapEdges=true
 BattleBack=Snow
 Weather=Snow,100
 MapPosition=0,13,13
@@ -468,6 +471,7 @@ ShowArea=true
 #-------------------------------
 [070]
 # Mountains - Village
+SnapEdges=true
 BattleBack=Snow
 Weather=Snow,100
 MapPosition=0,13,13
@@ -476,6 +480,7 @@ ShowArea=true
 #-------------------------------
 [071]
 # Mountains - Waterfall
+SnapEdges=true
 BattleBack=Snow
 Weather=Snow,100
 MapPosition=0,13,13
