@@ -219,3 +219,4 @@
 216,EFOUR_Bruno,Elite Four,120,bruno.ogg,,,Male,255,
 217,EFOUR_Agatha,Elite Four,120,agatha.ogg,,,Female,255,
 218,EFOUR_Lance,Elite Four,120,lance.ogg,,,Male,255,
+219,BIOMEMASTER_Olivia,Biome Master,120,biomemaster,,,Female,,
