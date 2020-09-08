@@ -1,5 +1,5 @@
 [POKEDEXES]
-pokedex1=Untitled Pokédex
-pokedex2=Untitled Pokédex
-pokedex3=Untitled Pokédex
+pokedex1=National Dex
+pokedex2=Beta Dex
+pokedex3=Egg Dex
 

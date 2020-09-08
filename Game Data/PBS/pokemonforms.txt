@@ -2564,6 +2564,36 @@ BattlerEnemyY=30
 BattlerPlayerY=36
 BattlerAltitude=0
 #-------------------------------
-BattlerEnemyY=30
-BattlerPlayerY=36
+[RILLABOOM-1]
+FormName=Mega Rillaboom
+MegaStone=RILLABOOMITE
+BaseStats=110,175,120,106,60,70
+Abilities=CHLOROPHYLL
+Height=2.5
+Weight=120.8
+BattlerPlayerY=34
+BattlerEnemyY=28
 BattlerAltitude=0
+#-------------------------------
+[INTELEON-1]
+FormName=Mega Inteleon
+MegaStone=INTELEITE
+BaseStats=90,85,75,150,155,75
+Abilities=COMPOUNDEYES
+Height=2.9
+Weight=47.2
+BattlerPlayerY=34
+BattlerEnemyY=28
+BattlerAltitude=0
+#-------------------------------
+[CINDERACE-1]
+FormName=Mega Cinderace
+MegaStone=CINDERITE
+BaseStats=100,146,90,139,65,90
+Abilities=DROUGHT
+Height=2.4
+Weight=55.0
+BattlerPlayerY=34
+BattlerEnemyY=28
+BattlerAltitude=0
+#-------------------------------
