@@ -588,3 +588,9 @@ BattleBack=EliteD
 [117]
 # Battle Dojo (Champion)
 BattleBack=Champion
+#-------------------------------
+[120]
+# Mew's Dream World
+SnapEdges=true
+BattleBack=EliteD
+ShowArea=true
