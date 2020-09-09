@@ -1551,7 +1551,7 @@ WildItemUncommon=QUICKCLAW
 BattlerPlayerY=60
 BattlerEnemyY=59
 BattlerAltitude=0
-Evolutions=PERSIAN,Level,28
+Evolutions=PERSIAN,Level,28,PERRSERKER,DayHoldItem,TEA
 #-------------------------------
 [53]
 Name=Persian
