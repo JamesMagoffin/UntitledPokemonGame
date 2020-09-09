@@ -51,7 +51,7 @@ MAGIKARP,5
 POLIWAG,5
 POLIWAG,5
 POLIWAG,5
-SQUIRTLE,5
+WINGULL,5
 #-------------------------------
 041 # Forest - Lakeside
 25,10,10
@@ -69,11 +69,11 @@ SCYTHER,5
 GOSSIFLEUR,5
 SCYTHER,5
 Water
-MAGIKARP,5
-POLIWAG,5
-POLIWAG,5
-POLIWAG,5
-TOTODILE,5
+LOTAD,5
+REMORAID,5
+MANTYKE,5
+MANTYKE,5
+MANTYKE,5
 #-------------------------------
 044 # Forest - Cabins
 25,10,10
@@ -91,11 +91,11 @@ KRICKETOT,5
 PICHU,5
 KRICKETOT,5
 Water
+WOOPER,5
 MAGIKARP,5
-LUVDISC,5
-LUVDISC,5
-LUVDISC,5
-MUDKIP,5
+LOTAD,5
+LOTAD,5
+LOTAD,5
 #-------------------------------
 045 # Forest - Mini Falls
 25,10,10
@@ -117,7 +117,7 @@ MAGIKARP,5
 LUVDISC,5
 LUVDISC,5
 LUVDISC,5
-SOBBLE,5
+MANTYKE,5
 #-------------------------------
 046 # Forest - Depths
 25,10,10
@@ -158,10 +158,10 @@ GOSSIFLEUR,5
 GOSSIFLEUR,5
 Water
 MAGIKARP,5
-WAILMER,5
-LUVDISC,5
-LUVDISC,5
-PIPLUP,5
+WINGULL,5
+WINGULL,5
+QWILFISH,5
+QWILFISH,5
 #-------------------------------
 049 # Forest - Waterfall Fork
 25,10,10
@@ -180,10 +180,10 @@ SCYTHER,5
 SCYTHER,5
 Water
 MAGIKARP,5
-WAILMER,5
-LUVDISC,5
-LUVDISC,5
-OSHAWOTT,5
+WINGULL,5
+WINGULL,5
+QWILFISH,5
+QWILFISH,5
 #-------------------------------
 050 # Forest - Mountainside
 25,10,10
@@ -216,6 +216,12 @@ CARBINK,5
 CARBINK,5
 SABLEYE,5
 SABLEYE,5
+Water
+BARBOACH,5
+ARROKUDA,5
+ARROKUDA,5
+CLAMPERL,5
+CLAMPERL,5
 #-------------------------------
 054 # Cave - 1F
 25,10,10
@@ -232,6 +238,12 @@ CARBINK,5
 CARBINK,5
 SABLEYE,5
 SABLEYE,5
+Water
+BARBOACH,5
+ARROKUDA,5
+ARROKUDA,5
+CLAMPERL,5
+CLAMPERL,5
 #-------------------------------
 055 # Cave - B1F
 25,10,10
@@ -484,6 +496,12 @@ EISCUE,5
 EISCUE,5
 DRATINI,5
 DRATINI,5
+Water
+HORSEA,5
+CHINCHOU,5
+TYNAMO,5
+SEEL,5
+LAPRAS,5
 #-------------------------------
 072 # Mountains - Crossroads
 25,10,10

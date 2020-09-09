@@ -25429,7 +25429,7 @@ Pokedex=The teacup in which this Pokémon makes its home is a famous piece of an
 BattlerPlayerY=66
 BattlerEnemyY=61
 BattlerAltitude=0
-Evolutions=POLTEAGEIST,Level,16
+Evolutions=POLTEAGEIST,Item,CHIPPEDPOT
 #-------------------------------
 [855]
 Name=Polteageist
