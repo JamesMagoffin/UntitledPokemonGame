@@ -594,3 +594,7 @@ BattleBack=Champion
 SnapEdges=true
 BattleBack=EliteD
 ShowArea=true
+#-------------------------------
+[127]
+# Secluded Cave
+SnapEdges=true
