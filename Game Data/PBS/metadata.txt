@@ -26,7 +26,6 @@ Outdoor=false
 Outdoor=false
 #-------------------------------
 [025]
-# Post Select Void
 MapPosition=0,15,8
 Outdoor=false
 #-------------------------------
@@ -399,3 +398,7 @@ ShowArea=true
 [127]
 # Secluded Cave
 SnapEdges=true
+#-------------------------------
+[128]
+# Francis' House
+BattleBack=IndoorA
