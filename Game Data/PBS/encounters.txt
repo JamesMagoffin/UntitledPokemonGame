@@ -1,4 +1,20 @@
 #-------------------------------
+021 # Route 3
+25,10,10
+Land
+VIVILLON,5,7
+VIVILLON,5,7
+VIVILLON,5,7
+VIVILLON,5,7
+VIVILLON,5,7
+VIVILLON,5,7
+VIVILLON,5,7
+VIVILLON,5,7
+VIVILLON,5,7
+VIVILLON,5,7
+VIVILLON,5,7
+VIVILLON,5,7
+#-------------------------------
 037 # Forest - City Bridge
 25,10,10
 Land
@@ -55,7 +71,7 @@ SCYTHER,5
 Water
 LOTAD,5
 REMORAID,5
-MANTYKE,5
+POLIWAG,5
 MANTYKE,5
 MANTYKE,5
 #-------------------------------
@@ -123,7 +139,7 @@ MAGIKARP,5
 LUVDISC,5
 LUVDISC,5
 LUVDISC,5
-POPPLIO,5
+POLIWAG,5
 #-------------------------------
 047 # Forest - Waterfall View
 25,10,10
