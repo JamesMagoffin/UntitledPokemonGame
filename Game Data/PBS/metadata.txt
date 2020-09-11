@@ -18,200 +18,17 @@ WildBattleBGM=wildpokemon.ogg
 # Intro
 #-------------------------------
 [002]
-# Route 4
-BattleBack=Beach
-MapPosition=0,13,12
-Outdoor=true
-ShowArea=true
+# Select Avatar
+Outdoor=false
 #-------------------------------
 [003]
-# Abandoned House
-BattleBack=IndoorB
-MapPosition=0,13,12
-DarkMap=true
-WildBattleBGM=Battle! Legendary Pokémon.ogg
-HealingSpot=2,8,8
-#-------------------------------
-[004]
-# Old Maps
-MapPosition=0,13,12
-ShowArea=false
-#-------------------------------
-[005]
-# Meadowcove Farm
-MapPosition=0,13,11
+# Select Starter
 Outdoor=false
-ShowArea=true
-#-------------------------------
-[006]
-# Dratini Cove
-SnapEdges=false
-MapPosition=0,13,11
-Outdoor=true
-ShowArea=true
-#-------------------------------
-[007]
-# Temp Storage
-MapSize=2,11
-MapPosition=0,13,10
-Outdoor=true
-ShowArea=true
-#-------------------------------
-[008]
-# Mitelikos Town
-MapPosition=0,13,12
-#-------------------------------
-[009]
-# Route 5
-MapPosition=0,14,10
-Outdoor=true
-HealingSpot=8,17,11
-ShowArea=true
-#-------------------------------
-[010]
-# Fayriver Town (Old)
-BattleBack=IndoorB
-MapPosition=0,13,10
-Outdoor=true
-#-------------------------------
-[011]
-# Library
-MapPosition=0,14,10
-#-------------------------------
-[012]
-# PWT
-MapPosition=0,14,10
-#-------------------------------
-[013]
-# Player House
-MapPosition=0,14,10
-#-------------------------------
-[014]
-# House
-MapPosition=0,13,10
-#-------------------------------
-[015]
-# House
-MapPosition=0,13,10
-#-------------------------------
-[016]
-# House
-MapPosition=0,13,10
-#-------------------------------
-[017]
-# School
-MapPosition=0,13,10
-#-------------------------------
-[018]
-# PWT Stage
-MapPosition=0,13,10
-#-------------------------------
-[019]
-# Route 1
-BattleBack=
-Bicycle=true
-MapPosition=0,13,10
-Outdoor=true
-ShowArea=true
-#-------------------------------
-[020]
-# Berry Guy's House
-MapPosition=0,13,10
-#-------------------------------
-[021]
-# Route 3
-MapSize=1,11
-MapPosition=0,14,8
-Outdoor=true
-ShowArea=true
-#-------------------------------
-[022]
-# Route 4
-Weather=Rain,0
-Bicycle=true
-Outdoor=true
-ShowArea=true
-#-------------------------------
-[023]
-# Gate (3-4)
-MapPosition=0,15,8
-Outdoor=false
-ShowArea=false
-#-------------------------------
-[024]
-# Select Avatar
-Bicycle=false
-MapPosition=0,15,8
-DarkMap=false
-HealingSpot=23,11,15
 #-------------------------------
 [025]
 # Post Select Void
 MapPosition=0,15,8
-#-------------------------------
-[026]
-# Route 2
-MapPosition=0,15,8
-Outdoor=true
-ShowArea=true
-#-------------------------------
-[027]
-# UNUSED
-MapPosition=0,15,8
-#-------------------------------
-[028]
-# Bedroom
-BattleBack=Forest
-MapPosition=0,16,8
-Outdoor=true
-ShowArea=true
-#-------------------------------
-[029]
-# Meadowcove Farm
-Bicycle=true
-MapPosition=0,16,8
-Outdoor=true
-ShowArea=false
-#-------------------------------
-[030]
-# Zubat's Roost
-MapPosition=0,16,8
-#-------------------------------
-[031]
-# Hidden Grotto
-MapSize=2,1101
-MapPosition=0,14,6
-Outdoor=true
-WildBattleBGM=WildGrottoBW.ogg
-ShowArea=true
-#-------------------------------
-[032]
-# Greenmarsh Pokemart
-BattleBack=
-Bicycle=false
-TrainerVictoryME=VictoryTrainer.ogg
-WildVictoryME=VictoryWild.ogg
-TrainerBattleBGM=BattleTrainer.ogg
 Outdoor=false
-WildBattleBGM=BattleWild.ogg
-ShowArea=false
-#-------------------------------
-[034]
-# Hidden Grotto
-BattleBack=IndoorC
-Bicycle=true
-MapPosition=0,15,6
-#-------------------------------
-[035]
-# Hidden Grotto
-MapPosition=0,13,6
-Outdoor=true
-ShowArea=true
-#-------------------------------
-[036]
-# Hidden Grotto
-MapPosition=0,13,6
-HealingSpot=35,17,7
 #-------------------------------
 [037]
 # Forest - City Bridge
@@ -223,11 +40,9 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [038]
-# Project Yisal
 MapPosition=0,13,6
 #-------------------------------
 [039]
-# Fayriver Town Redesign
 MapSize=2,11
 MapPosition=0,11,6
 Outdoor=true
@@ -253,12 +68,10 @@ BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [042]
-# Nuvaline City
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [043]
-# Route 3
 Weather=Rain,50
 Outdoor=true
 ShowArea=true
@@ -300,7 +113,6 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [048]
-# Lilycove City - Childhood
 Bicycle=false
 Outdoor=true
 #-------------------------------
@@ -335,7 +147,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [053]
-# Cave - 1F
+# Caves - 1F
 SnapEdges=true
 Bicycle=false
 MapPosition=0,17,10
@@ -343,14 +155,14 @@ HealingSpot=52,17,14
 ShowArea=true
 #-------------------------------
 [054]
-# Cave - 1F
+# Caves - 1F
 SnapEdges=true
 Bicycle=false
 MapPosition=0,17,10
 ShowArea=true
 #-------------------------------
 [055]
-# Cave - B1F
+# Caves - B1F
 SnapEdges=true
 Bicycle=false
 MapPosition=0,17,10
@@ -358,21 +170,21 @@ HealingSpot=52,30,10
 ShowArea=true
 #-------------------------------
 [056]
-# Cave - B1F
+# Caves - B1F
 SnapEdges=true
 Bicycle=false
 MapPosition=0,17,10
 ShowArea=true
 #-------------------------------
 [057]
-# Cave - B1F
+# Caves - B1F
 SnapEdges=true
 Bicycle=false
 MapPosition=0,17,10
 ShowArea=true
 #-------------------------------
 [058]
-# Cave - B1F
+# Caves - B1F
 SnapEdges=true
 Bicycle=false
 MapPosition=0,17,10
@@ -516,13 +328,11 @@ MapPosition=1,13,16
 Outdoor=false
 #-------------------------------
 [079]
-# Dorbeach Town
 Bicycle=true
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [080]
-# Route 1
 Bicycle=true
 TrainerVictoryME=VictoryTrainer.ogg
 WildVictoryME=VictoryWild.ogg
@@ -532,61 +342,52 @@ WildBattleBGM=BattleWild.ogg
 ShowArea=true
 #-------------------------------
 [081]
-# Neighbour's House
 #-------------------------------
 [086]
-# Greenmarsh Town
 Bicycle=true
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
 #-------------------------------
 [087]
-# Route 2
 SnapEdges=false
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [088]
-# Zubat Cave
 DarkMap=false
 #-------------------------------
 [090]
-# Eevee's Garden
 BattleBack=
 TrainerBattleBGM=Battle! Kalos.ogg
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [097]
-# Nuvaline Beach
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [099]
-# Sagacity Lake
 BattleBack=
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [105]
-# Nuvaline Gym
 BattleBack=Forest
 #-------------------------------
 [106]
-# Hidden Grotto
 Outdoor=true
 #-------------------------------
 [114]
-# Battle Dojo (GymLeader)
+# World Gauntlet - Gym Leader
 BattleBack=IndoorA
 #-------------------------------
 [115]
-# Battle Dojo (E4)
+# World Gauntlet - E4
 BattleBack=EliteD
 #-------------------------------
 [117]
-# Battle Dojo (Champion)
+# World Gauntlet - Champion
 BattleBack=Champion
 #-------------------------------
 [120]
