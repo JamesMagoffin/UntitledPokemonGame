@@ -499,8 +499,8 @@ DRATINI,5
 Water
 HORSEA,5
 CHINCHOU,5
-TYNAMO,5
 SEEL,5
+DRATINI,5
 LAPRAS,5
 #-------------------------------
 072 # Mountains - Crossroads
