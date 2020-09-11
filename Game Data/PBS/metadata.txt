@@ -402,3 +402,4 @@ SnapEdges=true
 [128]
 # Francis' House
 BattleBack=IndoorA
+Outdoor=false
