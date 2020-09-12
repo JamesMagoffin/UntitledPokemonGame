@@ -664,7 +664,7 @@
 760,MEGARING,Mega Ring,Mega Rings,8,0,"This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve in battle.",0,0,6,
 761,LAPRASITE,Laprasite,Laprasites,1,1000,"One of the mysterious Mega Stones. Have Lapras hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
 762,GARBODORITE,Garbodorite,Garbodorites,1,1000,"One of the mysterious Mega Stones. Have Garbodor hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
-763,AQUABIKE,Aqua Bike,Aqua Bikes,8,0,"A folding Bicycle that allows you to bike on water.",2,0,6,
+763,AQUABIKE,Aqua Bike,Aqua Bikes,8,0,"A folding Bicycle that allows you to bike on water.",0,0,6,
 764,HOMEKEY,Home Key,Home Keys,8,0,"This key unlocks your home.",0,0,6,
 765,PIXIEDUST,Pixie Dust,Pixie Dusts,1,1000,"An item to be held by a Pokémon. It is a bag of pink dust that boosts Fairy-type moves.",0,0,0,
 766,RILLABOOMITE,Rillaboomite,Rillaboomites,1,1000,"One of the mysterious Mega Stones. Have Rillaboom hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
