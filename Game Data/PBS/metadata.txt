@@ -53,6 +53,7 @@ SnapEdges=true
 Bicycle=true
 MapPosition=0,11,6
 Outdoor=true
+HealingSpot=40,14,9
 BicycleAlways=false
 ShowArea=true
 #-------------------------------
@@ -82,6 +83,7 @@ SnapEdges=true
 Bicycle=true
 MapPosition=0,11,10
 Outdoor=true
+HealingSpot=44,14,12
 ShowArea=true
 #-------------------------------
 [045]
@@ -131,6 +133,7 @@ Bicycle=true
 MapPosition=0,16,10
 DarkMap=false
 Outdoor=true
+HealingSpot=50,18,11
 ShowArea=true
 #-------------------------------
 [051]
@@ -165,13 +168,13 @@ ShowArea=true
 SnapEdges=true
 Bicycle=false
 MapPosition=0,17,10
-HealingSpot=52,30,10
 ShowArea=true
 #-------------------------------
 [056]
 # Caves - B1F
 SnapEdges=true
 Bicycle=false
+HealingSpot=56,13,19
 MapPosition=0,17,10
 ShowArea=true
 #-------------------------------
@@ -179,6 +182,7 @@ ShowArea=true
 # Caves - B1F
 SnapEdges=true
 Bicycle=false
+HealingSpot=57,27,22
 MapPosition=0,17,10
 ShowArea=true
 #-------------------------------
@@ -186,6 +190,7 @@ ShowArea=true
 # Caves - B1F
 SnapEdges=true
 Bicycle=false
+HealingSpot=58,3,28
 MapPosition=0,17,10
 ShowArea=true
 #-------------------------------
@@ -196,6 +201,7 @@ BattleBack=Forest
 Bicycle=true
 MapPosition=0,17,10
 Outdoor=true
+HealingSpot=59,7,20
 ShowArea=true
 #-------------------------------
 [060]
@@ -231,6 +237,7 @@ SnapEdges=true
 BattleBack=Forest
 Bicycle=true
 MapPosition=0,17,10
+HealingSpot=63,25,10
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -240,6 +247,7 @@ SnapEdges=true
 BattleBack=Forest
 Bicycle=true
 MapPosition=0,17,10
+HealingSpot=64,5,23
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -257,6 +265,7 @@ ShowArea=true
 # Mountains - Stairway
 SnapEdges=true
 BattleBack=Snow
+Bicycle=true
 Weather=Snow,100
 MapPosition=0,12,12
 Outdoor=true
@@ -266,8 +275,10 @@ ShowArea=true
 # Mountains - Frozen Lakes
 SnapEdges=true
 BattleBack=Snow
+Bicycle=true
 Weather=Snow,100
 MapPosition=0,12,12
+HealingSpot=68,61,12
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -275,6 +286,7 @@ ShowArea=true
 # Mountains - Ravine
 SnapEdges=true
 BattleBack=Snow
+Bicycle=true
 Weather=Snow,100
 MapPosition=0,13,13
 Outdoor=true
@@ -284,6 +296,7 @@ ShowArea=true
 # Mountains - Village
 SnapEdges=true
 BattleBack=Snow
+Bicycle=true
 Weather=Snow,100
 MapPosition=0,13,13
 Outdoor=true
@@ -293,8 +306,10 @@ ShowArea=true
 # Mountains - Waterfall
 SnapEdges=true
 BattleBack=Snow
+Bicycle=true
 Weather=Snow,100
 MapPosition=0,13,13
+HealingSpot=71,18,13
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -302,6 +317,7 @@ ShowArea=true
 # Mountains - Crossroads
 SnapEdges=true
 BattleBack=Snow
+Bicycle=true
 Weather=Snow,100
 MapPosition=0,18,17
 Outdoor=true
@@ -311,6 +327,7 @@ ShowArea=true
 # Mountains - Peak
 SnapEdges=true
 BattleBack=Snow
+Bicycle=true
 Weather=Snow,100
 MapPosition=0,22,16
 Outdoor=true
