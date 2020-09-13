@@ -181,7 +181,7 @@ SCYTHER,5
 Water
 MAGIKARP,5
 WINGULL,5
-WINGULL,5
+WAILMER,5
 QWILFISH,5
 QWILFISH,5
 #-------------------------------

@@ -1311,60 +1311,6 @@ BattlerEnemyY=19
 BattlerPlayerY=13
 BattlerAltitude=0
 #-------------------------------
-[FURFROU-1]
-FormName=Star Trim
-BattlerPlayerY=16
-BattlerEnemyY=20
-BattlerAltitude=0
-#-------------------------------
-[FURFROU-2]
-FormName=Heart Trim
-BattlerPlayerY=16
-BattlerEnemyY=20
-BattlerAltitude=0
-#-------------------------------
-[FURFROU-3]
-FormName=Pharaoh Trim
-BattlerPlayerY=16
-BattlerEnemyY=18
-BattlerAltitude=0
-#-------------------------------
-[FURFROU-4]
-FormName=Matron Trim
-BattlerPlayerY=15
-BattlerEnemyY=21
-BattlerAltitude=0
-#-------------------------------
-[FURFROU-5]
-FormName=Dandy Trim
-BattlerPlayerY=16
-BattlerEnemyY=21
-BattlerAltitude=0
-#-------------------------------
-[FURFROU-6]
-FormName=Kabuki Trim
-BattlerPlayerY=16
-BattlerEnemyY=21
-BattlerAltitude=0
-#-------------------------------
-[FURFROU-7]
-FormName=La Reine Trim
-BattlerPlayerY=16
-BattlerEnemyY=22
-BattlerAltitude=0
-#-------------------------------
-[FURFROU-8]
-FormName=Debutante Trim
-BattlerEnemyY=22
-BattlerPlayerY=14
-BattlerAltitude=0
-#-------------------------------
-[FURFROU-9]
-FormName=Diamond Trim
-BattlerPlayerY=16
-BattlerEnemyY=22
-BattlerAltitude=0
-#-------------------------------
 [AEGISLASH-1]
 FormName=Blade Forme
 BaseStats=60,150,50,60,150,50
