@@ -1,4 +1,4 @@
-﻿#-------------------------------
+#-------------------------------
 [1]
 Name=Bulbasaur
 InternalName=BULBASAUR
@@ -9044,7 +9044,7 @@ RegionalNumbers=286,213
 Kind=Deceiver
 Pokedex=Its giant jaws are actually steel horns that transformed. It fools foes into complacency with its adorable gestures, then chomps them with its huge jaws.
 WildItemUncommon=IRONBALL
-BattlerPlayerY=65
+BattlerPlayerY=63
 BattlerEnemyY=63
 BattlerAltitude=0
 Evolutions=

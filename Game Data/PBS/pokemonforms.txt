@@ -816,7 +816,7 @@ BaseStats=50,105,125,50,55,95
 Abilities=HUGEPOWER
 Height=1.0
 Weight=23.5
-BattlerPlayerY=36
+BattlerPlayerY=27
 BattlerEnemyY=35
 BattlerAltitude=0
 #-------------------------------
