@@ -2543,3 +2543,29 @@ BattlerPlayerY=34
 BattlerEnemyY=28
 BattlerAltitude=0
 #-------------------------------
+[BUTTERFREE-1]
+FormName=Mega Butterfree
+MegaStone=BUTTERFRITE
+Type1=BUG
+Type2=FAIRY
+BaseStats=70,45,70,90,120,100
+Abilities=TINTEDLENS
+Weight=34
+BattlerPlayerY=43
+BattlerEnemyY=48
+BattlerAltitude=31
+#-------------------------------
+[MACHAMP-1]
+FormName=Mega Machamp
+MegaStone=MACHAMPITE
+Type1=FIGHTING
+Type2=
+BaseStats=110,150,100,65,75,105
+Abilities=SCRAPPY
+Weight=160.0
+Height=2.0	
+BattlerPlayerY=28
+BattlerEnemyY=39
+BattlerAltitude=0
+#-------------------------------
+
