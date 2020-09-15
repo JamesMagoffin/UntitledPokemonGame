@@ -56,3 +56,20 @@ def pbEggRoulette
   pbEggIV # Randomized IV range is applied
   return true
 end
+
+def pbEggRouletteSpecial
+  tier = Array.new
+  draw = 1 + rand(99)
+  if draw.between?(1, 25)
+    tier.concat(SUPERRARE)
+  elsif draw.between?(26, 60)
+    tier.concat(RARE)
+  elsif draw.between?(61, 100)
+    tier.concat(UNCOMMON)
+  end
+    species = tier[rand(tier.length)]
+    pbGenerateEgg(species) # Egg of selected species is generated
+    pbEggShiny # Increased shiny rate is applied 
+    pbEggIV # Randomized IV range is applied
+  return true
+end
