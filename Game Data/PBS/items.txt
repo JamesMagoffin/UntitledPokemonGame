@@ -708,6 +708,55 @@
 804,ALCREMITE,Alcremite,Alcremites,6,0,"One of the mysterious Mega Stones. Have Alcremie hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
 805,COPPERAJITE,Copperajite,Copperajites,6,0,"One of the mysterious Mega Stones. Have Copperajah hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
 806,DURALUDONITE,Duraludonite,Duraludonites,6,0,"One of the mysterious Mega Stones. Have Duraludon hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
+807,TM101,TM101,TM101s,4,1500,"""The target is blasted by a huge volume of water launched under great pressure.""",3,0,0,HYDROPUMP
+808,TM102,TM102,TM102s,4,1500,"""The user lands and rests its body. It restores the user's HP by up to half of its max HP.""",3,0,0,ROOST
+809,TM103,TM103,TM103s,4,1500,"""The user wraps its foe in a fierce wind that flies up into the sky. It may also confuse the foe.""",3,0,0,HURRICANE
+810,TM104,TM104,TM104s,4,1500,"""The user tucks in its wings and charges from a low altitude. The user also takes serious damage.""",3,0,0,BRAVEBIRD
+811,TM105,TM105,TM105s,4,1500,"""The user rampages and attacks for two to three turns. It then becomes confused, however.""",3,0,0,OUTRAGE
+812,TM106,TM106,TM106s,4,1500,"""Numerous coins are hurled at the target to inflict damage. Money is earned after battle.""",3,0,0,PAYDAY
+813,TM107,TM107,TM107s,4,1500,"""The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.""",3,0,0,EARTHPOWER
+814,TM108,TM108,TM108s,4,1500,"""The user attacks with a gust of chilled air. It also lowers the targets' Speed stat.""",3,0,0,ICYWIND
+815,TM109,TM109,TM109s,4,1500,"""The user shoots filthy garbage at the target to attack. It may also poison the target.""",3,0,0,GUNKSHOT
+816,TM110,TM110,TM110s,4,1500,"""The user switches places with a party Pokémon in waiting, passing along any stat changes.""",3,0,0,BATONPASS
+817,TM111,TM111,TM111s,4,1500,"""The user focuses its willpower to its head and attacks the foe. It may also make the target flinch.""",3,0,0,ZENHEADBUTT
+818,TM112,TM112,TM112s,4,1500,"""An all-out attack that becomes more powerful the less HP the user has.""",3,0,0,REVERSAL
+819,TM113,TM113,TM113s,4,1500,"""The user crunches up the target with sharp fangs. It may also lower the target's Defense stat.""",3,0,0,CRUNCH
+820,TM114,TM114,TM114s,4,1500,"""The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats.""",3,0,0,DRAGONDANCE
+821,TM115,TM115,TM115s,4,1500,"""The user attacks with a ray of light that sparkles as if it were made of gemstones.""",3,0,0,POWERGEM
+822,TM116,TM116,TM116s,4,1500,"""The user vibrates its wings to generate a damaging sound wave. It may also lower the target's Sp. Def stat.""",3,0,0,BUGBUZZ
+823,TM117,TM117,TM117s,4,1500,"""The user charges at the target and may make it flinch.""",3,0,0,WATERFALL
+824,TM118,TM118,TM118s,4,1500,"""The target is slammed with a steel-hard tail. It may also lower the target's Defense stat.""",3,0,0,IRONTAIL
+825,TM119,TM119,TM119s,4,1500,"""The user looses a blast of aura power from deep within its body. This move is certain to hit.""",3,0,0,AURASPHERE
+826,TM120,TM120,TM120s,4,1500,"""The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.""",3,0,0,SPIKES
+827,TM121,TM121,TM121s,4,1500,"""The user launches a kick with a high critical-hit ratio. It may also leave the target with a burn.""",3,0,0,BLAZEKICK
+828,TM122,TM122,TM122s,4,1500,"""A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.""",3,0,0,LOWKICK
+829,TM123,TM123,TM123s,4,1500,"""The user attacks by shooting muddy water at the opposing team. It may also lower the target's accuracy.""",3,0,0,MUDDYWATER
+830,TM124,TM124,TM124s,4,1500,"""While it is asleep, the user randomly uses one of the moves it knows.""",3,0,0,SLEEPTALK
+831,TM125,TM125,TM125s,4,1500,"""The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.""",3,0,0,STEALTHROCK
+832,TM126,TM126,TM126s,4,1500,"""The user attacks by exhaling hot breath on the opposing team. It may also leave targets with a burn.""",3,0,0,HEATWAVE
+833,TM127,TM127,TM127s,4,1500,"""The user cloaks itself in fire and charges at the foe. The user also takes damage and may burn the target.""",3,0,0,FLAREBLITZ
+834,TM128,TM128,TM128s,4,1500,"""The target is attacked by a kick launched with muscle-packed power.""",3,0,0,MEGAKICK
+835,TM129,TM129,TM129s,4,1500,"""The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.""",3,0,0,DARKPULSE
+836,TM130,TM130,TM130s,4,1500,"""The user slams a barrage of hard-shelled seeds down on the target from above.""",3,0,0,SEEDBOMB
+837,TM131,TM131,TM131s,4,1500,"""The user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle.""",3,0,0,TOXICSPIKES
+838,TM132,TM132,TM132s,4,1500,"""The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.""",3,0,0,AGILITY
+839,TM133,TM133,TM133s,4,1500,"""The target is attacked with a shock wave generated by the user's gaping mouth.""",3,0,0,DRAGONPULSE
+840,TM134,TM134,TM134s,4,1500,"""The user crashes into its target while rotating its body like a drill. Critical hits land more easily.""",3,0,0,DRILLRUN
+841,TM135,TM135,TM135s,4,1500,"""A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.""",3,0,0,GIGADRAIN
+842,TM136,TM136,TM136s,4,1500,"""The user lets loose a horribly echoing shout with the power to inflict damage.""",3,0,0,HYPERVOICE
+843,TM137,TM137,TM137s,4,1500,"""The user fights the foe up close without guarding itself. It also cuts the user's Defense and Sp. Def.""",3,0,0,CLOSECOMBAT
+844,TM138,TM138,TM138s,4,1500,"""The target is hit with wings of steel. It may also raise the user's Defense stat.""",3,0,0,STEELWING
+845,TM139,TM139,TM139s,4,1500,"""The user turns the foe's power against it. It does more damage the higher the target's Attack stat.""",3,0,0,FOULPLAY
+846,TM140,TM140,TM140s,4,1500,"""The user slams the foe with its flaming body. The heavier the user is, the greater the damage.""",3,0,0,HEATCRASH
+847,TM141,TM141,TM141s,4,1500,"""Using its tough and impressive horn, the user rams into the target with no letup.""",3,0,0,MEGAHORN
+848,TM142,TM142,TM142s,4,1500,"""The user slams into the foe with its heavy body. The heavier the user, the greater the damage.""",3,0,0,HEAVYSLAM
+849,TM143,TM143,TM143s,4,1500,"""It swamps the area around the user with a giant wave. It can also be used for crossing water.""",3,0,0,SURF
+850,TM144,TM144,TM144s,4,1500,"""The target is thrown using the power of gravity. It inflicts damage equal to the user's level.""",3,0,0,SEISMICTOSS
+851,TM145,TM145,TM145s,4,1500,"""The foe slams the target with its steel-hard head. It may also make the target flinch.""",3,0,0,IRONHEAD
+852,TM146,TM146,TM146s,4,1500,"""The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.""",3,0,0,NASTYPLOT
+853,TM147,TM147,TM147s,4,1500,"""The user handles a sharp leaf like a sword and attacks by slashing. It has a high critical-hit ratio.""",3,0,0,LEAFBLADE
+854,TM148,TM148,TM148s,4,1500,"""The user compels the target to keep using only the move it last used for three turns.""",3,0,0,ENCORE
+855,TM149,TM149,TM149s,4,1500,"""A storm of sharp is whipped up. The attack's recoil harshly reduces the user's Sp. Atk stat.""",3,0,0,LEAFSTORM
 1000,EXPALL,Exp. Share,Exp. Shares,8,0,"Turning on this special device will allow all the Pokémon on your team to receive Exp. Points from battles.",2,0,6,
 1001,EXPALLOFF,Exp. Share,Exp. Shares,8,0,"Turning on this special device will allow all the Pokémon on your team to receive Exp. Points from battles.",2,0,6,
 1002,OAKSPARCEL,Oak's Parcel,Oak's Parcels,8,0,"A parcel to be delivered to Prof. Oak from Viridian City's Pokémon Mart.",0,0,6,
