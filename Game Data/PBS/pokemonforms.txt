@@ -1522,18 +1522,6 @@ Pokedex=The stalks of leeks are thicker and longer in the Galar region. Farfetch
 BattlerPlayerY=61
 Evolutions=SIRFETCHD,Level,32
 #-------------------------------
-[TOXEL-1]
-BattlerPlayerY=23
-BattlerEnemyY=27
-#-------------------------------
-[TOXTRICITY-1]
-FormName=Low Key Form
-Abilities=PUNKROCK,MINUS
-HiddenAbility=TECHNICIAN
-Moves=0,SPARK,1,SPARK,1,EERIEIMPULSE,1,BELCH,1,TEARFULLOOK,1,NUZZLE,1,GROWL,1,FLAIL,1,ACID,1,THUNDERSHOCK,1,ACIDSPRAY,1,LEER,1,NOBLEROAR,4,CHARGE,8,SHOCKWAVE,12,SCARYFACE,16,TAUNT,20,VENOMDRENCH,24,SCREECH,28,SWAGGER,32,TOXIC,36,DISCHARGE,40,POISONJAB,44,OVERDRIVE,48,BOOMBURST,52,MAGNETICFLUX
-Pokedex=Capable of generating 15,000 volts of electricity, this Pokémon looks down on all that would challenge it.
-BattlerPlayerY=19
-#-------------------------------
 [SINISTEA-1]
 FormName=Antique Form
 Pokedex=It absorbs the life-force of those who drink it. It waits patiently, but opportunities are fleeting—it tastes so bad that it gets spat out immediately.
@@ -2100,7 +2088,7 @@ Weight=34.5
 BattlerPlayerY=21
 BattlerEnemyY=16
 #-------------------------------
-[TOXTRICITY-2]
+[TOXTRICITY-1]
 FormName=Mega Toxtricity
 MegaStone=TOXTRICINITE
 Type1=GROUND
