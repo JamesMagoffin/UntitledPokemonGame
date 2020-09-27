@@ -1,5 +1,113 @@
 #-------------------------------
-021 # Route 3
+006 # Fairy Garden - Wellspring
+25,10,10
+Land
+BOUNSWEET,5
+MARILL,5
+BOUNSWEET,5
+COMFEY,5
+MORELULL,5
+FLABEBE,5
+FLABEBE,5
+DEDENNE,5
+CLEFFA,5
+CLEFFA,5
+DEDENNE,5
+DEDENNE,5
+#-------------------------------
+007 # Fairy Garden - Lakefront
+25,10,10
+Land
+MARILL,5
+SEWADDLE,5
+SNUBBULL,5
+SNUBBULL,5
+FLABEBE,5
+FLABEBE,5
+SEWADDLE,5
+COTTONEE,5
+COMFEY,5
+COMFEY,5
+COTTONEE,5
+COTTONEE,5
+#-------------------------------
+008 # Fairy Garden - Botanical Gardens
+25,10,10
+Land
+MILCERY,5
+PETILIL,5
+SPOINK,5
+SPOINK,5
+MUNNA,5
+MIMEJR,5
+MUNNA,5
+MIMEJR,5
+SWIRLIX,5
+SPRITZEE,5
+SWIRLIX,5
+SPRITZEE,5
+#-------------------------------
+009 # Fairy Garden - Fae Crossing
+25,10,10
+Land
+RALTS,5
+CUTIEFLY,5
+MARILL,5
+COMFEY,5
+SOLOSIS,5
+CLEFFA,5
+SOLOSIS,5
+COMFEY,5
+BOUNSWEET,5
+BOUNSWEET,5
+MUNNA,5
+MUNNA,5
+Water
+GOLDEEN,5
+ALOMOMOLA,5
+CORSOLA,5
+CORSOLA,5
+CORSOLA,5
+#-------------------------------
+010 # Fairy Garden - Descent
+25,10,10
+Land
+IGGLYBUFF,5
+HATENNA,5
+DEDENNE,5
+MORELULL,5
+GOTHITA,5
+MORELULL,5
+GOTHITA,5
+PETILIL,5
+SPOINK,5
+SPOINK,5
+MUNNA,5
+MUNNA,5
+#-------------------------------
+011 # Fairy Garden - Battle Plaza
+25,10,10
+Land
+HATENNA,5
+RALTS,5
+MARILL,5
+GOTHITA,5
+SEWADDLE,5
+COTTONEE,5
+MIMEJR,5
+SPOINK,5
+MUNNA,5
+MORELULL,5
+BOUNSWEET,5
+CLEFFA,5
+Water
+DEWPIDER,5
+MANTYKE,5
+STARYU,5
+BRUXISH,5
+BRUXISH,5
+#-------------------------------
+021
 25,10,10
 Land
 VIVILLON,5,7
@@ -115,7 +223,7 @@ AIPOM,5
 Water
 MAGIKARP,5
 LUVDISC,5
-CARVANHA,5		 
+CARVANHA,5
 LUVDISC,5
 MANTYKE,5
 #-------------------------------
@@ -201,7 +309,7 @@ PANCHAM,5
 SCYTHER,5
 GIBLE,5
 #-------------------------------
-053 # Cave - 1F
+053 # Caves - 1F
 25,10,10
 Cave
 ZUBAT,5
@@ -223,7 +331,7 @@ SLOWPOKE,5
 CLAMPERL,5
 CLAMPERL,5
 #-------------------------------
-054 # Cave - 1F
+054 # Caves - 1F
 25,10,10
 Cave
 ZUBAT,5
@@ -245,7 +353,7 @@ SLOWPOKE,5
 CLAMPERL,5
 CLAMPERL,5
 #-------------------------------
-055 # Cave - B1F
+055 # Caves - B1F
 25,10,10
 Cave
 DIGLETT,5
@@ -261,7 +369,7 @@ RIOLU,5
 ARON,5
 RIOLU,5
 #-------------------------------
-056 # Cave - B1F
+056 # Caves - B1F
 25,10,10
 Cave
 DIGLETT,5
@@ -277,7 +385,7 @@ KOFFING,5
 SIZZLIPEDE,5
 SIZZLIPEDE,5
 #-------------------------------
-057 # Cave - B1F
+057 # Caves - B1F
 25,10,10
 Cave
 KOFFING,5
@@ -293,7 +401,7 @@ FERROSEED,5
 LARVITAR,5
 FERROSEED,5
 #-------------------------------
-058 # Cave - B1F
+058 # Caves - B1F
 25,10,10
 Cave
 ROGGENROLA,5

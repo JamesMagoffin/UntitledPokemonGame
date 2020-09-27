@@ -1,0 +1,12 @@
+# Fairy Garden - Lakefront (7) - Fairy Garden - Wellspring (6)
+7,West,0,6,East,0
+# Fairy Garden - Descent (10) - Fairy Garden - Wellspring (6)
+10,North,0,6,South,24
+# Fairy Garden - Botanical Gardens (8) - Fairy Garden - Lakefront (7)
+8,West,0,7,East,0
+# Fairy Garden - Descent (10) - Fairy Garden - Lakefront (7)
+10,North,32,7,South,0
+# Fairy Garden - Fae Crossing (9) - Fairy Garden - Botanical Gardens (8)
+9,East,0,8,West,43
+# Fairy Garden - Descent (10) - Fairy Garden - Fae Crossing (9)
+10,East,5,9,West,0

@@ -25,6 +25,37 @@ Outdoor=false
 # Select Starter
 Outdoor=false
 #-------------------------------
+[006]
+# Fairy Garden - Wellspring
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[007]
+# Fairy Garden - Lakefront
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[008]
+# Fairy Garden - Botanical Gardens
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[009]
+# Fairy Garden - Fae Crossing
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[010]
+# Fairy Garden - Descent
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[011]
+# Fairy Garden - Battle Plaza
+SnapEdges=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
 [025]
 MapPosition=0,15,8
 Outdoor=false
@@ -50,20 +81,20 @@ ShowArea=true
 [040]
 # Forest - Little Pond
 SnapEdges=true
-Bicycle=true
 Weather=Rain,10
+Bicycle=true
 MapPosition=0,11,6
 Outdoor=true
-HealingSpot=40,14,9
 BicycleAlways=false
+HealingSpot=40,14,9
 ShowArea=true
 #-------------------------------
 [041]
 # Forest - Lakeside
 MapSize=1,111
 SnapEdges=true
-Bicycle=true
 Weather=Rain,30
+Bicycle=true
 MapPosition=0,11,7
 Outdoor=true
 BicycleAlways=false
@@ -82,8 +113,8 @@ ShowArea=true
 # Forest - Cabins
 MapSize=2,11
 SnapEdges=true
-Bicycle=true
 Weather=Rain,10
+Bicycle=true
 MapPosition=0,11,10
 Outdoor=true
 HealingSpot=44,14,12
@@ -92,8 +123,8 @@ ShowArea=true
 [045]
 # Forest - Mini Falls
 SnapEdges=true
-Bicycle=true
 Weather=Rain,20
+Bicycle=true
 MapPosition=0,11,10
 Outdoor=true
 BicycleAlways=false
@@ -102,8 +133,8 @@ ShowArea=true
 [046]
 # Forest - Depths
 SnapEdges=true
-Bicycle=true
 Weather=Rain,10
+Bicycle=true
 MapPosition=0,12,6
 Outdoor=true
 ShowArea=true
@@ -113,8 +144,8 @@ ShowArea=true
 MapSize=2,11
 SnapEdges=true
 BattleBack=
-Bicycle=true
 Weather=Rain,30
+Bicycle=true
 MapPosition=0,15,10
 Outdoor=true
 ShowArea=true
@@ -126,8 +157,8 @@ Outdoor=true
 [049]
 # Forest - Waterfall Fork
 SnapEdges=true
-Bicycle=true
 Weather=Rain,30
+Bicycle=true
 MapPosition=0,16,10
 Outdoor=true
 ShowArea=true
@@ -136,8 +167,8 @@ ShowArea=true
 # Forest - Mountainside
 SnapEdges=true
 BattleBack=
-Bicycle=true
 Weather=Rain,10
+Bicycle=true
 MapPosition=0,16,10
 DarkMap=false
 Outdoor=true
@@ -182,24 +213,24 @@ ShowArea=true
 # Caves - B1F
 SnapEdges=true
 Bicycle=false
-HealingSpot=56,13,19
 MapPosition=0,17,10
+HealingSpot=56,13,19
 ShowArea=true
 #-------------------------------
 [057]
 # Caves - B1F
 SnapEdges=true
 Bicycle=false
-HealingSpot=57,27,22
 MapPosition=0,17,10
+HealingSpot=57,27,22
 ShowArea=true
 #-------------------------------
 [058]
 # Caves - B1F
 SnapEdges=true
 Bicycle=false
-HealingSpot=58,3,28
 MapPosition=0,17,10
+HealingSpot=58,3,28
 ShowArea=true
 #-------------------------------
 [059]
@@ -245,8 +276,8 @@ SnapEdges=true
 BattleBack=Forest
 Bicycle=true
 MapPosition=0,17,10
-HealingSpot=63,25,10
 Outdoor=true
+HealingSpot=63,25,10
 ShowArea=true
 #-------------------------------
 [064]
@@ -255,8 +286,8 @@ SnapEdges=true
 BattleBack=Forest
 Bicycle=true
 MapPosition=0,17,10
-HealingSpot=64,5,23
 Outdoor=true
+HealingSpot=64,5,23
 ShowArea=true
 #-------------------------------
 [065]
@@ -273,8 +304,8 @@ ShowArea=true
 # Mountains - Stairway
 SnapEdges=true
 BattleBack=Snow
-Bicycle=true
 Weather=Snow,100
+Bicycle=true
 MapPosition=0,12,12
 Outdoor=true
 ShowArea=true
@@ -283,19 +314,19 @@ ShowArea=true
 # Mountains - Frozen Lakes
 SnapEdges=true
 BattleBack=Snow
-Bicycle=true
 Weather=Snow,100
+Bicycle=true
 MapPosition=0,12,12
-HealingSpot=68,61,12
 Outdoor=true
+HealingSpot=68,61,12
 ShowArea=true
 #-------------------------------
 [069]
 # Mountains - Ravine
 SnapEdges=true
 BattleBack=Snow
-Bicycle=true
 Weather=Snow,100
+Bicycle=true
 MapPosition=0,13,13
 Outdoor=true
 ShowArea=true
@@ -304,8 +335,8 @@ ShowArea=true
 # Mountains - Village
 SnapEdges=true
 BattleBack=Snow
-Bicycle=true
 Weather=Snow,100
+Bicycle=true
 MapPosition=0,13,13
 Outdoor=true
 ShowArea=true
@@ -314,19 +345,19 @@ ShowArea=true
 # Mountains - Waterfall
 SnapEdges=true
 BattleBack=Snow
-Bicycle=true
 Weather=Snow,100
+Bicycle=true
 MapPosition=0,13,13
-HealingSpot=71,18,13
 Outdoor=true
+HealingSpot=71,18,13
 ShowArea=true
 #-------------------------------
 [072]
 # Mountains - Crossroads
 SnapEdges=true
 BattleBack=Snow
-Bicycle=true
 Weather=Snow,100
+Bicycle=true
 MapPosition=0,18,17
 Outdoor=true
 ShowArea=true
@@ -335,8 +366,8 @@ ShowArea=true
 # Mountains - Peak
 SnapEdges=true
 BattleBack=Snow
-Bicycle=true
 Weather=Snow,100
+Bicycle=true
 MapPosition=0,22,16
 Outdoor=true
 ShowArea=true
@@ -403,15 +434,15 @@ BattleBack=Forest
 Outdoor=true
 #-------------------------------
 [114]
-# World Gauntlet - Gym Leader
+# Battle Gauntlet - Gym Leader
 BattleBack=IndoorA
 #-------------------------------
 [115]
-# World Gauntlet - E4
+# Battle Gauntlet - E4
 BattleBack=EliteD
 #-------------------------------
 [117]
-# World Gauntlet - Champion
+# Battle Gauntlet - Champion
 BattleBack=Champion
 #-------------------------------
 [120]
